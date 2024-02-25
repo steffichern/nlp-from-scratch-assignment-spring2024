@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import random
+import pandas as pd
 
 def parseHTMLtoQA(
     html_content="Carnegie Mellon University - Full Schedule Of Classes.html", 
@@ -77,3 +78,51 @@ def parseHTMLtoQA(
         a_file.write("\n".join(answers))
 
     print("Done! Files created successfully.")
+    
+    
+def parseEXCELtoQA(
+    excel_path="2324-academic-calendar-list-view.xlsx", 
+    questions_events_path_="questions_events_filtered.txt",
+    answers_events_path="reference_answers_events_filtered.txt"):
+
+    # Load the Excel file
+    df = pd.read_excel(excel_path)
+    df_cleaned = df.iloc[4:, [0, 4]].dropna()  # Skipping header rows and selecting only date and event columns
+    df_cleaned.columns = ['Date', 'Event']  # Renaming columns for clarity
+    
+    # Attempt to convert 'Date' column to datetime, but ignore errors and keep original values for inspection
+    df_cleaned['Date'] = pd.to_datetime(df_cleaned['Date'], errors='coerce')
+
+    # Filter out rows where 'Date' conversion to datetime was unsuccessful (NaT values)
+    df_filtered = df_cleaned.dropna(subset=['Date'])
+
+    # Convert 'Date' back to date format (without time component) for the remaining valid rows
+    df_filtered['Date'] = df_filtered['Date'].dt.date
+
+    # Now, let's randomly select 50 events from the filtered dataframe
+    selected_events_filtered = df_filtered.sample(n=min(50, len(df_filtered)), random_state=1)
+
+    # Generate questions and answers for the filtered events
+    questions_events_filtered = []
+    answers_events_filtered = []
+
+    for index, row in selected_events_filtered.iterrows():
+        question_type = random.choice(["date", "event"])
+        if question_type == "date":
+            questions_events_filtered.append(f"When is {row['Event']}?")
+            answers_events_filtered.append(row["Date"].strftime('%m/%d/%Y'))
+        elif question_type == "event":
+            questions_events_filtered.append(f"What is happening on {row['Date'].strftime('%m/%d/%Y')}?")
+            answers_events_filtered.append(row["Event"])
+
+    with open(questions_events_path_, "w+") as qef_file:
+        qef_file.write("\n".join(questions_events_filtered))
+
+    with open(answers_events_path, "w+") as aef_file:
+        aef_file.write("\n".join(answers_events_filtered))
+        
+    print("Done! Files created successfully.")
+    
+
+
+    

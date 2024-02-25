@@ -248,3 +248,13 @@ When is Semester course drop deadline; withdrawal grade assigned after this date
 When is Final Examinations ?
 What is happening on 06/20/2024?
 What is happening on 11/27/2023?
+Does LTI offers PhD programs?
+Does LTI offers Master's programs?
+Does LTI offers undergraduate programs?
+Which department offers Ph.D. in Language and Information Technology?
+Which department offers Dual-Degree Ph.D. in Language and Information Technologies (Portugal Partnership)?
+Which department offers Master of Language Technologies?
+Which department offers Master of Science in Intelligent Information Systems (MIIS)?
+Which department offers Master of Computational Data Science (MCDS)?
+Which department offers Master of Science in Artificial Intelligence and Innovation (MSAII)?
+Which department offers LT Concentration?

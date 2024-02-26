@@ -1,0 +1,50 @@
+Carolyn Penstein Rose
+Carolyn Penstein Rose
+cprose@cs.cmu.edu
+Professor of Language Technologies and Human-Computer Interaction
+Interim Director, Language Technologies Institute
+Carnegie Mellon University
+Language Technologies Institute
+and HCI Institute
+Gates-Hillman Center 5415
+5000 Forbes Ave.
+Pittsburgh, PA 15213-3891
++1 (412) 268-7130 (W)
++1 (412) 268-6298 (F)
+Projects: Projects.html
+Teaching: Teaching.html
+Selected Publications: Selected Publications
+Full CV:
+CV-Rose-2021-public.pdf
+My Group:
+MyGroup.html
+Recent Press Coverage:
+EdX Satellite Working Group:
+DANCE , which you can join
+here.
+Personal:
+Stuff about Me
+Past President and Inaugural Fellow of
+The International Society of the Learning Sciences
+AAAS Lesherner Leadership Fellow for Public Engagement with Science:
+AI Cohort
+Co-Editor-in-Chief of
+the International Journal of Computer Supported Collaborative Learning
+Statement of Career Goals
+Language Technologies Institute
+and the
+Human-Computer Interaction Institute, as well as to direct a lab of my own, called
+TELEDIA. My groups highly interdisciplinary work, published in over 200 peer reviewed publications, is represented in the top venues in 5 fields: namely, Language Technologies, Learning Sciences, Cognitive Science, Educational Technology, and Human-Computer Interaction, with awards or award nominations in 3 of these fields. An exciting current direction of my group's work is spearheading a satellite working group to support social interaction for learning in MOOCs with
+EdX
+called
+DANCE. My recent article published in Nature can be found here.
+The key idea behind all of my work is to draw insights from rich theoretical models from sociolinguistics and discourse analysis, and pair them down to precise operationalizations that capture the most important essence of what is happening for achieving impact.
+My approach is always to start with investigating how conversation works and formalizing this understanding in models that are precise enough to be reproducible and that demonstrate explanatory power in connection with outcomes that have real world value.
+The next step is to adapt, extend, and apply machine learning and text mining technologies in ways that leverage that deep understanding in order to build computational models that are capable of automatically applying these constructs to naturally occurring language interactions.
+Finally, with the technology to automatically monitor naturalistic language communication in place, the final stage is to build interventions that lead to real world benefits.
+This approach leads to three aspects included in each project:
+in order to identify conversational constructs that predict important group outcomes such as learning, knowledge transfer, or motivation.
+projects from a variety of government and industrial funding sources, such as NSF, NRL, and Google.
+Since my tenure review in 2013, I have served as PI on 3 newly funded grants totaling 2.5M and Co-PI on 6 others totaling 8M.
+This includes most recently a 4M NSF DIBBS grant on which I am Co-PI and a 2M NSF BigData grant on which I am PI.
+Most of these projects fall within my primary impact area of education and learning more broadly, including informal learning and knowledge diffusion in online communities such as Wikipedia, GitHub, and Climate Colab.

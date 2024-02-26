@@ -1,0 +1,22 @@
+Carolyn Rosé | Carnegie Mellon University - Language Technologies Institute
+Jump to navigation
+Apply
+People
+Search form
+Search
+Office: 5415
+—Gates & Hillman Centers
+Email: cprose@cs.cmu.edu
+Phone: 412-268-7130
+Department(s):Language Technologies InstituteHuman-Computer Interaction Institute
+Personal Website
+Carolyn&nbspRosé
+Professor
+Information Retrieval, Text Mining and AnalyticsLanguage Technologies for EducationNatural Language Processing and Computational LinguisticsComputer Supported Collaborative Learning/MOOCs
+Human-Computer Interaction Institute, as well as to direct my own lab, TELEDIA. My group’s highly interdisciplinary work, published in 160 peer-reviewed publications, is represented in the top venues in five fields: language technologies, learning sciences, cognitive science, educational technology and human-computer interaction.
+An exciting direction of my group's work is spearheading a satellite working group to support social interaction for learning in MOOCs with EdX called DANCE
+All of my work draws insight from rich theoretical models from sociolinguistics and discourse analysis, and pares them down to precise operationalizations that capture the most important essence for achieving impact. I always start by investigating how conversation works and formalizing this understanding in models that are precise enough to be reproducible and that demonstrate explanatory power in connection with outcomes with real-world value. The next step is to adapt, extend and apply machine learning and text mining technologies that leverage this deep understanding to build computational models capable of automatically applying these constructs to naturally occurring language interactions. Finally, with the technology to automatically monitor naturalistic language communication in place, we can build interventions with real-world benefits.
+This approach leads to three aspects included in each project:
+to identify conversational constructs that predict important group outcomes such as learning, knowledge transfer or motivation.
+Ph.D. in Language and Information Technology1997Graduate Thesis: Employer Upon Graduation: Faculty, LTI CMU
+Language Technologies Institute 5000 Forbes Avenue Pittsburgh, PA 15213-3891 412-268-6591 ltiwebmaster@cs.cmu.eduConnect     Login | Logout

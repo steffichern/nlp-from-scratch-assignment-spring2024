@@ -1,0 +1,463 @@
+Kemal Oflazer's Web Page
+Kemal
+Oflazer'sHome
+PageEducation
+| CV
+|
+Teaching | |
+Publications | Professional
+| Contact | Calendar
+I
+am a faculty member in Computer
+Science Program at Carnegie
+Mellon University â Qatar. My CMU departmental affiliation
+is with the Language
+Technologies Institute.
+Here
+is a recent CV.
+I also take pictures
+occasionally. Here
+are some of the better ones on Flickr.
+Follow
+@oflazer
+on Twitter. Mostly Computer Science and NLP stuff, and random fun
+stuff I encounter. (English/Turkish).
+Over
+the years, I have found that this
+video explains most of what I see around. Enjoy!
+Check out
+I
+gave two talks at BoÄaziÃ§i
+University Summer School on Machine Learning in Speech and
+Language Processing, and Bioinformatics, in Istanbul, Turkey,
+July 2-6, 2018. Here are the videos (in Turkish):
+Turkish
+Natural Language Processing
+Machine
+Translation
+I
+gave a tutorial on Natural Language Processing and Language
+Modeling at the 3rd
+Summer School on Data Science , at SabancÄ± University in
+Istanbul, Turkey, Sept 7-8, 2019.
+Thanks
+to volunteer efforts by BaÅak Buluz Yavuz KÃ¶meÃ§oÄlu, and M.
+AyyÃ¼ce KÄ±zrak, the Proceedings
+of the First Turkish Symposium on Artificial Intelligence and
+Artificial Neural Networks , that I had co-edited in 1992, is
+now online. Papers are in Turkish and English. Enjoy!
+I
+gave a tutorial on NLP at Bilkent
+University Summer School on Machine Learning, in Ankara,
+Turkey, July 1, 2020. The video (in Turkish) of the tutorial is
+here. I
+gave the same tutorial at the Sabanci
+University Data Science Summer School in Istanbul, Turkey,
+September 25, 2020.
+On
+June 22, 2021, I gave an introductory talk on NLP at SICSS
+- Istanbul -- Summer Institute in Computational Social Science,
+aimed at students working in that field. The video of the talk is
+here.
+Education
+Ph.D.
+Computer
+Science, Carnegie-Mellon University, Pittsburgh,
+PA USA.
+M.Sc.
+Computer
+Engineering, Middle East Technical University, Ankara,
+Turkey.
+B.Sc.
+Electrical
+Engineering, Middle East Technical University, Ankara,
+Turkey.
+High-School
+Robert
+College (View
+from Google Maps), Istanbul, Turkey. Here
+is a very nice view.  This is how
+I looked back then.
+Before that, I was at
+Tarsus American
+College (TAC)
+Teaching
+During
+Fall
+2023 Semester I will be teaching
+11-411/611
+Natural Language Processing
+at Language Technologies
+Institute at CMU's Pittsburgh Campus.
+During
+Spring 2024 Semester I will
+teaching 15-210
+Parallel and Sequential Data Structures and Algorithms
+and
+11-411
+Natural Language Processing at
+Carnegie Mellon's Qatar
+Campus.
+I
+am mainly interested in Natural Language Processing. See
+publications below for further information.
+Theses
+Advised
+Professional
+I
+am the Specialty Chief
+Editor for Frontiers
+in Artifical Intelligence - Language
+and Computation
+I
+am Associate Editor for
+ELEKTRIK:
+Turkish Journal of Electrical Engineering and Computer Sciences.
+I
+also serve on the Editorial Boards of Language
+Resources and Evaluation and Natural
+Language Engineering.
+I
+gave a short course on Computational Morphology at NASSLLI-2018
+â North American Summer School in Logic, Language and
+Information, at Carnegie Mellon University, June 23-29 2018.
+I
+gave two talks at BoÄaziÃ§i
+University Summer School on Machine Learning in Speech and
+Language Processing, and Bioinformatics, in Istanbul, Turkey,
+July 2-6, 2018. Here are the videos (in Turkish): Talk
+1 and Talk
+2.
+I
+am an area chair for ACL Rolling Review
+In 2023 - 2024, I am involved
+with the following Conferences or Workshops:
+Ethics
+Co-Chair for EMNLP-2023
+.
+Program
+Committee Member for EACL-2023
+.
+Program
+Committee Member for ACL-2023
+.
+Program
+Committee Member for RANLP-2023
+Program
+Committee Member for SIGMORPHON-2023
+For
+a more complete list of professional activities, please see my
+CV.
+Recent
+Publications
+See
+also publication lists on Google
+Scholar Citations, DBLP
+or
+in my CV
+Leonie Weissweiler, Valentin Hofmann, Anjali Kantharuban, Anna Cai, Ritam Dutt, Amey Hengle, Anubha Kabra, Atharva Kulkarni, Abhishek Vijayakumar, Haofei Yu, Hinrich Schuetze, Kemal Oflazer, David R Mortensen, Counting the Bugs in ChatGPT's Wugs: A Multilingual Investigation into the Morphological Capabilities of a Large Language Model ,
+In	Proceedings of EMNLP'2023 (to appear),
+Dec. 2023
+Figen
+Beken Fikri, Kemal Oflazer, Berrin
+YanÄ±koÄlu,
+Abstractive Summarization with Deep
+Reinforcement Learning using
+Semantic Similarity Rewards ,
+Natural Language Engineering (to
+appear), 2024
+Kemal
+Oflazer and Murat
+Saraclar (Editors), Turkish
+Natural Language Processing,
+Springer
+Verlag -- Theory and Applications of Natural Language Processing
+Book Series, 2018. (See detailed Table of
+Contents, Amazon)
+Figen
+Beken Fikri, Kemal Oflazer, Berrin YanÄ±koÄlu, Anlamsal
+Benzerlik iÃ§in TÃ¼rkÃ§e Veri KÃ¼mesi (Turkish Dataset for
+Semantic Similarity) ,
+In Proceedings of the 29th IEEE Conference on Signal Processing
+and Communications Applications, Istanbul, Turkey, June 2021.
+Figen
+Beken Fikri, Kemal Oflazer, Berrin YanÄ±koÄlu, ,
+In Proceedings of ACL-IJCNLP Workshop GEM: Natural Language
+Generation, Evaluation, and Metrics, August 6, 2021
+Arun
+Pandian, Lamana Mulaffer, Kemal Oflazer and Amna AlZeyara,
+Precision
+Event Coreference Resolution Using Neural Network Classifiers,
+Computation y Sistemas, Volume 24/1, No:1, 2020 (also presented
+at CICLING 2019, La Rochelle, France, April 2019)
+Jun
+Araki, Lamana Mulaffer, Arun Pandian, Yukari Yamakawa, Kemal
+Oflazer and Teruko Mitamura, ,
+In Proceedings of ISA-14,
+The 14th Joint ACL â ISO Workshop on Interoperable Semantic
+Annotation, Santa Fe, NM, August 2018.
+Houda
+Bouamor, Nizar Habash, Mohammad Salameh, Wajdi Zaghouani, Owen
+Rambow, Dana Abdulrahim, Ossama Obeid, Salam Khalifa, Fadhl
+Eryani, Alexander Erdmann and Kemal Oflazer, The
+MADAR Arabic Dialect Corpus and Lexicon,
+In Proceedings of LREC 2018, May 2018.
+Ossama
+Obeid, Salam Khalifa, Nizar Habash, Houda Bouamor, Wajdi
+Zaghouani and Kemal Oflazer, MADARi:
+A Web Interface for Joint Arabic Morphological Annotation and
+Spelling Correction,
+In Proceedings of LREC 2018, May 2018.
+Kemal
+Oflazer, Morphology,
+in
+The
+Oxford Handbook of Computational Linguistics 2nd edition (2 ed.),
+Oxford University Press, 2017
+Rahim
+Dehkharghani, Yucel
+Saygin, Berrin
+Yanikoglu, and Kemal Oflazer, Sentiment
+Analysis in Turkish at Different Granularity Levels,
+Natural Language Engineering, Vol 23, No: 4, 2016
+Rahim
+Dehkharghani, Yucel
+Saygin, , and Kemal Oflazer, SentiTurkNet:
+A Turkish Polarity Lexicon for Sentiment Analysis,
+Language Resources and Evaluation, 2016
+Wajdi
+Zaghouani, Abdelati Hawwari, Sawsan Alqahtani, Houda Bouamor,
+Mahmoud Ghoneim, Mona Diab and Kemal Oflazer, Using
+Ambiguity Detection to Streamline Linguistic Annotation,
+In Proceedings of Coling
+Workshop "Computational Linguistics for Linguistic
+Complexity" (CL4LC), Osaka Japan, December 2016
+Wajdi
+Zaghouani, Nizar Habash, Houda Bouamor, Ossama Obeid, Sawsan
+Alqahtani, Mona Diab and Kemal Oflazer, Filtering
+Dialectal Arabic Text in Two Large Scale Annotation Projects,
+in Proceedings of the Coling Workshop on Noisy User-generated
+Text (W-NUT), Osaka Japan, December 2016
+Wajdi
+Zaghouani, Nizar Habash, Ossama Obeid, Behrang Mohit, Houda
+Bouamor and Kemal Oflazer, Building
+an Arabic Machine Translation Post-Edited Corpus: Guidelines and
+Annotation.
+In Proceedings LREC 2016, Slovenia, May 2016
+Wajdi
+Zaghouani, Houda Bouamor, Abdelati Hawwari, Mona Diab, Ossama
+Obeid, Mahmoud Ghoneim, Sawsan Alqahtani, and Kemal Oflazer,
+Large
+Scale Arabic Diacritized Corpus: Guidelines and Framework ,
+In Proceedings LREC 2016, Slovenia, May 2016
+Ossama Obeid,
+Houda Bouamor, Wajdi Zaghouani, Mahmoud Ghoneim, Abdelati
+Hawwari, Mona Diab and Kemal Oflazer, MANDIAC:
+A Web-based Annotation System For Manual Arabic Diacritization,
+in
+Proceedings
+of 2nd Workshop on Arabic Corpora and Processing Tools 2016
+Theme: Social Media, LREC 2016, Slovenia, May 2016
+Houda
+Bouamor; Hassan Sajjad; Nadir Durrani; Kemal Oflazer,
+QCMUQ$@$QALB-2015
+Shared Task: Combining Character level MT and Error-tolerant
+Finite-State Recognition for Arabic Spelling Correction
+in
+Proceedings of the Workshop on Arabic NLP, Beijing China, August
+2015.
+Houda
+Bouamor, Wajdi Zaghouani, Ossama Obeid, Mona Diab and Kemal
+Oflazer, A
+Pilot Study on Arabic Multi-Genre Corpus Diacritization,
+in Proceedings of the Workshop on Arabic NLP, Beijing China,
+August 2015.
+Wajdi
+Zaghouani, Nizar Habash, Houda Bouamor, Alla Rozovskaya, Behrang
+Mohit and Kemal Oflazer, Correction
+Annotation for Non-Native Arabic Texts: Guidelines and Corpus,
+In Proceedings of 9th Linguistic Annotation Workshop, Denver
+Colorado, June 2015
+Serena
+Jeblee, Weston Feely, Houda
+Bouamor, Alon Lavie,
+Nizar Habash and Kemal
+Oflazer, Domain
+and Dialect Adaptation for Machine Translation into Egyptian
+Arabic,
+in Proceedings of Workshop on Arabic Natural Language Processing
+at EMNLP 2014, October 2014, Doha, Qatar.
+Serena
+Jeblee, Houda
+Bouamor, Wajdi Zaghouani and Kemal
+Oflazer,
+CMUQ$@QALB-2014 An
+SMT-based System for Automatic Arabic Error Correction,
+in Proceedings of Workshop on Arabic Nat- ural Language
+Processing at EMNLP 2014, October 2014, Doha, Qatar.
+Houda
+Bouamor, Hanan Alshikhabobakr, Behrang Mohit and Kemal
+Oflazer, A
+Human Judgement Corpus and a Metric for Arabic MT Evaluation,
+in Proceedings of EMNLP 2014, October 2014, Doha, Qatar.
+Kemal
+Oflazer, Turkish
+and its Challenges for Natural Language Processing,
+Invited paper, Language Resources and Evaluation, April 2014
+Wajdi
+Zaghouani, Behrang Mohit, Nizar
+Habash, Ossama Obeid, Nadi Tomeh and Kemal Oflazer,
+Large-scale
+Arabic Error Annotation: Guidelines and Framework,
+in Proceedings of LREC 2014, 9th International Conference on
+Language Resources and Evaluation, Iceland, May 2014.
+Houda
+Bouamor, Nizar Habash
+and Kemal Oflazer, A
+Multidialectal Parallel Corpus of Arabic,
+in Proceedings of LREC 2014, 9th International Conference on
+Language Resources and Evaluation, Iceland, May 2014.
+Ahmed
+Salama, Houda
+Bouamor, Behrang Mohit and Kemal Oflazer, YouDACC:
+the Youtube Dialectal Arabic Comment Corpus, in
+Proceedings of LREC 2014, 9th International Conference on
+Language Resources and Evaluation, Iceland, May 2014.
+Mahmoud
+Azab, Ahmed Salama, Kemal Oflazer, Hideki
+Shima, Jun Araki and
+Teruko Mitamura, An
+English Reading Tool as an NLP Showcase,
+in
+Proceedings of IJCNLP-2013
+â Demo Session, Nagoya, Japan, October 2013
+Mahmoud
+Azab, Ahmed Salama, Kemal Oflazer, Hideki
+Shima, Jun Araki and
+Teruko Mitamura, An
+NLP-based Reading Tool for Aiding Non-native English Readers,
+in Proceedings of RANLP-2013,
+Hissar, Bulgaria, September 2013
+Ossama
+Obeid, Wajdi Zaghouani, Behrang
+Mohit, Nizar Habash,
+Kemal Oflazer and Nadi Tomeh, A
+Web-based Annotation Framework For Large-Scale Text Correction,
+in
+Proceedings of IJCNLP-2013
+â Demo Session, Nagoya, Japan, October 2013
+Houda
+Bouamor, Behrang
+Mohit and Kemal Oflazer, SuMT:
+A Framework of Summarization and MT,
+in Proceedings of IJCNLP-2013,
+Nagoya, Japan, October 2013. (Best
+Paper Award)
+Elif
+Eyigoz, Daniel
+Gildea and Kemal Oflazer, Multi-rate
+HMMs for Word Alignment,
+in Proceedings of ACL 2013
+Eighth Workshop on Statistical Machine Translation Sofia,
+Bulgaria, August 2013
+Ahmed
+Salama, Kemal Oflazer and Susan Hagan, Typesetting
+for Improved Readability using Lexical and Syntactic Information,
+in Proceedings of ACL 2013.
+Sofia, Bulgaria, August 2013
+Elif
+Eyigoz, Daniel
+Gildea and Kemal Oflazer, Simultaneous
+Word-Morpheme Alignment for Statistical Machine Translation,
+in Proceedings of NAACL
+2013. Atlanta, Georgia, USA, June 2013
+Nathan
+Schneider, Behrang
+Mohit, Chris Dyer,
+Kemal Oflazer and Noah
+A. Smith,
+Supersense
+Tagging for Arabic: the MT-in-the-Middle Attack,
+in Proceedings of NAACL
+2013. Atlanta, Georgia, USA, June 2013
+Mahmoud
+Mahmoud Azab, Houda
+Bouamor, Behrang
+Mohit and Kemal Oflazer, Dudley
+North visits North London: Learning When to Transliterate to
+Arabic,
+in Proceedings of NAACL
+2013. Atlanta, Georgia, USA, June 2013
+Emad
+Mohamed, Behrang
+Mohit and Kemal Oflazer, Generating
+Colloquial Arabic from Standard Arabic,
+in Proceedings of the 50th
+Annual
+Meeting of the Association for Computational Linguistics,
+Jeju, South Korea, July 2012.
+Nathan
+Schneider, Behrang
+Mohit, Kemal Oflazer and Noah
+A. Smith, Coarse
+Lexical Semantic Annotation with Supersenses: An Arabic Case
+Study,
+in Proceedings of the 50th
+Annual
+Meeting of the Association for Computational Linguistics,
+Jeju, South Korea, July 2012.
+Emad
+Mohamed, Behrang
+Mohit and Kemal Oflazer, Annotating
+and Learning Morphological Segmentation of Egyptian Colloquial
+Arabic,
+in Proceedings of LREC-2012, Istanbul, Turkey, May 2012
+Behrang
+Mohit, Nathan
+Schneider, Rishav Bhowmick, Kemal Oflazer and Noah
+A. Smith, Recall-Oriented
+Learning of Named Entities in Arabic Wikipedia,
+in Proceedings of EACL-2012, Avignon France, April 2012.
+Reyyan
+Yeniterzi and
+Kemal Oflazer, Syntax-to-Morphology
+Mapping in Factored Phrase-Based Statistical Machine Translation
+from English to Turkish,
+in Proceedings of ACL 2010, Uppsala, Sweden, July 2010 (Recently
+mentioned as one of the interesting papers at the conference, in
+a recent Natural
+Language Processing Blog entry)
+Ä°lknur
+Durgar El-Kahlout
+and
+Kemal Oflazer, Exploiting
+Morphology and Local Word Reordering in English to Turkish
+Phrase-based Statistical Machine Translation,
+IEEE Transactions on Audio, Speech and Language Processing, 2010
+GÃ¼lÅen
+EryiÄit, Joakim Nivre
+and Kemal Oflazer, Dependency
+Parsing of Turkish,
+Computational Linguistics, Vol:34 No:3, September 2008.
+Contact
+Info
+Qatar Address: Carnegie
+Mellon University-Qatar, Education City, PO Box 24866, Doha,
+Qatar
+US Address: Carnegie
+Mellon University Language Technologies
+Institute Pittsburgh, PA, 15213
+US
+Mobile Phone: +1
+(434) 242 4287 Qatar
+Mobile: (+974)
+5589-4469  Email:
+ko@removethisfirst.andrew.cmu.eduIf
+you need to talk to me please send me mail to me set up an
+appointment. Please
+check my calendar
+here before suggesting time slots and
+then suggest at
+least 3-4 15-minute slots suitable for you.
+This
+page last updated 07 October 2023.

@@ -1,0 +1,16 @@
+Eric P. Xing | Carnegie Mellon University - Language Technologies Institute
+Jump to navigation
+Apply
+People
+Search form
+Search
+Office: 8101
+—Gates & Hillman Centers
+Email: epxing@andrew.cmu.edu
+Phone: 412-268-2559
+Department(s):Language Technologies Institute
+Personal Website
+Eric P.&nbspXing
+Professor (On Leave)
+Foundations of Statistical Learning, including theory and algorithms for: 1) Time/space varying-coefficient models with evolving structures; 2) Sparse structured input/output models in high-dimensional problems; 3) Nonparametric Bayesian techniques for infinite-dimensional models; 4) RKHS embedding, nonparametric inference, and spectral methods for graphical models; 5) Distributed and online algorithms for optimization, approximate inference, and sampling on massive data.Large-scale Information & Intelligent System: 1) Development of scalable parallel architecture, protocol, programming interface, generic algorithms and models, for Big Learning; 2) Multi-view latent space models, topics models, and sparse coding for image/text/relational data mining; 3) Evolving structure, stable metrics, and prediction for dynamic social networks, goal-driven network design and optimization; 4) Web-scale image understanding, search, prediction, and storyline synthesis; 5) Information visualization, indexing and storage, web/mobile app development.Computational Biology: 1) Understanding genome-microenvironment interactions in cancer and embryogenesis via joint analysis of genomic, proteomic, and pathway signaling data; 2) Genetic analysis of population variation, demography and evolution; 3) Statistical inference of genome-transcriptome-phenome association in complex diseases; 4) Personalized diagnosis and treatment of spectrum diseases via next generation sequencing and computational "omic" analysis; 5) Biological image and text mining.
+Language Technologies Institute 5000 Forbes Avenue Pittsburgh, PA 15213-3891 412-268-6591 ltiwebmaster@cs.cmu.eduConnect     Login | Logout

@@ -1,0 +1,6 @@
+Title: Randomized trial of brief interpersonal psychotherapy and cognitive behavioral therapy for depression delivered both in-person and by telehealth.
+Year: 2023
+Authors: H. Swartz, Lauren M. Bylsma, Jay Fournier, J. Girard, C. Spotts, J. Cohn, Louis-Philippe Morency
+Abstract: None
+Publication Venue: Journal of Affective Disorders
+TLDR: {'model': 'tldr@v2.0.0', 'text': 'Preliminary evidence supporting the efficacy of both brief IPT and CBT, delivered by either TH or IP, for depression showed that working alliance is preserved in TH, and delivery via TH may improve therapy adherence.'}

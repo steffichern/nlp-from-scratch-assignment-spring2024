@@ -1,0 +1,77 @@
+Anatole Gershman
+Anatole Gershman
+Distinguished Career Professor
+of Computer Science
+Language Technologies Institute
+6415 Gates-Hillman Complex
+Carnegie Mellon University
+Pittsburgh, PA 15213-3890
+Email:
+Phone: (412) 268-8259
+Fax:
+(412) 268-6298
+á
+Information
+extraction and co-reference resolution
+á
+á       Knowledge and language acquisition through
+active learning
+á
+Reasoning
+under uncertainty
+á
+Fusion
+of information from disparate sources
+á
+Making
+everyday objects smart
+Teaching
+2007-2012:  Inventing
+the Future of Services
+Fall 2014:
+15-291 Applied
+Computational Intelligence Lab
+Recent:
+Analysis of
+Uncertain Data (IEEE International Conference on Systems, Man, and Cybernetics,
+2009 PDF, PDF)
+Encore (Entity Co-reference
+Resolution)
+PDF)
+Metal –
+Multi-lingual Metaphor Identification and Interpretation (ACL2014 PDF)
+Current:
+PDF,
+SIGIR PIR 2014 PDF, SIGIR 2013 PDF, LREC12 PDF)
+TREE –
+Teachable Relations and Event Extractor
+Analysis of
+Customer Service phone calls
+Short
+Bio
+My entire
+professional career has been dedicated to a simple question: How can we use
+Information Technology to act more intelligently? In a commercial setting,
+where I spent most of my professional life, I had to apply this question to
+activities that make business sense such as creation of new productivity tools,
+products and services. Every advance in basic technologies created
+opportunities for intelligent business applications.  In the 1980s, I led
+the design and implementation of the first production-quality automated Natural
+Language Processing system that handled international money transfer telexes
+for Citibank. When I joined Accenture in 1989, I created a lab that explored
+the use of multimedia for knowledge management and training. We also built
+early, pre-web prototypes of interactive multimedia-based eCommerce
+applications. In 1995, we released the worldÕs first eCommerce
+agent that shopped the web for music CDs.
+While the whole
+world was falling in love with eCommerce and
+predicting the demise of Òbrick and mortar,Ó we quickly realized that the
+physical world was not about to disappear.  We coined the term uCommerce for Ubiquitous Commerce and built a number
+of demonstrations of services that use the combination of personal mobile
+devices and the surrounding environments. As we were building early examples of
+Ubiquitous Commerce, it became clear to us that these services would require
+complex automated intelligence based on detailed models of human behavior.
+Automated creation of such models requires an ability to fuse often ambiguous
+and noisy information from disparate sources, including physical sensors and
+the web. As a result, we created an Analytics and Intelligence group at
+Accenture Technology Labs which now includes several CMU graduates.

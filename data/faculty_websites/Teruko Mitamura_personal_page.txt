@@ -1,0 +1,41 @@
+Teruko Mitamura's Home Page
+About
+Education
+People
+Contacts
+Teruko Mitamura, Ph.D.
+Language Technologies Institute
+6711 Gates-Hillman Center
+Carnegie Mellon University
+5000 Forbes Ave.
+Pittsburgh, PA 15213 USA
+Office:6711 Gates-Hillman Center
+Phone:(412) 268-6596
+FAX:(412) 268-6298
+E-mail:teruko[at]cs[dot]cmu[dot]edu
+Admin Assistant:Kate Schaich
+Admin Assistant's phone:(412) 268-4788
+Faculty member in the
+Language Technologies Institute.
+Projects and Interests:
+LORELEI: Multilingual Event Extraction and Ontology
+Big Mechanism: Detection of Event Coreference in Bio Medical Domain
+SAFT Project: Detection and Representation of Event Coreference
+SmartReader Project: Intelligent Reading Tutor
+Past Projects:
+METAL Project: Detection and Interpretation of Metaphor
+KANT: Knowledge-based Machine Translation KANT Interlingua Description
+JAVELIN: Question Answering System
+CAMMIA: Dialogue Management System
+IAMTC: Interlingual Annotation of Multilingual Text Corpora
+Halo 2: Knowledge Acquision from Text
+IWT: Intelligent Writing Tutor
+Teaching:
+11-721: Grammars and Lexicons (Fall)
+11-727: Computational Semantics for NLP (Spring)
+11-728: Advanced Seminar in Semantics & Semantics Lab (Spring)
+11-796: Question Answering Lab
+(Fall or Spring)
+11-797: Question Answering (Spring)
+LTI is part of the School of Computer Science at Carnegie Mellon University.
+This page is maintained by Teruko Mitamura, and was last updated August, 2015.

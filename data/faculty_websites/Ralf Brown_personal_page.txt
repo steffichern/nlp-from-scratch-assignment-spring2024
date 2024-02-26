@@ -1,0 +1,126 @@
+Ralf Brown's Home Page
+Ralf Brown
+About....Carnegie Mellon University's
+[picture,
+campus panorama]
+Language Technologies Institute
+in Pittsburgh, Pennsylvania,
+[sunset picture,
+panorama]
+working on text mining and language identification (and formerly on language technologies-driven data recovery and the
+Pangloss,
+DIPLOMAT/TONGUES,
+Generalized Example-Based Machine Translation,
+RADD/LingWear,
+AVENUE,
+Topic Detection&Tracking,
+MUCHMORE, GALE, and MTLAB projects).
+He is well-known in cyberspace for
+maintaining the Interrupt List
+and various other programs,
+and has co-authored a number of books.
+Teaching
+Office Hours: GHC 5711.
+Usually Thursdays 1-2pm, or by appointment.
+Fall 2023: teaching 11-601 Coding and Algorithms Bootcamp (syllabus);
+leading 11-696 MIIS Capstone Project.
+Spring 2023: led 11-927 MIIS Capstone Planning Seminar.
+Fall 2022: taught 11-601 Coding and Algorithms Bootcamp;
+led 11-927 MIIS Capstone Project.
+Spring 2022: led 11-927 MIIS Capstone Project.
+Fall 2021: taught 11-601 Coding and Algorithms Bootcamp;
+led 11-696 MIIS Capstone Planning Seminar and 11-927 MIIS Capstone Project.
+Spring 2021: led 11-696 MIIS Capstone Planning Seminar.
+Fall 2020: taught 11-601 Coding and Algorithms Bootcamp;
+led 11-927 MIIS Capstone.
+Spring 2020: led 11-696 MIIS Capstone Planning Seminar.
+Fall 2019: taught 11-601 Coding and Algorithms Bootcamp; led 11-927 MIIS Capstone.
+Spring 2019: led 11-696 MIIS Capstone Planning Seminar.
+Fall 2018: taught 11-601 Coding and Algorithms Bootcamp;
+leading 11-927 MIIS Capstone.
+Spring 2018: led 11-696 MIIS Capstone Planning Seminar.
+Fall 2017: co-taught 11-601 Coding and Algorithms Bootcamp; led 11-927 MIIS Capstone.
+Spring 2017: led 11-696 MIIS Capstone Planning Seminar.
+Fall 2016: co-taught 11-601 Coding and Algorithms Bootcamp; led 11-927 MIIS Capstone.
+Spring 2016: assisted with 15-213 Intro to Computer Systems and led 11-696 MIIS Capstone Planning Seminar.
+Fall 2015: co-taught 11-601 Coding and Algorithms Bootcamp; led 11-927 MIIS Capstone.
+Ralf's Informational Pages
+Bibliography of my writings
+Lecture Notes
+Undocumented Information (including Pentium info)
+Locating Information on the Web
+Artificial Intelligence
+Natural Language Processing
+Privacy[*] and Civil Liberties
+[*] You can be tracked by your mouse clicks!
+US Government Sites
+Television
+On the Lighter Side
+Digital Imaging
+(the following links take you to other sites)
+My photo albums at
+PBase,
+ImageEvent, and
+Zenfolio
+(note: all public albums reachable via PBase)
+Newest albums listed here
+Featured Albums:
+Mid-Atlantic Dance Jam 2019 ::
+PittStop Lindy Hop 2018 ::
+KISSME in Ann Arbor 2018 ::
+All Balboa Weekend 2018 ::
+DC Lindy Exchange (DCLX) 2018 ::
+Steel City Blues Festival 2018 ::
+Swing Fling 2017 ::
+Cleveland Lindy Exchange 2014 ::
+Herrang Dance Camp 2012 Week 3 ::
+Renaissance Festival 2011 ::
+SCS Day 2010 ::
+Wings Over Pittsburgh 2008 ::
+Kennywood Park
+Pictures of mine have been picked up by/appeared in
+The BBC (TONGUES field test);
+ASTM International's newsletter , Feb 2003 (Cathedral of Learning);
+Terra Lycos Mexico, 13-Feb-03 (Hollywood Walk of Fame);
+Centro Flamenco de Pittsburgh;
+"SF Bay Area Architecture Supplement" in
+Surface Magazine, Issue 43
+(pages 10,
+11, and
+12);
+An
+interview with Bernardine Dias for the SCS Interview Series
+(dancing in the
+SCS Day talent show).
+The Wings Over Pittsburgh official site's 2004 Photo Gallery (my album)
+Photo Exhibition: I exhibited photographs of Japan at
+Kiva Han on South Craig Street
+during April 2003.
+Science Fiction Words
+-- I made a number of contributions to a project to find the earliest uses of SF
+terms for the next edition of the Oxford English Dictionary (external link).
+The local Web:
+The
+SCS Home Page.
+The CMU Home Page
+The CMU Library
+Dancing in Pittsburgh
+Tartan Swing - CMU's swing dance
+Swing City
+Hot Metal Blues - free blues dance
+Starlight Blues - dance under the stars (weather permitting)
+Pittsburgh West Coast Swing
+Miscellaneous
+Pittsburgh-related pages
+My Erdos Number is 4:
+Paul Erdos -> Henryk Minc -> Marvin Marcus -> John Chollet -> Ralf Brown.
+This page has passed Cynthia Says's accessiblity checks.
+[Mail]
+[Files]
+[Papers]
+[Books]
+[Undocumented]
+[Privacy]
+[TV]
+[PGP]
+(Last updated 26-Jul-2023)

@@ -1,0 +1,20 @@
+Jamie Callan | Carnegie Mellon University - Language Technologies Institute
+Jump to navigation
+Apply
+People
+Search form
+Search
+Office: 5419
+—Gates & Hillman Centers
+Email: callan@cs.cmu.edu
+Phone: 412-268-4525
+Department(s):Language Technologies Institute
+Personal Website
+Jamie&nbspCallan
+Professor and PhD Program Director
+Information Retrieval, Text Mining and Analytics
+personal webpage for more information.
+Current Projects
+Search Engines With Knowledge Resources: This project develops new methods for using knowledge graphs and ontologies to improve search engine accuracy, especially for vague, ambiguous or poorly specified queries. Knowledge graphs and ontologies are less structured than typical relational databases and semantic web resources, but more structured than text stored in full-text search engines. The weak semantics in these semi-structured information resources can support interesting applications, but can also accommodate contradictions, inconsistencies and mistakes — making them easier to scale for large amounts of information. A search engine can use these resources to identify the probable meanings of query terms, and use this knowledge to identify documents that match those meanings.
+selective search
+Language Technologies Institute 5000 Forbes Avenue Pittsburgh, PA 15213-3891 412-268-6591 ltiwebmaster@cs.cmu.eduConnect     Login | Logout

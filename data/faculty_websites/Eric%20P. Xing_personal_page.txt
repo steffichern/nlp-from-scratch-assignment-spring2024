@@ -1,0 +1,183 @@
+Eric Xing's home page
+Eric P. Xing,  PhD, PhD
+8101 Gates-Hillman Center (GHC), SCS
+Carnegie Mellon University
+Pittsburgh, PA 15213
+Phone: (412)
+268-2559
+Fax: (412)
+268-3431
+Email:
+epxing AT cs.cmu.edu
+Biography
+Publications
+Teaching
+Activities/Talks
+My Group
+CV
+Professor
+Machine Learning
+Department
+Language Technology Institute
+& Computer Science Department
+School of Computer
+Science
+Carnegie Mellon University
+President
+Mohamed bin Zayed University of Artificial Intelligence
+Founder, Petuum
+machine learning and statistical methodology,
+and large-scale computational
+system and architecture, for solving problems involving automated learning,
+reasoning, and decision-making in high-dimensional, multimodal, and
+dynamic possible worlds in artificial, biological, and social systems.
+Current Ph.D. Students and Postdocs:
+Aviv Bick
+Sangkeun Choe
+Mingkai Deng
+Caleb Ellington
+Han Guo
+Lingjing Kong
+Xiangchen Song
+Bowen Tan
+Hongyi Wang
+Yonghao Zhuang
+Past Students and Postdocs:
+Amr
+Ahmed
+Maruan Al-Shedivat
+Ross Curtis, Software Engineer, AncestryDNA
+Bryon Aragam, Assistant Professor, University of Chicago
+Wei Dai
+Kumar Avinava Dubey
+Jacob Eisenstein, Assistant
+Professor, Georgia Institute of Technology
+Wenjie Fu, Software Engineer, Facebook
+Anuj Goyal, Software Engineer, LinkedIn
+Steve Hanneke, Visiting Assistant
+Professor, Carnegie Mellon University
+Kamisetty
+Hetunandan
+Qirong Ho, CTO, Petuum Inc.
+Judie Howrylak, Assistant Professor, Penn State University
+Zhiting Hu, Assistant Professor, UC San Diego
+Gunhee
+Kim, Associate Professor, Seoul National University
+Jin Kyu Kim
+Abhimanu Kumar
+Seyoung Kim, Associate Professor, Carnegie Mellon University
+Mladen Kolar, Assistant Professor, University of Chicago
+Lisa Lee
+Seunghak
+Lee
+Ben Lengerich, Postdoc, MIT
+Xiaodan Liang, Associate Professor, Zhongshan University
+Andre Martins
+Micol Marchetti-Bowick, Engineering Manager, Uber
+Willie Neiswanger, PostDoctoral Fellow, Stanford University
+Ankur
+Parikh
+Kriti
+Puniyani
+Aurick Qiao, CEO, Petuum Inc.
+Pradipta Ray
+Mrinmaya Sachan, Assistant Professor, ETH, Zurick
+Suyash Shringarpure, Senior Scientist, Statistical Genetics at 23andMe
+Kyung-Ah Sohn, Assistant Professor, Ajou University
+Le
+Song, Professor, MBZUAI
+Chong
+Wang
+Jinliang Wei, Engineer, Google
+Sinead
+Williamson, Assistant Professor, University of
+Texas Austin
+Andrew
+Wilson, Assistant Professor, New York Unicersity
+Haohan Wang,
+Assistant Professor, UIUC
+Pengtao Xie, Assistant Professor, UC San Diego
+Junming
+Yin, Assistant Professor, University of
+Arizona
+Yaoliang
+Yu, Assistant Professor, University of Waterloo
+Bin
+Zhao, Entrepreneur
+Hao Zhang, PostDoc, UC Berkeley
+Xun Zheng
+Jun Zhu, Professor, Tsinghua University
+Recent
+Activities:
+On June 11th, 2020, we launched the
+CASL (Composible, Automatic, and Scable ML) AutoDist,
+AdaptDL,
+Alpa),
+Automated ML (e.g.,
+Dragonfly,
+ProBO),
+and Composable ML (e.g.,
+Texar,
+Forte)
+implemented across PyTorch and TensorFlow under a unified umbrella for a Production and Industrial AI Platform.
+Teaching:
+I taught Graduate Introduction to Machine Learning
+(10701) again in Fall 2020, with Professor Ziv Bar-Joseph
+I have been teaching Probabilistic Graphical Models
+(10708), an advanced graduate course on theory, algorithm, and application for multivariate modeling, inference, and deep learning since 2005 at CMU. All the past versions are available here.
+Video lectures of Probabilistic Graphical Models (10708):
+2014,
+2019,
+2020.
+Tutorials and Talks:
+From Learning, to Meta-Learning, to "Lego-Learning -- A pathway toward autonomous AI
+[video][slides], CMU AI Seminar, 2022.
+It is time for deep learning to understand its expense bills
+[video], KDD Deep Learning Day 2021.
+Learning-to-learn through Model-based Optimization: HPO, NAS, and Distributed Systems
+[video], ACL 2021 workshop on Meta Learning and Its Applications to Natural Language Processing.
+A Data-Centric View for Composable Natural Language Processing
+[video1] [video2], ICML 2021 Machine Learning for Data Workshop.
+Simplifying and Automating Parallel Machine Learning via a Programmable and Composable Parallel ML System
+[slides]
+[video],
+Tutorial, AAAI 2021.
+From Performance-oriented AI to Production- and Industrial-AI
+[video],
+Michigan Institute for Data Science, 2020.
+A Blueprint of Standardized and Composable Machine Learning
+[slides]
+[video],
+Institute for Advanced Study, Princeton, 2020.
+Learning from All Types of Experiences:
+A Unifying Machine Learning Perspective
+[slides]
+[video],
+Tutorial, KDD 2020.
+Compositionality in Machine Learning
+[slides]
+[video],
+Open Data Science Conference (ODSC) West 2019.
+A Civil Engineering Perspective on Artificial Intelligence From Petuum
+[slides],
+Distinguished Lectures in Computational Innovation, Columbia University, 2018.
+PetuumMed: algorithms and system for EHR-based medical decision support
+[slides], MIT, 2018.
+A Statistical Machine Learning Perspective of Deep Learning: Algorithm, Theory, and Scalable Computing
+[slides],
+tutorial at the International Summer School on Deep Learning, Genova, Italy, 2018.
+Strategies & Principles for Distributed Machine Learning
+[slides],
+[video],
+Allen Institute for AI, 2016.
+Services:
+Board Member, The International Machine Learning Society
+.
+Program Committee Chair, ICML
+2014.
+General Chair, ICML 2019.
+Action Editor/Associate Editor: JASA, AOAS,
+JMLR, MLJ, and PAMI.
+Last updated 7/4/2022
+Free
+counter

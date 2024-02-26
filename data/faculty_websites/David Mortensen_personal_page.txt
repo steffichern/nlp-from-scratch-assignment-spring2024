@@ -1,0 +1,25 @@
+David R. Mortensen
+about
+academic archaeology
+projects
+recent publications
+teaching
+David R. Mortensen
+Language Technologies Institute, School of Computer Science, Carnegie Mellon University.
+5407 Gates Hillman Complex Language Technologies Institute Carnegie Mellon University 5000 Forbes Ave Pittsburgh, PA 15213 dmortens@cs.cmu.edu
+Language Technologies Institute, which is part of Carnegie Mellon Universityâs School of Computer Science. Before coming to CMU, I was an Assistant Professor in the Department of Linguistics at the University of Pittsburgh.
+I am currently developing a course on computational models of language below the level of the word.
+For more about me, see my curriculum vitae.
+Along with Lori Levin, I lead LLab, the LTI linguistics lab.
+Feb 20, 2024
+Members of our lab, in collaboration with colleages at ETH Zurich, LMU Munich, JHU, and University of Stuttgart had five papers accepted to LREC-Coling 2024: âVerbing Weirds Language (Models),â âImproved Neural Protoform Reconstruction via Reflex Prediction,â âPWESUITE: Phonetic Word Embeddings and Tasks They Facilitate,â âConstructions Are So Difficult That Even Large Language Models Get Them Right for the Wrong Reasons,â and âPhonotactic Complexity across Dialects.â
+Feb 1, 2024
+My student Brendon Boldt and I have published a substantial article entitled âA Review of the Applications of Deep Learning-Based Emergent Communication,â in TMLR.
+Oct 27, 2023
+Our paper, ChatGPT MT: Competitive for High- (but not Low-) Resource Languages, was accepted for presentation at WMT 2023. See the X thread and the media coverage for accessible summaries.
+Oct 31, 2022
+Our paper, Counting the Bugs in ChatGPTâs Wugs: A Multilingual Investigation into the Morphological Capabilities of a Large Language Model has been accepted for presentation at EMNLP 2023. For a brief summary, see the X thread.
+Oct 22, 2022
+Our paper, Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing has been accepted for publication in Findings of EMNLP 2023.
+© Copyright 2024 David R. Mortensen.
+Powered by Jekyll with al-folio theme. Photos from Unsplash.

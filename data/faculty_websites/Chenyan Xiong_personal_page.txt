@@ -1,0 +1,12 @@
+Chenyan Xiong
+Toggle navigation
+About(current)
+Publications
+Teaching
+Chenyan Xiong
+Associate Professor, Language Technologies Institute, Carnegie Mellon University.
+6409 GHC, 5000 Forbes Avenue Pittsburgh, PA 15213
+My work mainly appears in IR, NLP, and Machine Learning conferences. I also host workshops, present tutorials, and serve in the organization community of venues in these fields. For the most updated publication list, please refer to my Google Scholar.
+Foundational and language models with the spec on web and information retrieval. Examples include:
+Efficient, open, and capable language models with web data and retrieval systems Represenatation learning with foundational models for universal information retrieval Retrieval + Language Models for grounded, effective, and interactive information access in general and special domains
+Â© Copyright 2023 Chenyan Xiong. Powered by Jekyll with al-folio theme. Last updated: October 06, 2023.

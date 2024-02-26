@@ -1,0 +1,374 @@
+Home Page of Michael Shamos
+Michael I. Shamos
+Distinguished Career Professor
+Language Technologies Institute
+and Software and Societal Systems Department
+School of Computer Science
+Carnegie Mellon University
+View resume in pdf
+Phone:
+412-681-8398
+Fax:
+412-268-6298
+Email:
+shamos@cs.cmu.edu
+Office:
+6707 Gates-Hillman Complex
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA
+15213
+Secretary:
+Not really
+Bio
+08-732/08-532Fall 2010
+Law of Computer Technology (Computers, Organizations and Society program)
+96-761Fall 2010Ubiquitous Computing (MSIT eBusiness Technology program)
+96-774Spring 2011Electronic Payment Systems (MSIT eBusiness Technology program)
+» All Courses
+Expert Witness
+Electronic Voting
+Non-Academic
+Family
+Biography
+Michael Shamos is Distinguished Career Professor in the School of Computer Science at Carnegie Mellon
+University and Director of the M.S. in Artificial Intelligence and Innovation in the Language Technologies Institute. He will be directing the M.S. in Biotechnology, Innovation and Computation (MSBIC) program in 2018-2019 and the M.S. in Artificial Intelligence and Innovation (MSAII) program from 2018 onward. He was Director of the MSIT eBusiness Technology Program from its inception in 2004 until its termination in 2018 and is a Director of the Universal Library.
+He obtained an A.B. in Physics from Princeton under John Wheeler in 1968, then worked as a programmer in IBM's Components Division, simultaneously earning an M.A. in Physics from Vassar College in 1970.
+From 1970-1972 he served as a commissioned officer in the U.S Public Health Service as a Supervisory Programmer at the National Cancer Institute in Bethesda, Maryland, earning an M.S. degree in Technology of Management from American University.
+Dr. Shamos enrolled in Yale University's Department of Computer Science as a member of its second entering class in 1972, earning an M.S. in 1973 and an M. Phil. in 1974.
+For his thesis work he developed fundamental algorithms
+in Computational Geometry with Dan Hoey.
+He was the author with Franco Preparata of "Computational Geometry: An Introduction," the first book in the field.
+In 1975, Dr. Shamos was hired as an Assistant Professor in the Computer Science and Mathematics departments at Carnegie Mellon.
+He was named "czar" of CMU's introductory programming courses and taught a graduate course in analysis of algorithms.
+In 1978 he received the Ph.D. from Yale and also joined the CMU Department of Statistics.
+In 1979, he formed Unilogic, Ltd. to commercialize Scribe, a document production system written by Brian Reid, who was then a graduate student at CMU.
+In 1981, after earning a law degree at Duquesne University, he requested adjunct faculty status at CMU to work full-time for Unilogic.
+In 1984, Unilogic spun out Lexeme Corporation, formed to develop automated tools for source language translation.
+The assets of Unilogic were sold in 1987 and Dr. Shamos spent the next three years largely studying billiard history, ultimately publishing several books on the subject.
+Since 1988 he has been a Contributing Editor of Billiards Digest magazine.
+More details can be found here.
+In 1990, Dr. Shamos joined the Webb Law Firm, the largest intellectual property firm in Pittsburgh.
+He spent eight years involved in all phases of intellectual property, prosecuting patent applications and litigating trademark and copyright cases.
+In 1998, he returned to CMU as Principal Systems Scientist to serve as a Directory of the Universal Library, a book scanning project that has now sponsored the scanning of more than 1.5 million books.
+At that time, he held a joint appointment in the Language Technologies Institute and the Tepper School of Business, teaching analysis of algorithms and intellectual property law.
+In 1999, he was named Co-Director of the Institute for eCommerce, a joint venture between the School of Computer Science and Tepper, teaching eCommerce Technology, Electronic Payment Systems and Internet Law as part of the Master of Science in Electronic Commerce (MSEC).
+In 2001, Dr. Shamos was named Distinguished Career Professor.
+He was then asked to work on the development of a technology version of the MSEC degree using the story-centered curriculum concept pioneered by Roger Schank.
+Dr. Shamos directed the MSIT in eBusiness Technology from 2002-2018.
+He is now Director of the M.S. in Artificial Intelligence and Innovation. Since 2001, he has been Visiting Professor in the Department of Computer Science at the University of Hong Kong, where he teaches Electronic Payment Systems each year.
+From 1980-2004 and then again from 2004-2010, Dr. Shamos has served as statutory examiner of computerized voting system for the Secretary of the Commonwealth of Pennsylvania.
+From 2010 to the present, he has served as an expert witness on behalf of the Commonwealth of Pennsylvania in alectornic voting matters. He has also inspected voting systems for West Virginia, Nevada, Delaware, Texas and Massachusetts, eventually participating in over 120 examinations.
+He has testified on several occasions before the U.S. Congress and state legislatures concerning electronic voting.
+In 2004, he designed and taught a course at CMU entitled "Electronic Voting."
+See the electronic voting section.
+Dr. Shamos has served as an expert witness in more than 360 cases involving computer technology.
+See the full list.
+eBusiness technology, artificial intelligence, electronic voting, graph models of financial systems, experimental mathematics.
+Education
+A.B. (1968) Princeton University (Physics).   Thesis: "Gravitational Radiation Reaction".  Applies the principles of Wheeler-Feynman electrodynamics to a tensor field as opposed to a vector field. Advisor: John A. Wheeler.
+M.A. (1970) Vassar College (Physics).   Thesis: "An Absorber Theory of Acoustical Radiation."  Applies the principles of Wheeler-Feynman electrodynamics to a scalar field as opposed to a vector field. Advisor: Morton A. Tavel.
+M.S. (1972) American University
+M.S.  (1973) Yale University (Computer Science).
+M.Phil. (1974) Yale University (Computer Science).
+Ph.D. (1978) Yale University (Computer Science).   Thesis: "Computational Geometry".  Analysis of the complexity of fundamental geometric algorithms such as area computation, sweep-line algorithms, polygon intersection, Voronoi diagram construction, and minimum spanning tree. Thesis committee: David Dobkin, Martin H.
+Schultz, Stanley C.
+Eisenstat.
+J.D. (1981) Duquesne University, cum laude.
+Academic Experience
+Distinguished Career Professor,
+and Language Technologies Institute, School of Computer Science, Carnegie Mellon University (2001- ). Principal Systems Scientist (1998-2001).  Principal Lecturer (2002-2003).  Teaching Professor (2003- ).  Faculty, Tepper School of Business, Carnegie Mellon University (1999-2004).
+Director, M.S. in Artifical Intelligence and Innovation (2018-). Director, M.S. in Biotechnology, Innovation and Computation (2018-2019).
+Director, M.S.I.T in eBusiness Technology (2002-2018).
+Core Faculty, CMU Privacy Engineering degree program (2013-).
+Director, Universal Library, Carnegie Mellon University (1998-).
+Visiting Professor, Department of Computer Science, The University of Hong Kong (2001- ).
+Adjunct Faculty, Carnegie Mellon University, Department of Computer Science (1981-1998). Formerly Assistant Professor, Carnegie Mellon University, Departments of Computer Science and Mathematics (1975-81), Dept. of Statistics (1978-81).
+Teaching assistant, Yale University Department of Computer Science (1972-1975).
+Teaching Assistant, Vassar College Department of Physics (1969-1970).
+Scientific Publications
+Google Scholar citations.
+Books
+1.
+Computational Geometry: An Introduction, with Franco P.
+Preparata.  Springer-Verlag
+(1985, revised ed., 1991), 390 pp.  ISBN 0387961313.
+2. Вычислительная геометрия: введение.  Russian
+translation of "Computational Geometry: An Introduction." Moscow: Mir
+Publishers (1989).  ISBN 5030010416.
+3. Keisan kikagaku nyumon.
+Japanese translation by T. Asano and T. Asano of Computational Geometry: An Introduction, with F. P.
+Preparata.   Soken Shuppan (Jul. 1992).  ISBN 4795263213.
+4.
+Handbook of Academic Titles.  198 pp. (Nov. 2002).  An
+encyclopedia of various academic designations used at over 1000 colleges and
+universities in the United States.
+5. Geometria obliczeniowa.  Wprowadzenie. Polish
+translation of "Computational Geometry: An Introduction."
+Warsaw: Helion (2003) 392 pp.  ISBN 8373610987.
+6. Shamos's Catalog of the Real Numbers. 700 pp. (2011).
+Book Chapters
+1. "The
+Universal Digital Library: Intelligent Agents and Information on Demand,"
+with Raj Reddy.   Chapter 6 in
+Emerging Communication Technologies and the Society, by N. Balakrishnan,
+Indian National Science Academy (2000).  ISBN 81-7319-341-X.
+2. "Privacy and Public Records." Chapter 16 in
+Personal Information Management, Jones & Teevan, eds., Univ. of
+Washington Press (2007), ISBN978-0-295-98737-8.
+Articles
+1. "On the Piezoelectric Effect in Bone," with M. H. Shamos
+and L. S. Lavine.  Nature 197:81 (1963).
+2. "An Absorber Theory of Acoustical Radiation," with M. A.
+Tavel. Journal of the Acoustical Society of America 54:46–49 (1973).
+3. "Problems in Computational Geometry." Unpublished book
+manuscript (1974, revised 1977). Distributed in photocopy.
+4. "Geometric Complexity." Proceedings of the Seventh
+Annual ACM Symposium on Automata and Theory of Computation (May 1975) 224–233.
+5. "Closest-point Problems," with D. J. Hoey. Proceedings
+of the Sixteenth IEEE Symposium on Foundations of Computer Science (Oct. 1975)
+151–162.
+6. "Divide and Conquer in Multidimensional Space," with J. L.
+Bentley. Proceedings of the Eighth Annual ACM Symposium on Automata and Theory of
+Computing (May 1976) 220–230.
+7. "Geometric Intersection Problems," with D. J. Hoey. Proceedings
+of the Seventeenth Annual IEEE Symposium on Foundations of Computer Science (Oct.
+1976) 208–215.
+8. "Lower Bounds from Complex Function Theory," with G.
+Yuval. Proceedings of the Seventeenth Annual IEEE Symposium on Foundations of Computer
+Science (Oct. 1976) 268–273.
+9. "Geometry and Statistics: Problems at the Interface." In Algorithms
+and Complexity: New Directions and Recent Results, J. F. Traub, ed., Academic Press
+(1976) 251–280.
+10. "Divide and Conquer for Linear Expected Time," with J. L.
+Bentley. Information Processing Letters 7 (1977) 87–91.
+11. "A Problem in Multivariate Statistics: Algorithm, Data
+Structure, and Applications," with J. L. Bentley. Proceedings of the Fifteenth
+Allerton Conference on Communications, Control and Computers (Sep. 1977) 193–201.
+12. "Optimal Algorithms for Structuring Geographic Data,"
+with J. L. Bentley. Proceedings of the Harvard Conference on Topological Data
+Structures for Geographic Information Systems (Oct. 1977) 43–51.
+13. "Time and Space," with A. R. Meyer. In Perspectives
+on Computer Science, A. K. Jones, ed. Academic Press (1977).
+14. "Computational Geometry." Ph.D. Thesis, Yale University
+(1978). University Microfilms, Ann Arbor, MI.
+15. Combinatorics on Graphs I: Graph Polynomials. Unpublished
+book manuscript (1978).
+16. "Robust Picture Processing Operators and Their Implementation
+as Circuits." Proceedings of the Fall 1978 Workshop on Image Processing,
+Carnegie Mellon University (1978).
+17. "A practical system for source language translation,"
+with T. R. Kueny and P. L. Lehman. Proceedings of the National Conf. on Software
+Reuseability and Maintainability, pp. B-1 – B-12, Washington, DC (Sep. 1986).
+18. "The Early Years of Computational Geometry – A Personal
+Memoir." Advances in Discrete and Computational Geometry (B. Chazelle, J. E.
+Goodman, and R. Pollack, eds.), Contemporary Mathematics, Amer. Math. Soc.,
+Providence (1998).
+19. "Japanese Digital Information Policy, Intellectual Property and Economics," in "Digital
+Information Organization in Japan
+20. "A
+Multiparty Computation for Randomly Ordering Players and Making Random
+Selections," with Latanya Sweeney.  Carnegie Mellon Univeristy
+School of Computer Science Technical Report CMU-ISRI-04-126 (July 2004)
+21. "Machines as readers: a solution to the copyright problem." J. Zhejiang Univ. Science 6A, 11, pp. 1179-1187
+(Nov. 2005).
+22. Overcounting Functions (2011).
+23. Property Enumerators and a Partial Sum Theorem (2011).
+See also "Electronic Voting Publications," below.
+Courses Taught 1998-present
+11-651: Artificial Intelligence and Future Markets. Fall 2018-present
+11-699: MSAII Capstone. Fall 2018-present
+17-562/17-662/17-762: Law of Computer Technology. Fall 2017-present
+ECOM/ICOM 6016: Electronic Payment Systems. Spring 2001-present, University of Hong Kong
+08-700: Ubiquitous Computing, MSIT eBusiness Technology Program. Fall 2004-present
+08-715: Electronic Payment Systems, MSIT eBusiness Technology Program. Fall 2004-present
+17-803/17-400: Electronic Voting. Fall 2004
+96-761: Ubiquitous Computing (CMU West Campus), MSIT eBusiness Technology Program. Fall 2002 and 2003
+96-774: Electronic Payment Systems (CMU West Campus), MSIT eBusiness Technology Program. Fall 2002 and 2003
+20-751: eCommerce Technology, Master of Science in Electronic Commerce Program. Spring 2000-2004
+20-763: Electronic Payment Systems, Master of Science in Electronic Commerce Program. Spring 2000-2004
+46-840: Ecommerce Law and Regulation, Master of Science in Electronic Commerce Program. Spring 2000-2004
+45-886: Intellectual Capital and Its Protection. Fall 1999. Tepper School of Business
+15-451: Algorithm Design and Analysis. Spring 1998. With Prof. Sleator
+Business Experience
+President, Expert Engagements LLC (2003-present).
+President, Unus, Inc., database publishing software
+(formerly Unilogic, Ltd.) (1979-1987).
+President, Lexeme Corporation (1984-87), software
+language translation products.
+Managing Partner, Shamos and Tchen (1978-82),
+computer consulting firm.
+Supervisory Programmer, National Cancer Institute (1970-72), while a commissioned officer in the United States Public Health Service (O-3).
+Associate Engineer, IBM Corporation (1968-70), design
+of manufacturing information systems.
+Patents
+Co-inventor with K. Srinivasan, U.S. Patent
+7,330,839, "Method and System for Dynamic Pricing," issued February
+12, 2008.
+Co-inventor with K. Srinivasan, U.S. Patent
+7,421,278, "Method and
+Apparatus for Time-Aware and Location-Aware Marketing," issued
+September 2, 2008.
+Co-inventor with K. Srinivasan, U.S. Patent
+7,747,465, "Determining
+the Effectiveness of Internet Advertising," issued June 29, 2010.
+Co-inventor with K. Srinivasan, U.S. Patent 8,195,197, "Method and
+Apparatus for Time-Aware and Location-Aware Marketing," issued June 5, 2012.
+Co-inventor with K. Srinivasan, U.S. Patent 8,280,773, "Method and
+Apparatus for Internet Customer Retention," issued October 2, 2012.
+Co-inventor with K. Srinivasan, U.S. Patent 9,456,299, "Method and
+Apparatus for Time-Aware and Location-Aware Marketing," issued September 27, 2016.
+Legal Experience
+Private practice of law (2003-present), intellectual property
+Special Counsel, Reed Smith LLP
+(2000-2003), electronic commerce law.
+Shareholder, The Webb Law Firm
+(1996-2000), intellectual property law. Associate (1990-95).
+Private practice of law (1987-90), intellectual property
+Associate, law firm of Buchanan,
+Ingersoll, P. C. (1985-87), Emerging Companies Department.
+General Counsel, Carnegie Group,
+Inc. (1983-85), artificial intelligence company.
+Private practice of law (1981-83), computer law.
+Bar Admissions (all current)
+Supreme Court of Pennsylvania
+(1981– ).
+United
+States District Court for the Western District of Pennsylvania (1981– ).
+United
+States Patent and Trademark Office (1981– ).
+United
+States Tax Court (1982– ).
+United
+States Court of Appeals for the Armed Forces (1982– ).
+United
+States Court of Appeals for the Third Circuit (1982– ).
+United
+States Supreme Court (1985– ).
+United
+States Court of Appeals for the Federal Circuit (1985– ).
+Expert Witness
+View the full list of Dr. Shamos's expert witness engagements.
+Electronic Voting
+Voting System Examinations
+Dr. Shamos has conducted over 120 voting system examinations for seven states:
+Member, Sarasota Source Code Audit Task Force, Florida Secretary of State (2007-2008)
+Consultant to the Secretary of the Commonwealth of Massachusetts (2006).
+Consultant to the Pennsylvania Secretary of the Commonwealth (1998-2000, 2004- ).
+Project SERVE Security Peer Review Group (2003).
+Attorney General's Designee for electronic voting examinations, State of Texas (1987-2000).
+Statutory Examiner of electronic voting systems, Commonwealth of Pennsylvania (1980-1996).
+Consultant to Montgomery County, Pennsylvania (1996).
+Consultant to the Secretary of State of Nevada (1996).
+Consultant to the Delaware Legislature (1989).
+Consultant to the Secretary of State of West Virginia (1984).
+Legislative Testimony
+Dr. Shamos has testifed about electronic voting before various committees of Congress and state legislatures:
+Testimony before the Texas Legislature concerning electronic voting, Austin, Texas,
+1987.  Result: passage of the Texas Electronic Voting Law.
+Invited
+testimony before
+the British House of Lords, Subcommittee B of the European Union
+Committee, April 20, 2000.   Subject: European regulation of
+eCommerce.
+Testimony before the
+Pennsylvania Legislature State Government Committee concerning electronic
+voting, Philadelphia, March 10, 2004.
+Testimony before the
+United States Commission on Civil Rights concerning electronic
+voting, Washington, DC, April 9, 2004.
+Testimony before the U.S. House of Representatives Committee on
+Science concerning voting system certification, Washington, DC, June 24,
+2004.
+Testimony before the
+U.S. House of Representatives Committee on House Administration
+concerning voting system security, Washington, DC, July 7, 2004.
+Testimony before the
+U.S. House of Representatives Committee on Government Reform concerning
+electronic voting technology, Washington, DC, July 20, 2004.
+Testimony on DREs and
+paper trails before the Virginia Legislature Study Commission on Voting
+System Certification and Security, Richmond, VA, August 16, 2004.
+Testimony before the Election Assistance Commission, Technical
+Guidelines Development Committee, Subcommittee on
+Computer Security and Transparency, Gaithersburg, MD, Sept. 20, 2004.
+Testimony before the
+House Ways and Means Committee of the Maryland General Assembly on
+voting machine paper trails, Annapolis, MD, December 7, 2004.
+Testimony before the
+U.S. House of Representatives Committee on House Administration
+concerning paper trails, Washington, DC, September 28, 2006.
+Testimony before the U.S. Election Assistance Commission concerning
+the Voting System Testing and Certification Program, Washington, DC,
+October 26, 2006.
+Testimony before the Georgia State Board of Elections, Powder Springs,
+GA, December 21, 2007.
+Testimony before the Maryland House of Delegates Ways and Means
+Committee, Annapolis, MD, January 18, 2007.
+Testimony before the U.S. Senate Committee on Rules and
+Administration on the Ballot Integrity Act of 2007, Washington, DC, July
+25, 2007.
+Electronic Voting Publications
+Books
+1. Glossary of Electronic Voting (2011).
+Articles
+2. "Voting System Certification — An Examiner’s View." Invited paper presented at the Election Center Conference, Reno, Nevada (Sep. 1989).
+3. "Electronic Voting — Evaluating the Threat." Proc. Third ACM Conf. on Computers, Freedom & Privacy,  San Francisco, CA (Mar. 1993).
+4. "Paper v. Electronic Voting Records
+— An Assessment."  Proc. 14th ACM Conf. on Computers, Freedom & Privacy, Berkeley, CA (Apr. 2004).
+5. "Evaluation of Voting Systems," with P.L. Vora, B. Adida, R. Bucholz, D. Chaum, D. Dill, D. Jefferson, D. Jones, W. Lattin, A. Rubin and M. Young, Commun. ACM 47(11):144 (2004).
+6. "Voting as an Engineering Problem." The Bridge (publication of the National Academy of Engineering), Summer 2007, pp. 35-39.
+7. "Realities of E-Voting Security,"
+with A. Yasinsac.  IEEE Security and Privacy 10:5 (Sep/Oct 2012), pp.
+16-17.  Also guest editor of that issue, devoted to E-voting Security.
+8. "Why our voting systems are safe." Op-ed in the Pittsburgh Post-Gazette, Dec. 31, 2016.
+Published Reports
+9. "Software and Security Analysis of the ES%S iVotronic 8.0.1.2 Voting Machine Firmware,"with Yasinsac et al., February 23, 2007.  Review
+commissioned by the Secretary of State of Florida to investigate irregularities in the Congressional District 13 election of 2006.
+Non-Academic
+Billiards
+My principal outside interest is in the game of billiards and billiard history.
+I am a Contributing Editor of Billiards Digest magazine, for which I write a momthly column on billiard history and a brief rules column.
+I am Curator of The Billiard Archive, a Pennsylvania non-profit foundation set up to preserve the game's history.
+The Billiard Archive holds the largest collection of prints and paintings on the subject of billiard in the United States.
+I started playing during the 1960s and won the Princeton University Three-Cushion championship in 1968 and placed first the Association of College Unions Eastern Regional Three-Cushion tournamemnt the same year.
+I have served in various capacities with the Billiard Congress of America, the official governing body of billiards in the United States.
+Currently I am faculty advisor to the Carnegie Mellon Pool Team.
+Curator, The Billiard Archive (1983 -).
+Contributing Editor, Billiards Digest magazine (1988- ).
+Billiard Worldcup Association official referee (2001-2004)
+Chair, Statistics and Records Committee, Billiard Congress of America (1989-2001).
+Chair, Hall of Fame Committee, Billiard Congress of America (2001-2003).  Member (1990- ).
+Member, Rules Committee, Billiard Congress of America (1998-2001).
+Billiard Congress of America Certified Instructor (1998-2000)
+Received the Industry Service Award of the Billiard and Bowling Institute of America (1996)
+Member, U.S. Billiard Media Association Hall of Fame Selection Board (2007-)
+Billiard Books
+1. Pool. New York: Mallard Press division of Bantam-Doubleday-Dell
+Promotional Book Company (Aug. 1991). 128 pp. ISBN 0–7924–5310–7.
+2. Le billard et le billard amÃ©ricain. Paris: Minerva, 1992. 128 pp. Translation by Jean-Yves Prate of the author’s American
+book, Pool. ISBN 2–8307–0160–7.
+3. The
+Illustrated Encyclopedia of Billiards. New York: Lyons & Burford (1993). 310 pp. ISBN 1-55821-219-1.
+4. Pool Snooker Carambola. Padua: Facto Edizioni (1993). 128 pp. Italian translation of Pool. Translated by Elisabetta Bezzon. ISBN 88-85860-20-6.  The first English-language billiard book ever published in Italian.
+5. Pool. New York: Michael Friedman (Jun. 1994). 128 pp. ISBN 0–7924–5310–7. Paperback edition of the author’s 1991 Pool.
+6. Shooting Pool: The People, the Passion, the Pulse of the Game, with photographs by George Bennett. New York: Artisan (Jun. 1998). 144 pp. ISBN 1-885183-95-X.>  A photographic survey of pool in the U.S. in 1997.
+A Book-of-the-Month Club bonus selection (Fall, 1998).
+7. Setting the Stage for Fifty Years. Coralville, IA: Billiard Congress of America (Jun. 1998). 88 pp.
+A history of the Billiard Congress of America.
+8.  The New Illustrated Encyclopedia of Billiards. New York: Lyons Press (1999).  320 pp.  ISBN 1-55821-797-5.  An expanded and revised edition of The Illustrated Encyclopedia of Billiards.
+9.  The
+Complete Book of Billiards.  New York: Gramercy Books (2000).  306 pp.  ISBN 0-517-20869-5.  Reissue of author's 1993 The
+Illustrated Encyclopedia of Billiards.
+10.  The New Illustrated Encyclopedia of Billiards. New York: Lyons Press (2002).  336 pp.  ISBN 1-58574-685-1.  Revised and updated paperback edition of The New Illustrated Encyclopedia of Billiards.
+Bagpipes
+Dr. Shamos studied bagpipe performance with Pipe Major Sandy Jones of the U.S. Air Force Pipe Band (now retired from The Citadel) and the late John MacFadyen of Glasgow.
+He was proofreader for the revised edition of the Scots Guards Standard Settings of Pipe Music when the regiment was overseas fighting in the Falkland Islands.
+He has amassed a large collection of printed bagpipe music and for contributions to bagpipe musicography received the first Black and White Scotch Achiever's Award in 1991.
+Family
+I met my wife Julie (née Van Allen) at Vassar College in 1968 and we have been together ever since. We were married in 1973 in Washington, DC and renewed our vows on the island of Tobago in 1998.
+Our daughter Josselyn was born in 1982. She has a B.A. from Chatham College and an M.A. in Communications from Ohio State. She married Dan Crane in 2008. They subsequently divorced. Josselyn live in the Shadyside area of Pittsburgh, less than 3 blocks from our house. The Crane's daughter Harlow was born on April 9, 2010. Her brother Bishop was born on July 13, 2012.
+Our son Alexander was born in 1984. He lives in Tucson and was married to Rebecca Santos (now Shamos) in January 2018. Their daughter, Amelia Eleanor Shamos, was born April 17, 2019. Their second daughter, Sophia Anastasia Shamos, was born March 14, 2021.
+For more information, see our family page
+The format of this home page was designed by
+Duen Horng ("Polo") Chau for Prof. Brad Myers of the CMU Human-Computer Interaction Institute.

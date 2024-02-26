@@ -1,0 +1,6 @@
+Title: Intensive Longitudinal Assessment of Adolescents to Predict Suicidal Thoughts and Behaviors.
+Year: 2023
+Authors: R. Auerbach, Ranqing Lan, H. Galfalvy, Kira L. Alqueza, J. Cohn, Ryann Crowley, Katherine Durham, Karla Joyce, Lauren E. Kahn, Rahil A. Kamath, Louis-Philippe Morency, G. Porta, A. Srinivasan, Jamie Zelazny, D. Brent, Nicholas Allen
+Abstract: None
+Publication Venue: Journal of the American Academy of Child and Adolescent Psychiatry
+TLDR: {'model': 'tldr@v2.0.0', 'text': "Intensive longitudinal assessment through personal smartphones offers a feasible method to assess variability in adolescents' emotional experiences and suicide risk."}

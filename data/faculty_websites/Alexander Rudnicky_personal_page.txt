@@ -1,0 +1,126 @@
+Alex Rudnicky's Home Page
+Alexander
+I. Rudnicky
+I'm a
+Professor Emeritus at the Language Technologies Instutute in the School
+of Computer Science at Carnegie
+Mellon University. I'm a part of the Carnegie Mellon Speech
+Group, one of the oldest such groups in the country, founded by Raj Reddy. I'm also
+the Director of the Carnegie
+Mellon Speech ConsortiumLanguage
+Technologies Institute and, actually, most of my students are
+based there.
+My current
+interests center on language-based communication between humans and
+robots and on aspects of core speech recognition, such as
+out-of-vocabulary (OOV) word processing. I am also interested in
+approaches to learning based on implicit supervision and on improvement
+of speech system knowledge through dialog.
+Check this list of publications.
+interfaces,
+spoken dialog systems and language in general. I've headed the SpeechWear
+project that produced an early mobile speech system; I'm still
+interested in the topic of mobile
+speech. I also headed the Communicator
+project, which dealt with spoken dialog system architectures. Olympus, a successor
+system, is available in Open Source. The Ravenclaw
+dialog
+manager came out of the Communicator work and is the current
+foundation for many of the systems that we create. RavenClaw
+incorporates dialog management ideas that were first introduced in the
+Office Manager (OM) system and further developed in successor systems,
+including Scheduler and AGENDA. Papers listed on the publications
+describe this work. Some
+videos from our group.
+In 1996 I
+implemented a set of web-based
+tools that are used to generate a knowledge base for the open
+source Sphinx
+recognition system, including a language model and a pronouncing
+dictionary. It's proved to be quite popular, and I've continued to
+maintain the tool and expand its capabilities. Do try it out if you are
+building a recognition system (the model formats work for any
+ARPA-compliant system).
+We continue to maintain Ravenclaw and the Olympus dialog system toolkit in open source.
+If you'd like to know
+more about me read this biographical sketch or look at this maybe not up-to-date resumé.
+You can also find me at LinkedIn
+and on Plaxo;
+these sites will have somewhat different information about me. I'm involved in several
+organizations focused on spoken language interaction (SIGdial)
+and speech technologies (AVIOS).
+The following papers cover our work in the past while. It's probably out of date.
+Check here
+for a complete list. Or just look me up here.
+Chen,
+YN, Sun, M,. Rudnicky A.I., and Gershman, A. Leveraging
+Behavioral Patterns of Mobile Applications for Personalized Spoken Language
+Understanding, Proceedings of The 17th ACM International Conference
+on Multimodal Interaction (ICMI 2015), Seattle WA, (to appear).
+Chen,
+YN, Wang, WY and Rudnicky, A.I. Learning Semantic
+Hierarchy with Distributional Representations for Unsupervised Spoken Language
+Understanding,  Proceedings of The 16th Annual Conference of the
+International Speech Communication Association (INTERSPEECH 2015), Dresden
+DE, 2015.
+Sun, M.,
+Chen, YN and Rudnicky, A.I. Learning
+OOV through Semantic Relatedness in Spoken Dialog Systems Proceedings of
+The 16th Annual Conference of the International Speech Communication
+Association (INTERSPEECH 2015), Dresden DE, 2015.
+Chiu,
+J, Yajie Miao, Y, Black, AW and Rudnicky, A.I. Distributed
+Representation-based Spoken Word Sense Induction, Proceedings of
+Interspeech, Dresden DE, 2015.
+Marge,
+M.
+and Rudnicky, A. Miscommunication
+Recovery in Physically Situated Dialogue Proceedings of SIGdial,
+Prague CZ, 2015.
+Chen,
+YN, Wang, WY, Gershman, A. and Rudnicky, A.I. Matrix
+Factorization with Knowledge Graph Propagation for Unsupervised Spoken Language
+Understanding, Proceedings of The 53rd Annual Meeting of the ACL
+and The 7th International Joint Conference on Natural Language Processing of
+the Asian Federation of Natural Language Processing (ACL-IJCNLP 2015),
+Beijing China, 2015.
+Chen
+YN, Wang, WY, Rudnicky, A.I., Jointly
+Modeling Inter-Slot Relations by Random Walk on Knowledge Graphs for
+Unsupervised Spoken Language Understanding, Proceedings of NAACL,
+Denver CO, 2015.
+Yu,
+Z., Papangelis, A. & Rudnicky, A. TickTock:
+Engagement Awareness in a non-Goal-Oriented Multimodal Dialogue System. AAAI
+Spring Symposium, 2015.
+Chen, YN & Rudnicky, AI Dynamically Supporting Unexplored Domains in Conversational Interactions by Enriching Semantics with Neural Word Embeddings Proceedings of SLT, December 2014, Lake Tahoe, NV.
+Chen, YN, Wang, WY & Rudnicky, AI Leveraging Frame Semantics and Distributional Semantics for Unsupervised Semantic Slot Induction in Spoken Dialogue Systems Proceedings of SLT, December 2014, Lake Tahoe, NV.
+Pappu, A. & Rudnicky, A.I.
+Learning Situated Knowledge Bases through Dialog.
+Proceedings of Interspeech, September 2014, Singapore.
+Justin Chiu, J., Wang, Y., Trmal, J., Povey, D., Chen, G., Rudnicky, A. Combination of FST and CN Search in Spoken Term Detection
+Proceedings of Interspeech, September 2014, Singapore.
+Qin, L. & Rudnicky, AI Building a vocabulary self-learning speech recognition system, Proceedings of Interspeech, September 2014, Singapore.
+Pappu, A. & Rudnicky, A.I. Knowledge Acquisition Strategies for Goal-Oriented Dialog Systems.
+Proceedings of SIGDIAL, June 2014, Philadelphia, PA.
+Chen, YN & Rudnicky, AI Two-Stage Stochastic Natural Language Generation for Email Synthesis by Modeling Sender Style and Topic Structure, Proceedings of the 8th Int'l Natural Language Generation Conference (INLG), June 2014, Philadelphia, PA.
+Pappu, A., Sun, M., Sridharan, S. & Rudnicky, A.I. Conversational Strategies for Robustly Managing Dialog in Public Spaces Proceedings of EACL Dialog in Motion Workshop, 2014, Gothenburg, Sweden.
+If you need to
+reach me, E-mail is usually a good bet, particularly when I'm away on
+travel, since I do check my mail regularly.
+My
+office is room 6511 in the Gates-Hillman
+Center (10a on the map). Or you can reach me in one of the following ways:
+email
++1
+412 268 2622 (voice)
++1
+412 268 5576 (fax)
+Postal
+Address:
+Prof. Alexander Rudnicky
+School of Computer Science
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+USA

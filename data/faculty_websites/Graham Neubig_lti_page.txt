@@ -1,0 +1,17 @@
+Graham Neubig | Carnegie Mellon University - Language Technologies Institute
+Jump to navigation
+Apply
+People
+Search form
+Search
+Office: 5409
+—Gates & Hillman Centers
+Email: gneubig@cs.cmu.edu
+Department(s):Language Technologies Institute
+Personal Website
+Graham&nbspNeubig
+Associate Professor
+Machine TranslationNatural Language ProcessingSpoken Language ProcessingMachine Learning
+Advances in core NLP technology: Human language is complex and nuanced, and handling this complexity in a computational way requires sophisticated algorithms or learning techniques, the development of which is far from a solved problem. The first major area of my work focuses on advances in core NLP technology, which improve the accuracy with which we can analyze, translate, generate, or reply to textual inputs.
+Master of Science in Intelligent Information Systems
+Language Technologies Institute 5000 Forbes Avenue Pittsburgh, PA 15213-3891 412-268-6591 ltiwebmaster@cs.cmu.eduConnect     Login | Logout

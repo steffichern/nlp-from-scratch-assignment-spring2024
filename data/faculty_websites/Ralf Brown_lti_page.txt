@@ -1,0 +1,19 @@
+Ralf Brown | Carnegie Mellon University - Language Technologies Institute
+Jump to navigation
+Apply
+People
+Search form
+Search
+Office: 5711
+—Gates & Hillman Centers
+Email: ralf@andrew.cmu.edu
+Phone: 412-268-8298
+Department(s):Language Technologies Institute
+Personal Website
+Ralf&nbspBrown
+Principal Systems Scientist
+Information Extraction, Summarization and Question AnsweringInformation Retrieval, Text Mining and AnalyticsMachine TranslationNatural Language Processing and Computational Linguistics
+Machine TranslationI have worked primarily on example-based machine translation (EBMT), a data-driven translation approach that originated a few years before statistical machine translation characterized by the use of individual examples from the training corpus during translation. I have also applied my EBMT system to cross-language information retrieval and speech-to-speech translation.
+Digital ForensicsI have worked on reconstructing corrupted ZIP archives and on extracting text in arbitrary encodings from files and raw disk images. As part of this work, I developed language identification for more than 1,300 languages, and am continuing to improve the accuracy with which languages can be identified.
+Information ExtractionMy current work focuses on extracting actions and affected components from aircraft maintenance records.
+Language Technologies Institute 5000 Forbes Avenue Pittsburgh, PA 15213-3891 412-268-6591 ltiwebmaster@cs.cmu.eduConnect     Login | Logout

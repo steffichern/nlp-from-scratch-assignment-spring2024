@@ -258,3 +258,51 @@ Which department offers Master of Science in Intelligent Information Systems (MI
 Which department offers Master of Computational Data Science (MCDS)?
 Which department offers Master of Science in Artificial Intelligence and Innovation (MSAII)?
 Which department offers LT Concentration?
+What are the research interests of Jamie Callan?
+What paper did Scott Fahlman publish?
+What's the phone number of Jamie Callan?
+What's the phone number of Alexander Rudnicky?
+Where is the office of Michael Shamos?
+What's the phone number of Robert Frederking?
+What's the position of Bhiksha Ramakrishnan?
+What are the research interests of Eric Nyberg?
+What's the phone number of Lorraine Levin?
+What paper did Bhiksha Ramakrishnan publish?
+What's the email address of Emma Strubell?
+What paper did Daphne Ippolito publish?
+Where is the office of Emma Strubell?
+What are the research interests of Fernando Diaz?
+What's the email address of Alexander Waibel?
+Where is the office of Rita Singh?
+What's the position of Emma Strubell?
+What's the email address of Teruko Mitamura?
+What are the research interests of Sean Welleck?
+What paper did Alexander Rudnicky publish?
+What's the position of Scott Fahlman?
+What's the position of David Mortensen?
+What are the research interests of Rita Singh?
+What's the position of Carolyn Rose?
+What's the email address of Lorraine Levin?
+Where is the office of Mona Diab?
+What's the email address of Yonatan Bisk?
+What's the phone number of Shinji Watanabe?
+Where is the office of Bhiksha Ramakrishnan?
+What paper did Kemal Oflazer publish?
+Who are the authors of High_school_students’_data_modeling_practices_and_processes?
+What's the publication venue of Quantifying&Modeling_Multimodal_Interactions?
+Summarize the contents of Tartan?
+Which year was Tartan published?
+Who are the authors of Robust_Cross-Domain_Pseudo-Labeling_and_Contrastive_Learning_for_Unsupervised_Domain_Adaptation_NIR-VIS_Face_Recognition?
+Who are the authors of ChatGPT_MT?
+What's the publication venue of Automatic_synchrotron_tomographic_alignment_schemes_based_on_genetic_algorithms_and_human-in-the-loop_software?
+Who are the authors of Somatosensory_and_motor_representations_following_bilateral_transplants_of_the_hands?
+What's the publication venue of _and_Scalable_Approach_for_the_Synthesis_of_Eldecalcitol?
+What's the publication venue of Fusion-in-T5?
+What's the publication venue of Accurate_detection_of_reactive_oxygen_species_by_tuning_an_elastic_motif_(GPGGA)4_in_nanopores.?
+Summarize the contents of Association_between_albumin-to-globulin_ratio_and_the_risk_of_overall_survival_in_advanced_non-small_cell_lung_cancer_patients_with_anlotinib_treatment?
+Which year was Association_between_albumin-to-globulin_ratio_and_the_risk_of_overall_survival_in_advanced_non-small_cell_lung_cancer_patients_with_anlotinib_treatment published?
+Summarize the contents of When to generate hedges in peer-tutoring interactions?
+Which year was When to generate hedges in peer-tutoring interactions published?
+Who are the authors of Co-benefits_of_carbon_neutrality_in_enhancing_and_stabilizing_solar_and_wind_energy?
+Summarize the contents of Identification_of_Nonlinear_Latent_Hierarchical_Models?
+Which year was Identification_of_Nonlinear_Latent_Hierarchical_Models published?

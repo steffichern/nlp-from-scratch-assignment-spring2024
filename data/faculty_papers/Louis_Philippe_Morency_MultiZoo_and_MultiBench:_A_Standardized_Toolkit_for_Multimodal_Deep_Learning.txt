@@ -1,0 +1,6 @@
+Title: MultiZoo and MultiBench: A Standardized Toolkit for Multimodal Deep Learning
+Year: 2023
+Authors: P. Liang, Yiwei Lyu, Xiang Fan, Arav Agarwal, Yun Cheng, Louis-Philippe Morency, R. Salakhutdinov
+Abstract: None
+Publication Venue: Journal of machine learning research
+TLDR: None

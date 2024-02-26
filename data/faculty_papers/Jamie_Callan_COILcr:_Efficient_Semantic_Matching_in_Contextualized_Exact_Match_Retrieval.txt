@@ -1,0 +1,6 @@
+Title: COILcr: Efficient Semantic Matching in Contextualized Exact Match Retrieval
+Year: 2023
+Authors: Zhen Fan, Luyu Gao, Rohan Jha, Jamie Callan
+Abstract: None
+Publication Venue: European Conference on Information Retrieval
+TLDR: {'model': 'tldr@v2.0.0', 'text': None}

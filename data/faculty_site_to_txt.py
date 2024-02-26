@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -10,8 +11,8 @@ def fetch_and_parse(url):
         soup = BeautifulSoup(response.text, 'html.parser')
 
         # Define titles to be removed
-        titles_to_remove = ["Academics", "Research", "Partnership", "News",
-                            "Events", "DEI", "LTI Intranet", "Contact Us", "Careers",
+        titles_to_remove = ["Academics", "Partnership", "News",
+                            "Events", "LTI Intranet", "Contact Us", "Careers",
                             "navigation", "Apply", "People", "Search form", "Search",]
 
         # Remove script and style elements
@@ -39,7 +40,7 @@ websites = discover_faculty_pages()
 
 for faculty, urls in websites.items():
     print(f"Processing faculty {faculty} pages...")
-    path_prefix = "/home/scott/nlp-from-scratch-assignment-spring2024/data/faculty_websites/"
+    path_prefix =  os.environ.get("DATA_PATH")+"faculty_websites/"
     text, soup = fetch_and_parse(urls[0])
     # Process and write the LTI page content
     lti_page_text, _ = fetch_and_parse(urls[0])  # Assuming the first URL is always present

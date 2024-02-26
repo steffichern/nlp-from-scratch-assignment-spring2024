@@ -1,0 +1,79 @@
+Eric Nyberg's Home Page
+Eric Nyberg
+Professor
+Carnegie Mellon UniversitySchool of Computer ScienceLanguage Technologies Institute
+[ Contact ]
+Noted for his contributions to the fields of automatic text
+translation, information retrieval, and automatic question answering,
+Nyberg holds a Ph.D. from Carnegie Mellon University (1992) and
+a B.A. from Boston University (1983).
+He is a recipient of
+the
+(for his contributions to
+the field of question answering and his work as an original developer
+on the Watson
+project) and the BU
+Computer Science Distinguished Alumna/Alumnus Award.
+He is also co-Founder and Chief Data
+Scientist at Cognistx, and serves on the
+Scientific Advisory Board for Fairhair.ai. From its inception in 2004 until 2022, Eric supported the MCDS Program as founding co-Director and later Director.
+Publications and Patents
+Eric Nyberg's Google Scholar profile
+( most cited |
+most recent )
+Current Courses
+11-632 : Data Science Capstone (Fall)
+11-634 : Capstone Planning Seminar (Spring)
+11-797 : Question Answering (Spring)
+Past Projects
+The BioASQ Challenge. From 2012 to 2016, a team led by LTI
+Ph.D. student Zi Yang collaborated with
+Hoffman-LaRoche's Innovation Center to develop information systems for
+unstructured biomedical text, including a passage retrieval system for
+the TREC Genomics dataset [1], a decision support system for gene
+targeting which leverages information gathered from PubMed articles by
+an automatic QA system [2], a Biomedical Semantic QA system which
+received six 1st-place scores in the 2015
+BioASQ Challenge tasks, which included snippet retrieval, concept
+retrieval, and exact answer retrieval [3], and a Biomedical Semantic
+QA system which received three 1st-place scores in exact answer
+retrieval in the 2016
+BioASQ Challenge [4]. In 2017, a team of CMU Ph.D and MS students focused on ideal answer (summary) questions in BioASQ, and received the best automatic evaluation score in
+Task 5B [5].
+[1] Z. Yang, E. Garduno, Y. Fang, A. Maiberg, C. McCormack, and E. Nyberg (2013).
+"Building Optimal Information Systems Automatically: Configuration Space Exploration
+for Biomedical Information Systems", Proceedings of the ACM Conference on Information
+and Knowledge Management [ ACM Digital Library ]
+ACM Digital Library ]
+[3] Z. Yang, N. Gupta, X. Sun, D. Xu, C. Zhang, and E. Nyberg (2015). "Learning to Answer Biomedical Factoid & List Questions: OAQA at BioASQ 3B", In Proceedings of CLEF 2015 Evaluation Labs and Workshop [ PDF ]
+[4] Z. Yang, Y. Zhou and E. Nyberg (2016). "Learning to Answer Biomedical Questions: OAQA at BioASQ 4B", In Proceedings of Workshop on Biomedical Language Processing [ PDF ]
+[5] K. Chandu, A. Naik, A. Chandrasekar, Z. Yang, N. Gupta, E. Nyberg (2017). "Tackling Biomedical Text Summarization: OAQA at BioASQ 5B", In Proceedings of BioNLP 2017, pp. 58-66. [ PDF ]
+The LiveQA Challenge. From 2015 to 2018, CMU collaborated with Yahoo! Labs (as part of the InMind project) to develop automatic answering agents that can respond to real-time questions from web users (like those received by the Yahoo! Answers community QA web site). CMU student Di Wang created a LiveQA system which combined standard retrieval algorithms (BM25) with state-of-the-art deep learning models [1] to achieve the highest score among all participants in the 2015 TREC LiveQA Challenge [2]. In 2016, Di extended his system to include a novel answer ranking method based on attentional encoder-decoder recurrent neural networks [3] and achieved the highest score among 25 automatic systems that were evaluated in the 2016 LiveQA Track [4]. Di continued to refine his approach and fielded the best automatic system for LiveQA medical questions in 2017 [5,6].
+[1] D. Wang and E. Nyberg (2015). "CMU OAQA at TREC 2015 LiveQA: Discovering the Right Answer with Clues", Proceedings of TREC 2015 [ PDF ]
+[2] E. Agichtein, D. Carmel, D. Harman, D. Pelleg, Y. Pinter (2015). "Overview of the TREC 2015 Live QA Track", Proceedings of TREC 2015 [ PDF ]
+[3] D. Wang and E. Nyberg (2016). "CMU OAQA at TREC 2016 LiveQA: An Attentional Neural Encoder-Decoder Approach for Answer Ranking", Proceedings of TREC 2016 [ PDF ]
+[4] E. Agichtein, D. Carmel, D. Pelleg, Y. Pinter and D. Harman (2016). "Overview of the TREC 2016 Live QA Track", Proceedings of TREC 2016 [ PDF ]
+[5] D. Wang and E. Nyberg (2017). "CMU OAQA at TREC 2017 LiveQA: A Neural Dual Entailment Approach for Question Paraphrase Identification", Proceedings of TREC 2017 [ PDF ].
+[6] A. B. Abacha, E. Agichtein, Y. Pinter and D. Demner-Fushman (2017). "Overview of the Medical Question Answering Task at TREC 2017 LiveQA
+", Proceedings of TREC 2017 [ PDF ]
+The Jeopardy! Challenge. From 2007 to 2011, CMU collaborated
+with the IBM DeepQA Group
+to develop an open-source framework for open advancement of question answering (OAQA) [1]. The initial OAQA
+architecture and data model were used to build systems for the TREC
+challenge problem and the Jeopardy! challenge problem [2,3,4,5].
+Carnegie Mellon students Nico Schlaefer
+and Hideki Shima also contributed
+algorithms and code to IBM's Watson system, as participants in IBM's
+summer internship program.
+[1] "Towards the Open Advancement of Question Answering", IBM Technical Report RC24789, 2009
+[2]
+D. Ferrucci, E. Brown, J. Chu-Carroll,
+J. Fan, D. Gondek, A. Kalyanpur,
+A. Lally, J. W. Murdock, E. Nyberg, J. Prager,
+N. Schlaefer and C. Welty (2010). "Building Watson: An Overview of the DeepQA Project", AI Magazine, 31:3, pp. 59-79. [ PDF ]
+[3] "CMU and IBM Collaborate on Open Computing System for Question Answering",
+PR Newswire on February 11, 2011
+[4] "IBM Announces Eight Universities Contributing to Watson",
+PR Newswire on February 11, 2011
+[5] "Man versus machine: Chalk one up for the latter in Jeopardy! showdown'", Pittsburgh Post-Gazette on February 17, 2011
+Last Updated 09-April-2019

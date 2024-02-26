@@ -1,0 +1,21 @@
+Fernando Diaz Fernando Diaz
+Associate Professor
+Language Technologies Institute, Carnegie Mellon University
+diazf [at] acm [dot] org
+Introduction
+My recent projects include, Evaluationpreference-based evaluation: improving the sensitivity of evaluation metrics by measuring pairwise preferences between systems.fairness in ranking: designing evaluation metrics for ranked lists of items capturing different notions of fairness.artificial intelligence and culture: understanding and measuring the impact of artificial intelligence on culture industries such as music, film, and literature.Algorithm Designretrieval-enhanced machine learning: designing algorithms to support machine learning systems.tip of the tongue retrieval: designing algorithms to help people re-find previously consumed content. My previous projects have included text summarization in crisis informatics contexts, inferring user intent from mouse cursor behavior, aggregated search, time-sensitive ranking, and core retrieval algorithms.
+Detailed biographical information can be found on my curriculum vitae.
+Publications
+Organization
+Conferences , General Co-Chair ACM Conference on Fairness, Accountability, and Transparency (FAccT 2019), Program Co-Chair ACM International Conference on Web Search and Data Mining (WSDM 2014), General Co-Chair
+Workshops NeurIPS 2022 Workshop on Cultures in AI/AI in Culture2022 NeurIPS 2020 Workshop on Algorithmic Fairness through the Lens of Causality and Interpretability2020 CIFAR Workshop on AI, Recommendation, and the Curation of Culture2019 Workshop on Fairness, Accountability, and Transparency on the World Wide Web (FATWEB)2017 WSDM Workshop on the Ethics of Online Experimentation2016 SIGIR Workshop on Reproducibility, Inexplicability, and Generalizability of Results (RIGOR)2015 Social Web for Disaster Management (SWDM)2015, 2016 SIGIR Workshop on Time-Aware Information Access
+2012,
+2013,
+2014
+ACM Workshop on Social Web Search and Mining: Analysis of User Generated Content Under Crisis 2011 TRECTip of The Tongue Retrieval 2023 Fair Ranking 2019, 2020 Real-Time Summarization 2016 Temporal Summarization 2013, 2014, 2015
+Web 2013, 2014 Teaching Web Search Engines Department of Computer Science Courant Institute of Mathematical Sciences NYU Spring 2013, Fall 2014, Fall 2016
+Experimental Design for Information SystemsUniversity of TrentoSummer 2012
+Advanced Information Retrieval and DatabasesDepartment of Computer Science School of Engineering NYUSpring 2011
+Code pref_eval Implementation of mulitiple preference-based evaluation for ranked lists and binary relevance. indri A clone of indri-5.12 with minor customizations. trec-data scripts to download and standardize trec query and document sets. latex-dependencies generate .tex dependencies for a root latex file. latex-merge merge collection of latex source into a single latex file. kstem stand alone Krovetz stemmer.
+FAQ
+Q: Why 841.io? A: Because it is short.

@@ -1,0 +1,40 @@
+Justine Cassell
+SCS Dean's Professor, School of Computer Science
+Gates Hall 5107, 5000 Forbes Avenue
+Carnegie Mellon University
+Pittsburgh, PA 15213
+justine @ cs.cmu.edu
+412.204.6268
+Justine
+Cassell is SCS Dean's Professor in the School of Computer Science at Carnegie Mellon University. She is currently on leave from CMU to hold the founding international chair at
+(one of French President Macron's four new AI Institutes), and hold the associated position of Directrice de Recherche at Inria Paris. In January 2021, Cassell was named a member of the 21 person French governmental committee CNNUM (Conseil National du Numérique) - the Council on the Future of Digital in France.
+Before going on leave, Cassell was Associate Dean of Technology Strategy and Impact in the School of Computer Science, a founding co-director of the Simon Initiative on Technology-Enhanced Learning, and founding co-director, with Professor Tom Mitchell, of the Yahoo (Oath/Verizon) InMind Project on the Future of Personal Assistants. She is Director Emerita of the Human-Computer Interaction Institute, also in the School of Computer Science at CMU. Her complete CV can be found at the top of the papers section of this website.
+Prior to her arrival at CMU, Cassell was the founding director of both the Center for Technology and Social Behavior, and the Technology and Social Behavior joint Ph.D. in Communication and Computer Science at Northwestern University. Cassell
+previously held a tenured professor appointment at the MIT Media
+Lab where she directed the
+Cassell won the Edgerton prize at MIT in 2001, in 2008
+was awarded the Anita Borg Institute Women of Vision award for Leadership, In 2012 was named a AAAS Fellow and in 2016 was named both a Royal Society of Edinburgh Fellow and
+ACM Fellow. In 2018 Cassell was awarded the Henry and Bryna David prize for social science applicable to public policy, and in 2023 was awarded an honorary doctorate by the University of Edinburgh. In between, her work has been awarded a number of best paper prizes, and has received various other kinds of accolades.
+Cassell has spoken at the World Economic Forum meetings in Davos every year from 2012 to 2019, in 2011 was named to the World Economic Forum Global Agenda Council on Robotics and Smart Devices, which she then chaired. She currently serves as a member of their expert forum.
+She holds
+a DEUG in Literature from the Université de Besançon
+(France), an M.Litt
+in Linguistics from the University of
+Edinburgh (Scotland), and a dual Ph.D. from the University
+of Chicago (USA), in Psychology and in Linguistics.
+In particular, Cassell is credited with developing the Embodied Conversational Agent (ECA), a virtual human capable of interacting with humans using both language and nonverbal behavior (more information here). More recently Cassell has investigated the role that the ECA can play in children's lives, as a virtual peer support for learning (more information here). The most recent instantiations of the virtual peer technology have been in the service of scaffolding the development of the essential skill of curiosity in elementary school students (more information here), and understanding the ways in which children who come to school speaking non-mainstream dialects of English can maintain this important index of culture and identity, while still achieving school success (more information here). Prior work using the virtual peer addressed the learning of contingent social skills in children with high-functioning autism (more information here).
+In other work, Cassell has employed linguistic and psychological metrics to examine the long term effects of online community on young people's self-esteem, self-efficacy, and sense of agency.
+This work focuses on the Junior Summit, the world's first large-scale online community for young people, which in 1998 brought together in an online forum more than 3000 young people from 139 countries.
+welcome
+|
+people
+|
+|
+courses
+|
+activism
+|
+papers
+|
+press
+|

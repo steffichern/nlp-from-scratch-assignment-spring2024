@@ -1,0 +1,6 @@
+Title: Distributed cooperative dual closed loop velocity-attitude consensus controller for rendezvous of the underactuated AUV swarm in 3-dimensional space
+Year: 2023
+Authors: Yu Zhang, W. Zhang, G. Xia, Yiming Yang, Yan-luan Zheng, Peiyu Han
+Abstract: None
+Publication Venue: Ocean Engineering
+TLDR: None

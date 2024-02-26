@@ -1,0 +1,328 @@
+Daniel Fried
+Daniel Fried
+I'm an assistant professor at the Language Technologies Institute in the School of Computer Science at Carnegie Mellon University, working on natural language processing.
+My work focuses on enabling people to use language to interact with computers to carry out useful tasks in the world.
+One recurring theme in my work is pragmatics: viewing language as an action that people take in context to affect their communicative partners (see our survey and position paper).
+I'm excited about domains where computers can complement human abilities. Recently, I've been focusing on code generation, aiming to make programming more communicative.
+Before CMU, I was a postdoc at FAIR Seattle and the University of Washington. I completed a PhD at UC Berkeley in the NLP Group and the , an M.Phil. at the Cambridge Computer Laboratory and a B.S. at the University of Arizona.
+Sponsorship: Our work has been supported by gifts from the Okawa Foundation, Google, Cisco Systems, and Autodesk.
+Office: Gates-Hillman Center 6509
+Email:
+dfried@cs.cmu.edu (note for prospective students)
+Unfortunately, I do not have internship openings for students outside CMU at this time.
+Links:
+CV •
+Google Scholar •
+Twitter
+•
+•
+People •
+Papers •
+Talks •
+Teaching
+Overview Slides (2023) •
+,
+[html]
+Grounded interaction
+How can we help people use language to interact with computers to carry out tasks in the world? I'm especially interested in multi-turn, task-oriented settings.
+VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks (preprint)
+Symbolic Planning and Code Generation for Grounded Dialogue (EMNLP 2023)
+Grounding Language Models to Images for Multimodal Inputs and Outputs (ICML 2023)
+Generating Images with Multimodal Language Models (NeurIPS 2023)
+WebArena: A Realistic Web Environment for Building Autonomous Agents (ICLR 2024)
+Sotopia: Interactive Evaluation for Social Intelligence in Language Agents (ICLR 2024)
+Code generation
+We're aiming to make programming more communicative, by creating models, methods, and datasets for producing code from language.
+TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks (preprint)
+InCoder: A Generative Model for Code Infilling and Synthesis (ICLR 2023)
+StarCoder: May the Source Be With You (TMLR 2023)
+DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation (ICML 2023)
+Execution-Based Evaluation for Open-Domain Code Generation (Findings of EMNLP 2023)
+Coder Reviewer Reranking for Code Generation (ICML 2023)
+Natural Language to Code Translation with Execution (EMNLP 2022)
+Applied pragmatics
+Much of our work takes a multi-agent system perspective on communication, showing that we can improve NLP agents by modeling the intents and interpretations that people have when they use language.
+Pragmatics in Language Grounding: Phenomena, Tasks, and Modeling Approaches (Findings of EMNLP 2023)
+Generating Pragmatic Examples to Train Neural Program Synthesizers (ICLR 2024)
+Pragmatic Inference with a CLIP Listener for Contrastive Captioning (Findings of ACL 2023)
+Human-Level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning (Science 2022)
+Inferring Rewards from Language in Context (ACL 2022)
+Speaker-Follower Models for Vision and Language Navigation (NeurIPS 2018)
+Unified Pragmatic Models for Generating and Following Instructions (NAACL 2018)
+Dec 2023: Talk at the NILLI workshop at EMNLP 2023 on Interacting with LLMs for Grounded Tasks. (video).
+Nov 2023: Talk at the MIT Neurosymbolic Reading Group on Interacting with (Code) LLMs.
+Sept 2023: Honored to receive an
+for our work on pragmatics and language interfaces.
+Spring 2023: Invited talks at GitHub Next and Bloomberg AI on InCoder, SantaCoder, and StarCoder: Findings from Training Open-Source Code LLMs.
+Spring 2023: StarCoder code generation models released with the BigCode project. Check out the paper, demo, and VSCode extension.
+Spring 2023: Invited talks at UT Austin, JHU, and UPenn on Using Language Strategically in Context (slides).
+Dec 2022: Invited talk at CoRL Workshop on Strategic Multi-Agent Interactions.
+Nov 2022: Preprint of our survey and position paper on Pragmatics in Language Grounding.
+Nov 2022: Paper in Science with the FAIR Diplomacy team on an agent for human-level play in Diplomacy, a dialogue- and negotiation-based strategy game. Overview article.
+Fall 2022: Several preprints with collaborators on language-to-code generation: models (InCoder, BigCode project),
+inference techniques (MBR-Exec, Coder-Reviewer Reranking), and benchmark datasets (DS-1000, ODEX).
+Sep 2022: Invited talk at LTI "Future of Code Generation" Seminar on Contextual Communication in Programming.
+Aug 2022: Joined CMU!
+Jul 2022: Co-organized NAACL Workshop on Implicit and Underspecified Language
+Apr 2022: Invited talk (with Jessy Lin) at MIT CPL on Reasoning About Actions and Rewards in Language Interactions.
+People
+Here are the amazing students I'm currently (Fall 2023) working with!
+Advisees
+JY Koh (CMU PhD, with Russ Salakhutdinov)
+Andy Liu (CMU PhD, with Mona Diab)
+Saujas Vaduguru (CMU PhD)
+Zora Wang (CMU PhD, with Graham Neubig)
+Alex Xie (CMU MLT, with Matt Gormley and Vincent Hellendoorn)
+Papers
+Preprints
+VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks
+Jing Yu Koh, Robert Lo*, Lawrence Jang*, Vikram Duvvur*, Ming Chong Lim*, Po-Yu Huang*, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, and Daniel Fried
+preprint, 2024.
+project page
+TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks
+Zhiruo Wang, Graham Neubig, and Daniel Fried
+preprint, 2024.
+code
+Asking More Informative Questions for Grounded Retrieval
+Sedrick Keh, Justin T. Chiu, and Daniel Fried
+preprint, 2023.
+Comparative Knowledge Distillation
+Alex Wilf, Alex Tianyi Xu, Paul Pu Liang, Alexander Obolenskiy, Daniel Fried, and Louis-Philippe Morency
+preprint, 2023.
+Amortizing Pragmatic Program Synthesis with Rankings
+Yewen Pu, Saujas Vaduguru, Priyan Vaithilingam, Elena Glassman, and Daniel Fried
+preprint, 2023.
+2024
+Generating Pragmatic Examples to Train Neural Program Synthesizers
+Saujas Vaduguru, Daniel Fried, and Yewen Pu
+ICLR, 2024.
+Sotopia: Interactive Evaluation for Social Intelligence in Language Agents
+Xuhui Zhou*, Hao Zhu*, Leena Mathur, Ruohong Zhang, Haofei Yu, Zhengyang Qi, Louis-Philippe Morency, Yonatan Bisk, Daniel Fried, Graham Neubig, and Maarten Sap
+ICLR, 2024.
+project page
+WebArena: A Realistic Web Environment for Building Autonomous Agents
+Shuyan Zhou*, Frank Xu*, Hao Zhu**, Xuhui Zhou**, Robert Lo**, Abishek Sridhar**, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, and Graham Neubig
+ICLR, 2024.
+project page
+2023
+StarCoder: May the Source Be With You!
+Raymond Li et al. (BigCode team)project page,
+models,
+demo
+Symbolic Planning and Code Generation for Grounded Dialogue
+Justin Chiu, Wenting Zhao, Derek Chen, Saujas Vaduguru, Alexander Rush, and Daniel Fried
+EMNLP, 2023.
+API-Assisted Code Generation for Question Answering on Varied Table Structures
+Yihan Cao*, Shuyi Chen*, Ryan Liu*, Zhiruo Wang, and Daniel Fried
+EMNLP, 2023.
+Pragmatics in Language Grounding: Phenomena, Tasks, and Modeling Approaches
+Daniel Fried*, Nicholas Tomlin*, Jennifer Hu, Roma Patel, and Aida Nematzadeh
+Findings of EMNLP, 2023.
+Data Augmentation for Code Translation with Comparable Corpora and Multiple References
+Yiqing Xie, Atharva Naik, Daniel Fried, and Carolyn Rose
+Findings of EMNLP, 2023.
+Execution-Based Evaluation for Open-Domain Code Generation
+Zhiruo Wang, Shuyan Zhou, Daniel Fried, and Graham Neubig
+Findings of EMNLP, 2023.
+dataset
+AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies
+Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, and Mike Lewis
+Findings of EMNLP, 2023.
+Generating Images with Multimodal Language Models
+Jing Yu Koh, Daniel Fried, and Ruslan Salakhutdinov
+NeurIPS, 2023.
+project page
+Pragmatic Inference with a CLIP Listener for Contrastive Captioning
+Jiefu Ou, Benno Krojer, and Daniel Fried
+Findings of ACL, 2023.
+Contrastive Decoding: Open-ended Text Generation as Optimization
+Xiang Lisa Li, Ari Holtzman, Daniel Fried, Percy Liang, Jason Eisner, Tatsunori Hashimoto, Luke Zettlemoyer, and Mike Lewis
+ACL, 2023.
+code
+Grounding Language Models to Images for Multimodal Inputs and Outputs
+Jing Yu Koh, Ruslan Salakhutdinov, and Daniel Fried
+ICML, 2023.
+project page
+Coder Reviewer Reranking for Code Generation
+Tianyi Zhang, Tao Yu, Tatsunori B. Hashimoto, Mike Lewis, Wen-tau Yih, Daniel Fried, and Sida I. Wang
+ICML, 2023.
+code
+DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation
+Yuhang Lai*, Chengxi Li*, Yiming Wang*, Tianyi Zhang*, Ruiqi Zhong*, Luke Zettlemoyer, Scott Wen-tau Yih, Daniel Fried, Sida I. Wang, and Tao Yu
+ICML, 2023.
+site,
+code,
+data
+InCoder: A Generative Model for Code Infilling and Synthesis
+Daniel Fried*, Armen Aghajanyan*, Jessy Lin, Sida I. Wang, Eric Wallace, Freda Shi, Ruiqi Zhong, Wen-tau Yih, Luke Zettlemoyer, and Mike Lewis
+ICLR, 2023.
+site,
+code and models,
+demo
+SantaCoder: Don't Reach for the Stars!
+Loubna Ben Allal*, Raymond Li*, Denis Kocetkov*, et al. (BigCode Team)
+Deep Learning for Code Workshop, 2023. Best Paper Award.
+models
+2022
+Human-Level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning
+FAIR Diplomacy Team
+Science, 2022. site,
+code,
+blog,
+article
+Natural Language to Code Translation with Execution
+Freda Shi, Daniel Fried, Marjan Ghazvininejad, Luke Zettlemoyer, and Sida I. Wang
+EMNLP, 2022.
+code
+Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs
+Maarten Sap, Ronan Le Bras, Daniel Fried, and Yejin Choi
+EMNLP, 2022.
+G3: Geolocation via Guidebook Grounding
+Grace Luo*, Giscard Biamby*, Trevor Darrell, Daniel Fried, and Anna Rohrbach
+Findings of EMNLP, 2022.
+code
+Modeling Perspective-Dependent Ambiguity in Collaborative Dialogue
+Justin T. Chiu, Wenting Zhao, Alexander M. Rush, and Daniel Fried
+Wordplay: When Language Meets Games Workshop, 2022.
+Inferring Rewards from Language in Context
+Jessy Lin, Daniel Fried, Dan Klein, and Anca Dragan
+ACL, 2022.
+code and data
+2021
+Learning Grounded Pragmatic Communication
+Daniel Fried
+PhD thesis.
+job talk slides, video
+Reference-Centric Models for Grounded Collaborative Dialogue
+Daniel Fried, Justin Chiu, and Dan Klein
+EMNLP, 2021.
+talk,
+slides [pdf],
+poster [pdf],
+code
+Modular Networks for Compositional Instruction Following
+Rodolfo Corona, Daniel Fried, Coline Devin, Dan Klein, and Trevor Darrell
+NAACL, 2021.
+Interactive Assignments for Teaching Structured Neural NLP
+David Gaddy, Daniel Fried, Nikita Kitaev, Mitchell Stern, Rodolfo Corona, John DeNero, and Dan Klein
+Teaching NLP Workshop, NAACL 2021.
+materials
+2020
+Syntactic Structure Distillation Pretraining For Bidirectional Encoders
+Adhiguna Kuncoro*, Lingpeng Kong*, Daniel Fried*, Dani Yogatama, Laura Rimell, Chris Dyer, and Phil Blunsom
+TACL, 2020. talk
+Learning to Segment Actions from Observation and Narration
+Daniel Fried, Jean-Baptiste Alayrac, Phil Blunsom, Chris Dyer, Stephen Clark, and Aida Nematzadeh
+ACL, 2020.
+talk,
+slides [pdf],
+code
+2019
+Cross-Domain Generalization of Neural Constituency Parsers
+Daniel Fried*, Nikita Kitaev*, and Dan Klein
+ACL, 2019.
+talk,
+slides [pdf],
+code & models
+Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation
+Ronghang Hu, Daniel Fried, Anna Rohrbach, Dan Klein, Trevor Darrell, and Kate Saenko
+ACL, 2019.
+poster [pdf]
+Pragmatically Informative Text Generation
+Sheng Shen, Daniel Fried, Jacob Andreas, and Dan Klein
+NAACL, 2019.
+slides [pdf]
+2018
+Speaker-Follower Models for Vision-and-Language Navigation
+Daniel Fried*, Ronghang Hu*, Volkan Cirik*, Anna Rohrbach, Jacob Andreas,
+Louis-Philippe Morency, Taylor Berg-Kirkpatrick, Kate Saenko, Dan Klein**, Trevor Darrell**
+NeurIPS, 2018.
+project page,
+code,
+video,
+poster
+Policy Gradient as a Proxy for Dynamic Oracles in Constituency Parsing
+Daniel Fried and Dan Klein
+ACL, 2018.
+talk,
+slides [pptx],
+slides [pdf],
+code
+Unified Pragmatic Models for Generating and Following Instructions
+Daniel Fried, Jacob Andreas, and Dan Klein
+NAACL, 2018.
+talk,
+slides [pptx],
+slides [pdf],
+code
+2017
+Effective Inference for Generative Neural Parsing
+Mitchell Stern, Daniel Fried, and Dan Klein
+EMNLP, 2017.
+poster
+Improving Neural Parsing by Disentangling Model Combination and Reranking Effects
+Daniel Fried*, Mitchell Stern*, and Dan Klein
+ACL, 2017.
+talk,
+slides [pptx],
+slides [pdf],
+code
+2016
+Towards Using Social Media to Identify Individuals At Risk for Preventable Chronic Illness
+Dane Bell, Daniel Fried, Luwen Huangfu, Mihai Surdeanu, and Stephen Kobourov.
+LREC, 2016
+2015
+Low-rank Tensor Approximations for Compositional Distributional Semantics
+Daniel Fried
+MPhil thesis.
+Low-Rank Tensors for Verbs in Compositional Distributional Semantics
+Daniel Fried, Tamara Polajnar, and Stephen Clark
+ACL, 2015.
+poster [pdf]
+Higher-Order Lexical Semantic Models for Non-Factoid Answer Reranking
+Daniel Fried, Peter Jansen, Gustave Hahn-Powell, Mihai Surdeanu, and Peter Clark
+TACL, 2015.
+slides [pdf]
+Incorporating Both Distributional and Relational Semantics in Word Representations
+Daniel Fried and Kevin Duh
+ICLR, 2015 (workshop track).
+long version [arxiv],
+poster [pdf]
+2014 and before
+Analyzing the Language of Food on Social Media
+Daniel Fried, Mihai Surdeanu, Stephen Kobourov, Melanie Hingle, and Dane Bell
+IEEE BigData, 2014.
+long version [arxiv],
+slides [pdf],
+demo
+Maps of Computer Science
+Daniel Fried and Stephen Kobourov
+PacificVis, 2014.
+slides [pdf],
+poster [pdf],
+code,
+demo
+Predicting Parallelization of Sequential Programs Using Supervised Learning
+Daniel Fried, Zhen Li, Ali Jannesari and Felix Wolf
+IEEE ICMLA, 2013
+A Generative Probabilistic Framework for Learning Spatial Language
+Colin R. Dawson, Jeremy Wright, Antons Rebguns, Marco Valenzuela Esc&aacutercega, Daniel Fried, and Paul R. Cohen
+IEEE ICDL-EpiRob, 2013. Best Paper Award
+Bayesian Geometric Modeling of Indoor Scenes
+Luca Del Pero, Joshua Bowdish, Daniel Fried, Bonnie Kermgard, Emily Hartley, and Kobus Barnard
+CVPR, 2012
+Talks
+Short overview: video (7 minutes)
+Interacting with LLMs for Grounded Tasks: video (45 minutes); slides
+Using language strategically in context: video (1 hour); slides
+Code generation as communication: slides
+Teaching
+Courses
+Advanced Multimodal Machine Learning (11-877). Spring 2024.
+Neural Code Generation (11-891). Spring 2024.
+Advanced Natural Language Processing (11-711). Fall 2023.
+Multimodal Machine Learning (11-777). Spring 2023.
+Course Materials
+Interactive Assignments for Teaching Structured Neural NLP: assignments we developed for UC Berkeley's graduate NLP course (CS 288). They teach structured prediction using a combination of modern neural architectures and classic inference algorithms (in PyTorch and CoLab).
+Grounded Semantics lecture, with thanks to Greg Durrett and Chris Potts for slides.
+Pragmatic Language Games lecture, with thanks to Nick Tomlin for slides.

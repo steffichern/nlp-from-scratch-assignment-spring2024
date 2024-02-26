@@ -1,0 +1,6 @@
+Title: FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions
+Year: 2023
+Authors: Hyunwoo Kim, Melanie Sclar, Xuhui Zhou, R. L. Bras, Gunhee Kim, Yejin Choi, Maarten Sap
+Abstract: Theory of mind (ToM) evaluations currently focus on testing models using passive narratives that inherently lack interactivity. We introduce FANToM, a new benchmark designed to stress-test ToM within information-asymmetric conversational contexts via question answering. Our benchmark draws upon important theoretical requisites from psychology and necessary empirical considerations when evaluating large language models (LLMs). In particular, we formulate multiple types of questions that demand the same underlying reasoning to identify illusory or false sense of ToM capabilities in LLMs. We show that FANToM is challenging for state-of-the-art LLMs, which perform significantly worse than humans even with chain-of-thought reasoning or fine-tuning.
+Publication Venue: Conference on Empirical Methods in Natural Language Processing
+TLDR: {'model': 'tldr@v2.0.0', 'text': 'FANToM is introduced, a new benchmark designed to stress-test ToM within information-asymmetric conversational contexts via question answering that is challenging for state-of-the-art LLMs, which perform significantly worse than humans even with chain- of-thought reasoning or fine-tuning.'}

@@ -124,5 +124,24 @@ def parseEXCELtoQA(
     print("Done! Files created successfully.")
     
 
+def parseHTMLtoTXT():
+    # Reformat the course information according to the specified format
+    formatted_courses_v2 = []
+    
+    for row in rows[1:]:
+        cells = row.find_all('td')
+        cell_texts = [cell.get_text(strip=True) for cell in cells]
+    
+        if all(cell_texts[:10]) and "TBA" not in cell_texts[4:7]:  # Check for completeness excluding 'TBA' for time slots
+            formatted_course_v2 = f"Course Architecture: {cell_texts[0]}, Title: {cell_texts[1]}, Units: {cell_texts[2]}, Lec/Sec: {cell_texts[3]}, Days: {cell_texts[4]}, Begin: {cell_texts[5]}, End: {cell_texts[6]}, Bldg/Room: {cell_texts[7]}, Location: {cell_texts[8]}, Instructor: {cell_texts[9]}"
+            formatted_courses_v2.append(formatted_course_v2)
+    
+    # Save the reformatted courses to a new txt file
+    output_path_v2 = 'Courses/spring.txt'
+    with open(output_path_v2, 'w', encoding='utf-8') as output_file_v2:
+        for course in formatted_courses_v2:
+            output_file_v2.write(course + '\n')
+    
+    return output_path_v2
 
     

@@ -145,3 +145,22 @@ def parseHTMLtoTXT():
     return output_path_v2
 
     
+def parsePDFtoTXT():
+    from PyPDF2 import PdfReader
+
+    # Load and read the PDF file
+    pdf_path = '/data/handbook_phd_2023-2024.pdf'
+    reader = PdfReader(pdf_path)
+    
+    # Extract text from each page
+    text_content = [page.extract_text() for page in reader.pages]
+    
+    # Combine text from all pages into a single string, stripping leading/trailing spaces on each line and removing empty lines
+    cleaned_text = "\n".join([line.strip() for page in text_content for line in page.splitlines() if line.strip()])
+    
+    # Save the cleaned text to a new txt file
+    output_path_pdf_to_text = '/data/handbook_phd_2023-2024_cleaned.txt'
+    with open(output_path_pdf_to_text, 'w', encoding='utf-8') as output_file:
+        output_file.write(cleaned_text)
+    
+    return output_path_pdf_to_text

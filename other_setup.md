@@ -28,6 +28,12 @@ allow this user to create databse
 ALTER USER "711-rag" CREATEDB;
 ```
 
+make it superuser so it can enable extensions
+
+```
+ALTER USER "711-rag" WITH SUPERUSER;
+```
+
 exit
 ```
 \q

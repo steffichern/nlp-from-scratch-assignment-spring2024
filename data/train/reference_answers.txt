@@ -331,9 +331,9 @@ Professor
 Information Extraction, Summarization and Question AnsweringInformation Retrieval, Text Mining and AnalyticsLanguage Technologies for Education
 412-268-6193
 ['GPT-Sentinel:_Distinguishing_Human_and_ChatGPT_Generated_Content']
-shamos@cs.cmu.edu
+estrubel@andrew.cmu.edu
 ['Reverse-Engineering_Decoding_Strategies_Given_Blackbox_Access_to_a_Language_Generation_System', "A_Pretrainer's_Guide_to_Training_Data:_Measuring_the_Effects_of_Data_Age,_Domain_Coverage,_Quality,_&_Toxicity", 'Extracting_Training_Data_from_Diffusion_Models', 'Report_of_the_1st_Workshop_on_Generative_AI_and_Law', 'Are_aligned_neural_networks_adversarially_aligned?', 'Effective_Prompt_Extraction_from_Language_Models', 'Scalable_Extraction_of_Training_Data_from_(Production)_Language_Models']
-6707 Gates & Hillman Centers
+6709 Gates & Hillman Centers
 Information Retrieval: Recommender Systems, Retrieval and Ranking ModelsNatural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation
 waibel@cs.cmu.edu
 6703 Gates & Hillman Centers
@@ -341,7 +341,7 @@ Assistant Professor
 teruko@cs.cmu.edu
 N/A
 ['Advancing_Regular_Language_Reasoning_in_Linear_Recurrent_Neural_Networks', 'Structured_Dialogue_Discourse_Parsing', 'A_Vector_Quantized_Approach_for_Text_to_Speech_Synthesis_on_Real-World_Spontaneous_Speech', 'Tartan:_an_LLM_Driven_SocialBot', 'Overview_of_Robust_and_Multilingual_Automatic_Evaluation_Metrics\n\nfor_Open-Domain_Dialogue_Systems_at_DSTC_11_Track_4', 'Learning_to_Ask_Questions_for_Zero-shot_Dialogue_State_Tracking']
-Research Professor Emeritus
+Professor Emeritus
 Assistant Research Professor
 N/A
 Professor

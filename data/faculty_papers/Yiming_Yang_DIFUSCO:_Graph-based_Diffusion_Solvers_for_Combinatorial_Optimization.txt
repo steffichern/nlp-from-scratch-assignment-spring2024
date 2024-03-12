@@ -191,7 +191,7 @@ the transition probability matrix; ˜x∈ {0,1}N×2is converted from the origina
 with a one-hot vector per row; and ˜xQcomputes a row-wise vector-matrix product.
 Here, βtdenotes the corruption ratio. Also, we wantQT
 t=1(1−βt)≈0such that xT∼Uniform( ·).
-Thet-step marginal can thus be written as: q(xt|x0) = Cat 
+Thet-step marginal can thus be written as: q(xt|x0) = Cat
 xt;p=˜x0Qt
 ,where Qt=
 Q1Q2. . .Qt. And the posterior at time t−1can be obtained by Bayes’ theorem:
@@ -1168,7 +1168,7 @@ Figure 7: Qualitative illustration of how diffusion steps affect the generation 
 models. The results are reported without any post-processing. Continuous DIFUSCO with 50 (first row), 20
 (second row), 10 (third row), and 5 (last row) diffusion steps in cosine schedule are shown.
 For discrete diffusion, the marginal can still be defined as:
-q(xτi|x0) = Cat 
+q(xτi|x0) = Cat
 xτi;p=x0Qτi
 , (11)
 while the posterior becomes:

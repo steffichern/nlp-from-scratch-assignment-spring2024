@@ -112,10 +112,10 @@ itsk-nearest neighbors Naccording to a distance function d(;). Next, thekNN-LM
 distribution over these neighbors using the softmax of their negative distances, and aggregates the probability
 mass for each vocabulary item across all of its occurrences in the retrieved targets:
 pkNN(wtjct)/X
-(ki;vi)2N1wt=viexp( d(ki;f(ct))) (2)
+(ki;vi)2N1wt=viexp(d(ki;f(ct))) (2)
 Finally, this distribution is interpolated with the parametric LM distribution pLMto produce the ﬁnal kNN-LM
 distribution:
-p(wtjct;) = (1 )pLM(wtjct;) +pkNN(wtjct) (3)
+p(wtjct;) = (1)pLM(wtjct;) +pkNN(wtjct) (3)
 whereis a scalar that controls the weights of the interpolation between two components, with higher 
 putting more weight on the non-parametric component.
 Looking closely at Equation 2, we can notice a similarity between the calculation of PkNN and the standard
@@ -130,12 +130,12 @@ the datastore, and aggregate by vocabulary items, making it more closely resembl
 the size of the entire datastore, and Equation 2 becomes the following, based on the distances to every context
 in the datastoreDinstead of a subset of nearest neighbors N.
 pD(wtjct)/X
-(ki;vi)2D1wt=viexp( d(ki;f(ct))) (4)
+(ki;vi)2D1wt=viexp(d(ki;f(ct))) (4)
 In practice, we use kNN search as a way of approximation, by limiting the calculation to only knearest
 neighbors to avoid the computational cost of calculating the distribution over the entire datastore.
 If we re-write and generalize Equation 2, both the kNN-LM of Khandelwal et al. (2020b) and a large number
 of related models can be expressed through the following equation:
-Pinterp= (1 )softmax (Wsmhsm)| {z }
+Pinterp= (1)softmax (Wsmhsm)| {z }
 PLM parametric component+Msoftmax (mask-to-k (Wds
 hds)=)| {z }
 PkNN non-parametric component: (5)
@@ -151,7 +151,7 @@ datastore. As shown in Figure 1, these vectors can come from different layers of
 represents the operation type used to calculate the similarity between context vectors and the query vector,
 which also has several alternatives that we discuss below.
 mask-to-k ()represents a function to sparsify similarity scores across the datastore, setting all but ksimilarity
-scores to 1, which results in probabilities of zero for all masked similarity scores after the softmax.
+scores to1, which results in probabilities of zero for all masked similarity scores after the softmax.
 3
 Practically, this is necessary for kNN-LMs because the size of the datastore Ndsmakes it infeasible to
 calculate all outputs at the same time. With masked logits, we apply a more generalized version of softmax
@@ -766,9 +766,9 @@ smoothing (Ney et al., 1994). We calculate both the forward and backward bigram 
 Figure 6: The effect of the token character length on how much accurate nearest neighbors are better than
 approximate FAISS neighbors. Negative values mean worse. The trend line of the scatter points is shown.
 follows, where wafterandwbefore represent the word after and before the given word w.
-Hforward (w) = X
+Hforward (w) =X
 wafterp(wafterjw) logp(wafterjw) (10)
-Hbackward (w) = X
+Hbackward (w) =X
 wbeforep(wbeforejw) logp(wbeforejw) (11)
 Forward and backward entropy represents how diverse the context after and before the given word is. Intuitively,
 bigram entropy is supposed to indicate words that can appear in lots of different contexts. The higher the
@@ -862,10 +862,10 @@ However, just because ensembling two LMs of the same architecture provides bette
 interpolating the base LM with kNN does not necessarily suggest that kNN’s performance improvement can
 be fully replaced by model ensembling. In other words, we are interested in whether the kNN performance
 improvements are orthogonal to that of model ensembling. To test this, we compare the performance of the
-ensemble of Kmultiple LMs versus the ensemble of K 1multiple LMs plus the kNN component. The
+ensemble of Kmultiple LMs versus the ensemble of K1multiple LMs plus the kNN component. The
 comparison is fair because we have the same number of models in the ensemble, and the only difference is
 whether the kNN component is included. The results are shown in Figure 8. For the “LM” series, each point
-isKLMs ensemble, and for the “ kNN” series, each point is K 1LMs pluskNN. We can see that even at
+isKLMs ensemble, and for the “ kNN” series, each point is K1LMs pluskNN. We can see that even at
 4-ensemble, the ensemble that contain kNN as a component still have a considerable edge over the 4-ensemble
 that contain just LMs.
 Ensemble Components16182022
@@ -924,7 +924,7 @@ loss function that interpolates the base LM’s output with the output using the
 be beneﬁcial.
 To test the hypothesis that standard LM training loss do not emphasize the examples where base LM performs
 badly, we train the extra model’s parameter Wds, with interpolated loss L:
-L=CrossEntropy (softmax (Wdshds) + (1 )softmax (Wsmhsm);y) (12)
+L=CrossEntropy (softmax (Wdshds) + (1)softmax (Wsmhsm);y) (12)
 yrepresents the ground truth label for each context. We only learn the parameter Wdswhile freezing all
 other parameters, similar to all other experiments. We choose = 0:25as it is the best hyper-parameter for
 kNN-LM experiments and our goal for this training is to mimic the loss of kNN-LM after interpolation. This

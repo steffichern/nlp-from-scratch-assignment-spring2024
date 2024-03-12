@@ -323,8 +323,8 @@ modules like a language model. The objective of
 denoising back-translation is to reconstruct xand
 yfromu(f(x))andv(f(y))respectively. The
 denoising back-translation loss is as follows:
-LDBT =Ex2S[ logPT!S(xju(f(x)))]
-+Ey2T[ logPS!T(yjv(f(y)))](1)
+LDBT =Ex2S[logPT!S(xju(f(x)))]
++Ey2T[logPS!T(yjv(f(y)))](1)
 Unlike the original back-translation, the pseudo
 labels of DBT are generated from noisy sentences,
 so the model should learn to transcribe the noisy
@@ -377,7 +377,8 @@ As for the GAN training conﬁguration, we chose
 the coefﬁcients of the loss function according to
 the original paper as follows: the gradient penalty
 weight= 1:5or2:0, the smoothness penalty
-weight= 0:5, and the phoneme diversity loss
+weight
+= 0:5, and the phoneme diversity loss
 weight= 4. We trained 3seeds for each conﬁgu-
 ration, conducting 6 models for each language.
 TDN For the text denormalizer (TDN), we

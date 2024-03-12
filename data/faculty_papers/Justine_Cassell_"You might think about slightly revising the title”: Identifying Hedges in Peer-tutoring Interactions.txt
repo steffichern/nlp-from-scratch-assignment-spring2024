@@ -8,7 +8,8 @@ TLDR: {'model': 'tldr@v2.0.0', 'text': 'A model explainability tool is employed 
 Full paper text:
 Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics
 Volume 1: Long Papers , pages 2160 - 2174
-May 22-27, 2022 c2022 Association for Computational Linguistics
+May 22-27, 2022 c
+2022 Association for Computational Linguistics
 "You might think about slightly revising the title": Identifying Hedges in
 Peer-tutoring Interactions
 Yann Raphalen1, Chloé Clavel2, Justine Cassell1,3

@@ -246,9 +246,9 @@ ume rendering [36]:
 F(r) =NX
 i=1wiFi; (1)
 wherewi= exp0
-@ i 1X
+@i1X
 j=1jj1
-A(1 exp ( ii));
+A(1exp (ii));
 (2)
 wherei;Fidenotes the volume density and feature of sam-
 pled pointi,widenotes the weight of Fiin the ray r,andi
@@ -370,7 +370,7 @@ the transformation to either 3D point features or 2D feature
 maps, we adaptively modulate the mean value (Fs)with
 the sum weight of sampled points along each ray wr. DST
 can be mathematically formulated by:
-Fcs=conv 
+Fcs=conv
 T
 Fc
 (Fs) +wr(Fs);(7)
@@ -386,7 +386,7 @@ so it is basically a matrix multiplication operation. And
 modulationwr, Eq. (7) can be reformulated by:
 Fcs=NX
 i=1wi0
-BB@conv 
+BB@conv
 T
 Fi
 (Fs) +(Fs)| {z }
@@ -423,11 +423,29 @@ and RGB images. Following [19, 37], we use perceptual
 loss [24] as additional supervision to increase reconstructed
 image quality. The overall loss function is:
 Lgrid=X
-r2R^F(r) F(r)2
-2+^IR IR2
+r2R
+
+
+^F(r)F(r)
+
+
+2
+2+
+
+
+^IRIR
+
+
+2
 2
 +X
-l2lpFl(^IR) Fl(IR)2
+l2lp
+
+
+Fl(^IR)Fl(IR)
+
+
+2
 2;(10)
 whereRis the set of rays in each training batch, ^F(r);F(r)
 are the predicted and ground truth feature of ray r,^IR;IR

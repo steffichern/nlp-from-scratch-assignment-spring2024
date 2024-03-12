@@ -147,7 +147,7 @@ i=1); (1)
 whereTis a modality transformer, Lis a dialogue engine (i.e., large language model, LLM), Mis
 a prompt manager, His a task handler, and fPigP
 i=1is a set of Paudio foundation models. Let a
-context with (n 1)-rounds interactions to be deﬁned as C=f(q1; r1);(q2; r2); :::;(qn 1; rn 1))g,
+context with (n1)-rounds interactions to be deﬁned as C=f(q1; r1);(q2; r2); :::;(qn1; rn1))g,
 where qiis the query of ithround and riis the response of ithround. Denoted a new query qn, the
 execution of the AudioGPT is to generate the response rnas formulated in:
 rn= AudioGPT( qn; C) (2)

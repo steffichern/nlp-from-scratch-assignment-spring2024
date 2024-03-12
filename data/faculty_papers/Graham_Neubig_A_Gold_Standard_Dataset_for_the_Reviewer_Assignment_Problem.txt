@@ -61,7 +61,8 @@ review these algorithms in Sections 2 and 5). However, there are two key challen
 such algorithms in a principled manner. First, there is no publicly available gold standard data that can be
 used for algorithm development. Second, despite the existence of many similarity-computation algorithms,
 the absence of the gold standard data prevents principled comparison of these algorithms. As a result,
-three agship machine learning conferences|ICML, NeurIPS, and ACL|rely on three dierent similarity-
+three 
+agship machine learning conferences|ICML, NeurIPS, and ACL|rely on three dierent similarity-
 computation algorithms, and the dierences in performance of these algorithms are not well understood.
 In this work, we address the aforementioned challenges and collect a dataset of reviewers' expertise that
 can facilitate the progress in the reviewer assignment problem . Specically, we conduct a survey of computer
@@ -147,7 +148,8 @@ combining two types of input:
 timates. Many algorithms have been proposed for this task (Mimno and McCallum, 2007; Rodriguez
 and Bollen, 2008; Charlin and Zemel, 2013; Liu et al., 2014; Tran et al., 2017; Anjum et al., 2019;
 Kerzendorf et al., 2020; OpenReview, 2022) and we provide more details on several algorithms used in
-agship computer science conferences in Section 5.
+
+agship computer science conferences in Section 5.
 •Human corrections. Second, automated estimates are corrected by reviewers who can read abstracts
 of submissions and report bids|preferences in reviewing the submissions. A number of works focus
 on the bidding stage and (i) explore the optimal strategy to assist reviewers in navigating the pool of
@@ -253,7 +255,8 @@ We begin with a discussion of the pool of the survey participants: Table 1 displ
 First, we note that all participants work in the broad area of computer science and have rich publication
 proles (at least two papers published, with the mean of 54 papers and the median of 20 papers). In
 many subareas of computer science, including machine learning and articial intelligence, having two papers
-is usually sucient to join the reviewer pool of agship conferences. Given that approximately 85% of
+is usually sucient to join the reviewer pool of 
+agship conferences. Given that approximately 85% of
 participants either have PhD or are in the process of getting the degree, we conclude that most of the
 researchers who contributed to our dataset are eligible to review for machine learning and articial intelligence
 conferences.
@@ -360,23 +363,23 @@ i;j=1
 i<j 
 In
 (s(i)
-r s(j)
+rs(j)
 r)("(i)
-r "(j)
+r"(j)
 r)<0o
 | {z }
 error"(i)
-r "(j)
+r"(j)
 r+In
 (s(i)
-r s(j)
+rs(j)
 r)("(i)
-r "(j)
+r"(j)
 r) = 0o
 | {z }
 tie1
 2"(i)
-r "(j)
+r"(j)
 r!
 :
 In words, for each pair of papers ( p(i)
@@ -389,23 +392,23 @@ based orderingf"(i)
 r;"(j)
 rg. When two orderings disagree (that is, the algorithm makes an error), the algorithm
 is penalized by the dierence of expertise reported by the participant ( j"(i)
-r "(j)
+r"(j)
 rj). Finally, when scores
 computed by the algorithm indicate a tie while expertise scores are dierent, the algorithm is penalized by
 half the dierence in expertise ( 1=2j"(i)
-r "(j)
+r"(j)
 rj).
 Having the unnormalized loss with respect to a participant dened, we now compute the overall loss
 L2[0;1] of the algorithm. For this, we take the sum of unnormalized losses across all participants and
 normalize this sum by the loss achieved by the adversarial algorithm that reverses the ground-truth ordering
-of expertise (that is, sets s= ") and achieves the worst possible performance on the task. More formally,
+of expertise (that is, sets s=") and achieves the worst possible performance on the task. More formally,
 L=P
 rLr
 P
 rmrP
 i;j=1
 i<j"(i)
-r "(j)
+r"(j)
 r:
 Overall, our loss Ltakes values from 0 to 1 with lower values indicating better performance.
 5.2 Algorithms
@@ -418,7 +421,8 @@ Trivial baseline First, we consider a trivial baseline that ignores the content 
 proles when computing the assignment scores: for each (participant, paper) pair, the Trivial algorithm
 predicts the score sto be 1.
 Toronto Paper Matching System (TPMS) TheTPMS algorithm (Charlin and Zemel, 2013), which
-is based on TF-IDF similarities, is widely used by agship conferences such as ICML and AAAI. While an
+is based on TF-IDF similarities, is widely used by 
+agship conferences such as ICML and AAAI. While an
 exact implementation is not publicly available, in our experiments we use an open-source version by Xu et al.
 (2019) which implements the basic TF-IDF logic of TPMS . We also note that this method is rediscovered
 independently by Kerzendorf et al. (2020).
@@ -445,7 +449,8 @@ We use implementations of these methods that are available on the OpenReview Git
 execute them with default parameters.
 ACL paper matching The Association for Computational Linguistics (ACL) is a community of re-
 searchers working on computational problems involving natural language. The association runs multiple
-publication venues, including the agship ACL conference, and has its own method to compute expertise
+publication venues, including the 
+agship ACL conference, and has its own method to compute expertise
 between papers and reviewers.2This algorithm is trained on 45,309 abstracts of papers found in the ACL
 anthology ( https://aclanthology.org ) downloaded in November 2019. The key idea of the model training
 is to split each abstract into two non-contiguous parts and treat two parts of the same abstract as a positive
@@ -500,7 +505,8 @@ computation time, we do not reconstruct reviewer proles for each of these itera
 associated with the construction of reviewer proles is small. Instead, we reuse proles constructed to obtain
 pointwise estimates.
 Finally, we also build condence intervals for the dierence in the performance of the algorithms. We
-do so in addition to the aforementioned procedure since even when the losses of the algorithms uctuate
+do so in addition to the aforementioned procedure since even when the losses of the algorithms 
+uctuate
 with the choice of the bootstrapped dataset, the relative dierence in performance of a pair of algorithms
 may be stable. Specically, we use the procedure above to build condence intervals for the dierence in
 performance between the TPMS algorithm and each of the more advanced algorithms. TPMS is chosen as
@@ -527,9 +533,9 @@ Algorithm Loss 95% CI for Loss with TPMS 95% CI for 
 Trivial 0:50 | | |
 TPMS 0:28 [0 :23;0:33] | |
 ELMo 0:34 [0 :29;0:40] +0 :06 [0 :00;0:13]
-Specter 0:27 [0 :21;0:34]  0:01 [  0:06;0:04]
-Specter+MFR 0.24 [0:18;0:30]  0:04 [  0:09;0:01]
-ACL 0:30 [0 :25;0:35] +0 :01 [  0:03;0:06]
+Specter 0:27 [0 :21;0:34] 0:01 [ 0:06;0:04]
+Specter+MFR 0.24 [0:18;0:30] 0:04 [ 0:09;0:01]
+ACL 0:30 [0 :25;0:35] +0 :01 [ 0:03;0:06]
 Table 3: Comparison of similarity-computation algorithms on the collected data. All algorithms operate
 with reviewer proles consisting of the 20 most recent papers and use titles and abstracts of papers. Lower
 values of loss are better. A positive (respectively, negative) value of  indicates that the algorithm performs
@@ -607,7 +613,7 @@ Additional increase of the prole length does not impact the quality of predicti
 Paper Representation Loss 95% CI for Loss with Title+Abstract 95% CI for 
 Title 0:33 [0 :29;0:38] +0 :07 [0 :02;0:12]
 Title+Abstract 0:27 [0 :22;0:32] | |
-Full Text 0.24 [0:19;0:30]  0:03 [  0:09;0:03]
+Full Text 0.24 [0:19;0:30] 0:03 [ 0:09;0:03]
 Table 4: Performance of the TPMS algorithm with 20 most recent papers included in reviewers' proles and
 with dierent choices of the paper representation. Lower values of loss are better. A positive (respectively,
 negative) value of  indicates that the corresponding choice of the paper representation leads to a weaker
@@ -800,7 +806,8 @@ Technology (ACAIT) , pages 667{674.
 Tang, W., Tang, J., and Tan, C. (2010). Expertise matching via constraint-based optimization. In Proceed-
 ings of the 2010 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent
 Technology - Volume 01 , WI-IAT '10, pages 34{41, Washington, DC, USA. IEEE Computer Society.
-Thorngate, W. and Chowdhury, W. (2014). By the numbers: Track record, awed reviews, journal space,
+Thorngate, W. and Chowdhury, W. (2014). By the numbers: Track record, 
+awed reviews, journal space,
 and the fate of talented authors. In Advances in Social Simulation , pages 177{188. Springer.
 Thurner, S. and Hanel, R. (2011). Peer-review in a world with rational scientists: Toward selection of the
 average. The European Physical Journal B , 84(4):707{711.
@@ -912,7 +919,7 @@ algorithm:
 min
 X
 ih
- f(a(1)
+f(a(1)
 i;a(2)
 i) +f(a(1)
 i;ti))i

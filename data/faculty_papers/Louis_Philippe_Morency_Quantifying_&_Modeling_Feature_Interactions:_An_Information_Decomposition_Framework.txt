@@ -1090,7 +1090,7 @@ matrix A∈Rm×m×|Y|to represent the unnormalized joint distribution ˜q, i.e.,
 ˜q(X1[i],X2[j], y). Following ideas in multimodal alignment [ 103] and attention methods [ 107] in
 deep learning that learn approximate distributions over input data, we also parameterize our neural
 architecture by computing the outer-product similarity matrix over learned features:
-A= exp 
+A= exp
 fϕ(1)(X1, y)fϕ(2)(X2, y)⊤
 (26)
 Constraining Ausing Sinkhorn’s algorithm : To ensure that the learned Ais a valid pdf and respects
@@ -1769,7 +1769,7 @@ We implement the following models:
 1.ELEM: For static interactions (i.e., without trainable interaction parameters), we implement
 element-wise interactions: y=f(x1⊙x2)[2, 50].
 2.TENSOR : We also implement outer-product interactions (i.e., higher-order tensors) y=
-f 
+f
 x1x⊤
 2
 [33, 119, 47, 60, 67].

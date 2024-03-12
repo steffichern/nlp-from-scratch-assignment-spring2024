@@ -101,11 +101,13 @@ rics for perceptual quality and intelligibility.
 2.1. Background
 In the time domain, let ydenote a signal with discrete duration M
 such that y2RM. We deﬁne clean speech signal s, noise signal n,arXiv:2302.08088v1  [cs.CL]  16 Feb 2023
-Demucs LTAP1Ablation ( 2= 0) Demucs LTAP2Ablation ( 1= 1) FullSubNet LTAPAblation
+Demucs LTAP1Ablation ( 2= 0) Demucs LTAP2Ablation ( 1= 1) FullSubNet LTAP
+Ablation
 Weight 0.01 0.03 0.1 0.3 1 0.01 0.03 0.1 0.3 1 0.01 0.03 0.1 0.3 1
 PESQ 2.788 2.841 2.824 2.834 2.859 2.899 2.903 2.926 2.958 2.958 2.979 2.981 2.979 2.969 2.965
 STOI 0.9697 0.9698 0.9689 0.9689 0.9694 0.9707 0.9712 0.9714 0.9722 0.9720 0.9654 0.9654 0.9654 0.9648 0.9654
-Table 1 :LTAPablation study of Demucs hyperparameters, 1and2, and FullSubNet hyperparamter .
+Table 1 :LTAPablation study of Demucs hyperparameters, 1and2, and FullSubNet hyperparamter 
+.
 Fig. 1 : Percent Acoustic Improvement PAI on DNS-2020 Synthetic Test (No Reverb). Compared are baseline improvement over noisy (blue)
 PAI(s1;x), our improvement over noisy (red) PAI(s2;x), our improvement over baseline (green) PAI(s2;s1). Sorted by PAI(s2;s1).
 and noisy speech signal xwith the following additive relation:
@@ -138,9 +140,9 @@ to a recurrent neural network to output the temporal acoustic param-
 eter estimates ^Ay.
 For loss calculation, we deﬁne total mean absolute error as:
 MAE(Ay;^Ay) =1
-TPT 1X
-t=0P 1X
-p=0jAy(t;p) A^ y(t;p)j2R(5)
+TPT1X
+t=0P1X
+p=0jAy(t;p)A^ y(t;p)j2R(5)
 During training,TAP parameters learn to minimize the divergence
 of MAE (As;A^ s)using Adam optimization.
 2.3. Temporal Acoustic Parameter Loss
@@ -152,7 +154,7 @@ of complex spectrogram ^S. Using Parseval’s Theorem, the frame
 energy weights, !, is derived from the magnitude spectrogram mean
 across the frequency axis:
 !=1
-FF 1X
+FF1X
 f=0jj^S(t;f)jj22RT(6)
 Because high energies are perceived more noticeably, we apply sig-
 moid,, to emulate human hearing with bounded scales, resulting
@@ -204,9 +206,11 @@ the time domain. Therefore, from the best ﬁne-tuning result, we ﬁne-
 tune again with L1 waveform loss, LTAP, and multi-resolution STFT
 loss to remove the tonal artifacts. The following equations show ﬁnal
 loss functions for ﬁne-tuning Demucs and FullSubNet, where 1,2
-anddenote weight hyperparameters:
+and
+denote weight hyperparameters:
 LDemucs =Lwave+1LTAP+2LSTFT (8)
-LFullSubNet =LcIRM+LTAP (9)
+LFullSubNet =LcIRM+
+LTAP (9)
 During backward propagation, TAP estimator parameters are frozen
 and only enhancement model parameters are optimized.
 3.2. Data
@@ -220,7 +224,8 @@ beration, which has 150 ten-second samples.
 We ﬁne-tune ofﬁcial pre-trained checkpoints of Demucs1and Full-
 SubNet2. We ﬁne-tune Demucs for 40 epochs with acoustic weight
 1and another 10 epochs with spectrogram weight 2. We ﬁne-tune
-FullSubNet for 100 epochs with acoustic weight . TAP and TA-
+FullSubNet for 100 epochs with acoustic weight 
+. TAP and TA-
 PLoss source code will be available at https://github.com/
 YunyangZeng/TAPLoss . In our experiments, the estimator ar-
 chitecture is a 3-layer bidirectional recurrent neural network with
@@ -247,9 +252,9 @@ the mean absolute error across time (axis 0), and let represent
 element-wise division. We deﬁne percent acoustic improvement,
 PAI , as follows:
 m;m0,MAE 0(Am;Am0) (10)
-PAI(A^ s1;Ax) = 100%(1 ^ s1;sx;s) (11)
-PAI(A^ s2;Ax) = 100%(1 ^ s2;sx;s) (12)
-PAI(A^ s2;A^ s1) = 100%(1 ^ s2;s^ s1;s) (13)
+PAI(A^ s1;Ax) = 100%(1^ s1;sx;s) (11)
+PAI(A^ s2;Ax) = 100%(1^ s2;sx;s) (12)
+PAI(A^ s2;A^ s1) = 100%(1^ s2;s^ s1;s) (13)
 Acoustic evaluation involves three components: (1) baseline im-
 provement over noisy speech input, PAI(A^ s1;Ax), (2) our im-
 provement over noisy speech input, PAI(A^ s2;Ax), and (3) our
@@ -272,7 +277,8 @@ Demucs Lwave 3.272 2.652 0.965 0.921 17.138 0.443 18.239 3.31 4.15 3.54 3.95
 Demucs Lwave+1LTAP 3.356 2.859 0.969 0.930 17.803 0.334 23.442 3.15 3.78 3.58 4.12
 Demucs Lwave+1LTAP+2LSTFT 3.409 2.958 0.972 0.934 18.298 0.312 14.392 3.34 4.14 3.57 4.08
 FullSubNet LcIRM 3.386 2.889 0.964 0.920 16.962 0.399 20.887 3.21 4.02 3.51 4.09
-FullSubNet LcIRM+LTAP 3.417 2.981 0.965 0.922 17.677 0.310 18.946 3.25 4.05 3.53 4.14
+FullSubNet LcIRM+
+LTAP 3.417 2.981 0.965 0.922 17.677 0.310 18.946 3.25 4.05 3.53 4.14
 Table 2 : Relative and absolute measures of speech enhancement quality, comparing LTAPwith the baseline on DNS-2020 Test (No Reverb).
 Fig. 2 : Pairwise comparison of selected relative and absolute metrics with ﬁnal LTAPDemucs with baseline on DNS-2020 Test (No Reverb).
 Figure 1 presents percentage acoustic improvement for Demucs

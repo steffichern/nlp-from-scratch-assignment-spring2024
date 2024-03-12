@@ -187,7 +187,7 @@ Problem Denoting the size of the base learner ( i.e.,dim(θ)) asnb, the computat
 the naive base Jacobian (blue) inversion in Eq. (2)isO(n3
 b). Since such cubic complexity is impracti-
 cal even for small-sized base learners, practitioners typically utilize various linear systems techniques
-such as Neumann series [ 40] or conjugate gradient [ 51], and directly approximate ∂u
+such as Neumann series [ 40] or conjugate gradient [ 51], and directly approximate∂u
 ∂θ∗−1∂Lmeta
 ∂θ∗.
 Given that the base Jacobian is a function of the Hessian matrix of the base optimization problem
@@ -933,10 +933,10 @@ second moments of the gradient in Adam as mandvrespectively, and the learning ra
 =γ(1−β1)β2v−(1−β1)β2mg+ (1−β1)ϵp
 β1v+ (1−β1)g2
 p
-β1v+ (1−β1)g2 p
+β1v+ (1−β1)g2p
 β1v+ (1−β1)g2+e2
 ≈γ(1−β1)β2v−(1−β1)β2mgp
-β1v+ (1−β1)g2 p
+β1v+ (1−β1)g2p
 β1v+ (1−β1)g2+e2(because ϵ≪1)
 Adaptation matrices can be similarly derived for other adaptive optimizers.
 D The Effect of Scaling in Model-Agnostic Meta Learning

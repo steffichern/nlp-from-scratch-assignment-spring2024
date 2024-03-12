@@ -113,7 +113,7 @@ RR1(𝜋), we are interested in the distribution of ties amongst system
 rankings for these 𝑛values as predicted by theoretical properties
 of reciprocal rank. Specifically, we want to compute, for a given
 position of the first relevant item 𝑝1and a random second ranking,
-the probability that we will observe a tie. For any 𝑝1, there are 𝑛−𝑝1
+the probability that we will observe a tie. For any 𝑝1, there are𝑛−𝑝1
 𝑚−1tied arrangements of positions of relevant items amongst all
 of the possible arrangements 𝑝′from a second system. If we sample
 an arrangement of relevant items uniformly at random, then the
@@ -284,7 +284,7 @@ is known as lexicographic sorting in the social choice literature
 sorted vectors of utilities, here reflected by the rank position, the
 Fernando Diaz
 2410n-1n289500n
-<latexit sha1_base64="0Z4JlA8iYg6awHPgf7vVaWYiDbg=">AAAB7HicbZA9SwNBEIbn4leMX1FLm8UgWIU7EbUzaGMZwUsCyRH2NnvJkr29Y3dOCCG/wcZCEVt/kJ0/xc7NJYUmvrDw8L4z7MyEqRQGXffLKaysrq1vFDdLW9s7u3vl/YOGSTLNuM8SmehWSA2XQnEfBUreSjWncSh5MxzeTvPmI9dGJOoBRykPYtpXIhKMorX8jskY65YrbtXNRZbBm0Pl+jvKVe+WPzu9hGUxV8gkNabtuSkGY6pRMMknpU5meErZkPZ526KiMTfBOB92Qk6s0yNRou1TSHL3d8eYxsaM4tBWxhQHZjGbmv9l7Qyjq2AsVJohV2z2UZRJggmZbk56QnOGcmSBMi3srIQNqKYM7X1K9gje4srL0DirehfV83u3UruBmYpwBMdwCh5cQg3uoA4+MBDwBC/w6ijn2Xlz3melBWfecwh/5Hz8AL2uklc=</latexit> =
+<latexit sha1_base64="0Z4JlA8iYg6awHPgf7vVaWYiDbg=">AAAB7HicbZA9SwNBEIbn4leMX1FLm8UgWIU7EbUzaGMZwUsCyRH2NnvJkr29Y3dOCCG/wcZCEVt/kJ0/xc7NJYUmvrDw8L4z7MyEqRQGXffLKaysrq1vFDdLW9s7u3vl/YOGSTLNuM8SmehWSA2XQnEfBUreSjWncSh5MxzeTvPmI9dGJOoBRykPYtpXIhKMorX8jskY65YrbtXNRZbBm0Pl+jvKVe+WPzu9hGUxV8gkNabtuSkGY6pRMMknpU5meErZkPZ526KiMTfBOB92Qk6s0yNRou1TSHL3d8eYxsaM4tBWxhQHZjGbmv9l7Qyjq2AsVJohV2z2UZRJggmZbk56QnOGcmSBMi3srIQNqKYM7X1K9gje4srL0DirehfV83u3UruBmYpwBMdwCh5cQg3uoA4+MBDwBC/w6ijn2Xlz3melBWfecwh/5Hz8AL2uklc=</latexit>=
 <latexit sha1_base64="8Q9MIF5tmntsfpBcQKFy38+B7+U=">AAAB6HicbVDJSgNBEK2JW4xb1KOXxiDkFGYEl2PQi8cEzAKZIfR0apI2PQvdPUIY8gUe9KCIVz/FT/Dmh3i3sxw08UHB470qqur5ieBK2/aXlVtZXVvfyG8WtrZ3dveK+wdNFaeSYYPFIpZtnyoUPMKG5lpgO5FIQ19gyx9eT/zWPUrF4+hWjxL0QtqPeMAZ1UaqJ91iya7YU5Bl4sxJqVp2y98fj26tW/x0ezFLQ4w0E1SpjmMn2suo1JwJHBfcVGFC2ZD2sWNoRENUXjY9dExOjNIjQSxNRZpM1d8TGQ2VGoW+6QypHqhFbyL+53VSHVx6GY+SVGPEZouCVBAdk8nXpMclMi1GhlAmubmVsAGVlGmTTcGE4Cy+vEyapxXnvHJWN2lcwQx5OIJjKIMDF1CFG6hBAxggPMAzvFh31pP1ar3NWnPWfOYQ/sB6/wGimJCI</latexit>p<latexit sha1_base64="fXfk0Lq5jyRW4bqrFK2t5Ax8G70=">AAAB6XicbVDJSgNBEK2JW4xb1KOXxiDmFGYEl2PQi8coZoHMEHo6PUmTnu6hu0cIQ/5AEA+KePVP/ARvfoh3O8tBEx8UPN6roqpemHCmjet+Obml5ZXVtfx6YWNza3unuLvX0DJVhNaJ5FK1QqwpZ4LWDTOcthJFcRxy2gwHV2O/eU+VZlLcmWFCgxj3BIsYwcZKt8lxp1hyK+4EaJF4M1Kqlv3y98ejX+sUP/2uJGlMhSEca9323MQEGVaGEU5HBT/VNMFkgHu0banAMdVBNrl0hI6s0kWRVLaEQRP190SGY62HcWg7Y2z6et4bi/957dREF0HGRJIaKsh0UZRyZCQav426TFFi+NASTBSztyLSxwoTY8Mp2BC8+ZcXSeOk4p1VTm9sGpcwRR4O4BDK4ME5VOEaalAHAhE8wDO8OAPnyXl13qatOWc2sw9/4Lz/AAMXkLk=</latexit>p0
 (a) Lexicographic PrecisionΔ(𝜋, 𝜋′)
 𝛿RR1(𝜋, 𝜋′) 0
@@ -316,16 +316,16 @@ Precision
 We can contrast the number of ties as 𝑚increases in RL1metrics
 with the number of ties as 𝑚increases in lexiprecision. In the latter,
 we only observe ties when the positions of the relevant items for
-two rankings are the same and, therefore, we have 𝑛
+two rankings are the same and, therefore, we have𝑛
 𝑚possible
 ‘values’ and the number of ties given a fixed ranking is constant. If
 we add 𝑘relevant items, the number of ‘values’ increases , resulting
 in an increase in discriminative power. Specifically, if we add 𝑘
 relevant items to 𝑚, then the number of possible values scales
 exponentially in 𝑘.
- 𝑛
+𝑛
 𝑚+𝑘
- 𝑛
+𝑛
 𝑚=𝑚+𝑘Ö
 𝑖=𝑚+1𝑛+1−𝑖
 𝑖(1)

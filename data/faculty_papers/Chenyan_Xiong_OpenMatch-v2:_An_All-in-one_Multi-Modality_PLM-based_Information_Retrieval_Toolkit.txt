@@ -254,8 +254,8 @@ generate a query that is relevant to one given document but not
 to another in a contrastive fashion. OpenMatch-v2 is integrated
 with T5-based query generators, which support both types of query
 generation models, formulated as
-𝑞← −T5 𝑑+Ma et al. [19] ,
-𝑞← −T5 𝑑+◦[NEG]◦ 𝑑−Sun et al. [33] ,
+𝑞← −T5𝑑+Ma et al. [19] ,
+𝑞← −T5𝑑+◦[NEG]◦ 𝑑−Sun et al. [33] ,
 where 𝑑+,𝑑−denote the relevant and irrelevant document, respec-
 tively, and [NEG] is a special token. OpenMatch-v2 provides users
 with commands for training query generation models and generat-

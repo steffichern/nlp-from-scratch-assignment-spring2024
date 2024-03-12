@@ -251,7 +251,7 @@ DETR [ 10] for object detection and BLIP-2 [ 33] for extracting image features. 
 trainable weights ( q1, . . . , q Landω) by minimizing the MSE loss of the GILLMapper model outputs
 against the embeddings produced by the text encoder ( Tψ) of a frozen text-to-image generation
 model:
-lg(y) =∥fω 
+lg(y) =∥fω
 h{θ∪Eimg}(y,[IMG{1}] ), . . . , h {θ∪Eimg}(y,[IMG{r}] ), q1, . . . , q L
 −Tψ(y)∥2
 2(3)
@@ -271,10 +271,13 @@ lr(xi,yi) =−logexp( sim(xi,yi,Wt2i)/τ)PN
 j=1exp( sim(xj,yi,Wt2i)/τ)−logexp( sim(xi,yi,Wi2t))/τ)PN
 j=1exp( sim(xi,yj,Wi2t))/τ)(4)
 where the similarity is computed as
-sim(x, y,W) = 
-WTvϕ(x)T 
+sim(x, y,W) =
+WTvϕ(x)T
 WTh{θ∪Eimg}(y,[IMG1] )
-∥WTvϕ(x)∥WTh{θ∪Eimg}(y,[IMG1] )
+∥WTvϕ(x)∥
+
+WTh{θ∪Eimg}(y,[IMG1] )
+
 During inference, we follow standard procedure [ 43] in retrieving the image with the highest cosine
 similarity (between image embeddings and the [IMG] tokens) from a candidate set of images.
 3.3 Deciding to Generate or Retrieve
@@ -304,7 +307,7 @@ The final training objective for a batch of image-text pairs (x,y)is the sum of 
 min
 Wi2t,Wt2i,Wcap,Eimg,ω,q 1:L1
 NNX
-i=1 
+i=1
 lc(xi,yi) +lp(yi) +lg(yi) +lr(xi,yi)
 (5)
 The decision model is trained separately after convergence of the other components. The multitask

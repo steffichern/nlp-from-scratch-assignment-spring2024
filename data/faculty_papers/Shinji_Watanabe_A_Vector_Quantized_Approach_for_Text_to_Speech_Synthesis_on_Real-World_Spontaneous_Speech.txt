@@ -223,13 +223,13 @@ denoting each part as zc
 t;i:
 ct;i= arg min
 z2Gijjzc
-t;i zjj2; (1)
+t;izjj2; (1)
 Thenzq
 t, the input to the decoder is obtained by the straight-
 through gradient estimator:
 zq
 t;i=zc
-t;i+sg[Gi(ct;i) zc
+t;i+sg[Gi(ct;i)zc
 t;i]; zq
 t=concat [zq
 t;i](2)
@@ -243,14 +243,16 @@ LV Q(QE;QD;G) =Ex1
 TNX
 i=1TX
 t=1(jjsg[zc
-t;i] zq
+t;i]zq
 t;ijj2
 2
-+jjzc
-t;i sg[zq
++
+jjzc
+t;isg[zq
 t;i]jj2
 2)(4)
-whereandare hyper-parameters for the commitment
+where
+andare hyper-parameters for the commitment
 loss weight and quantization loss weight. We leave the de-
 tailed deﬁnition of LGAN in the HiFi-GAN paper. Note that
 ourLV Qis different from previous work in image genera-
@@ -271,7 +273,7 @@ processed speaker embedding.
 tion forESPK . The transformer is trained to maximize log-
 likelihood:
 LT=Ec"
- X
+X
 tlogp(ctjc<t;s;h)#
 (5)
 Architectural Design. Different from the commonly
@@ -344,7 +346,7 @@ Intuitively, the decoder can attend only to a certain context
 windowNwof encoder states at a time sequentially, and the
 context window steps forward only if the Softmax attention
 weight of the ﬁrst encoder state (at bk) is lower than a given
-threshold (here we set it to Nw 1). In general, smaller Nw
+threshold (here we set it to Nw1). In general, smaller Nw
 leads to stricter monotonic alignment at the cost of a smaller
 phonetic context. Practically, we found Nwranging from 3
 to 6 works well judging from qualitative listening. Such con-
@@ -375,13 +377,14 @@ are also noisy spontaneous speech. We randomly select the
 corresponding text from GigaSpeech and remove those tran-
 scriptions from training and validation sets.
 4.2 Training and Model Conﬁguration
-We use= 0:25in Equation 4 and = 10 in Equation 3
+We use
+= 0:25in Equation 4 and = 10 in Equation 3
 to balance the relative high LGAN . For training the quan-
 tizer, Adam optimizer (Kingma and Ba 2015) is used with
 1= 0:5,2= 0:9. For the transformer, we use Adam op-
 timizer with 1= 0:9,2= 0:98with a batch size of 200
 input frames per GPU. The learning rate is linearly decayed
-from 210 4to0. All models are trained using 4 RTX
+from 2104to0. All models are trained using 4 RTX
 A6000 GPUs in bﬂoat16 precision. We trained the quantizer
 for 600k steps and the transformer for 800k steps. We leave
 optimization details in the released code. For inference, we
@@ -646,9 +649,9 @@ signal-to-noise ratio (SNR). We use the WADA-SNR algo-
 rithm (Kim and Stern 2008) for SNR estimation. From Fig-
 ure 5, it is clear that the SNR drops as increases, conﬁrm-
 ing that the model is guided by the prompt. Using smaller
-than 10 4effectively increases the SNR compared to not
+than 104effectively increases the SNR compared to not
 using any audio prompt. All our other experiments are done
-using= 10 5. We also noticed that VITS has a lower
+using= 105. We also noticed that VITS has a lower
 (a) VITS.
 (b) MQTTS.
 Figure 4: Pitch contour for the utterance: “How much varia-

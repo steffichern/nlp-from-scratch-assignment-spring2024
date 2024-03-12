@@ -356,10 +356,10 @@ embedder (the part of msthat transforms the raw data to
 sequence features) and ftthe randomly initialized target
 embedder discussed in the previous section. We can learn
 ftto minimize the distance between the joint distribution
-of the target embeddings 
+of the target embeddings
 ft(xt);yt
 and that of the source
-embeddings 
+embeddings
 fs(xs);ys
 . There are many metrics for mea-
 suring this distributional distance. To understand whether
@@ -404,7 +404,7 @@ the datasets without using any distributional information;
 (Gretton et al., 2012), which uses the distribution of f(x)to
 align the feature means; and (3) optimal transport dataset
 distance (OTDD) (Alvarez-Melis & Fusi, 2020), which uses
-both the feature and label distributions 
+both the feature and label distributions
 f(x);y
 to align
 the high-level clustering structure of the datasets.
@@ -434,12 +434,12 @@ with different alignment metrics. Larger values (fractions of tasks
 on which a method is within -factor of the best) are better. The
 OTDD curve being in the upper left shows it is often the best.
 different labels using the p-Wasserstein distance associated
-with thel2distancek_xt _xsk2
+with thel2distancek_xt_xsk2
 2in_X, which in turn allows
 us to measure the distributional difference in _XY :
-d_XY 
+d_XY
 ( _xt;yt);( _xs;ys)
-= 
+=
 d_X( _xt;_xs)p+dY(yt;ys)p1=p:
 We refer the readers to Alvarez-Melis & Fusi (2020) for the
 exact formulation. Yet the implication from our experiments

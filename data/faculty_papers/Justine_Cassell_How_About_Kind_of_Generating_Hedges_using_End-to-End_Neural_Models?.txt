@@ -399,8 +399,8 @@ l'_1
 ......
 l_i = true label u'_i = best response
 Hedging
-Classi erGeneration
-Classi cationReranking
+ClassierGeneration
+ClassicationReranking
 Dialogue
 historyTutor
 responseHedge

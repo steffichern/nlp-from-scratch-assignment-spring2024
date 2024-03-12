@@ -290,7 +290,7 @@ depth segmentation and with the left-wall under RGB segmentation. However, the f
 respect the boundary of the car.
 objective on the source domain,
 Ls
-cls= 1
+cls=1
 NsNsX
 i=1HWX
 m=1CX
@@ -329,12 +329,12 @@ threshold ensures that only the highly-conﬁdent predictions
 contribute to successive training. The ﬁnal self-training ob-
 jective can be written in terms of pseudo-labels as
 Lt
-st= 1
+st=1
 NtNtX
 i=1HWX
 m=1CX
 c0=1~yt
-imc0log 
+imc0log
 pt
 imc0
 (4)
@@ -452,7 +452,7 @@ kX
 p2UkLt
 obj(p) (6)
 Lt
-obj(p) = log0
+obj(p) =log0
 B@exp(~zp~k)P
 k02
 (k)exp(~zp~k0)1
@@ -694,7 +694,7 @@ DACS+PAC outperforms the state-of-the-art (SAC) by
 cal loss regularizer or importance sampling) and no adap-
 tive batch normalisation. In particular, our approach out-
 performs SAC signiﬁcantly in road, sidewalk, fence,terrain,
-sky, rider, motorcycle and bike classes by 1:9% 11:3%.
+sky, rider, motorcycle and bike classes by 1:9%11:3%.
 More interestingly, this observation holds when compared
 to other prior works as well, wherein our model improves
 IoUs for both dominant categories like road and sidewalk
@@ -1248,7 +1248,7 @@ h .Randomly sample a training batch from target-domain
 tdo
 6:
 7: InitializeVd=fg .Empty list of depth-segments
-8: Hist 
+8: Hist
 fhimgHW
 m=1;b
 ! Fd.Histogram of depth values (HOD)
@@ -1256,7 +1256,7 @@ m=1;b
 k=1.Cluster-center assignment using HOD
 10: fork 1tokddo
 11: Vd
-k=fmjm2f1;:::;HWg;jhm kj<jhm k0j8k06=kg .Depth segments
+k=fmjm2f1;:::;HWg;jhmkj<jhmk0j8k06=kg .Depth segments
 12:Vd:append (Vd
 k) .Depth-segment list update
 13: end for
@@ -1308,5 +1308,5 @@ obj;i
 NB
 tLt
 obj .Overall PAC-UDA objective
-47:t t 1 rLpac .Parameter update
+47:t t1rLpac .Parameter update
 48:end for 15

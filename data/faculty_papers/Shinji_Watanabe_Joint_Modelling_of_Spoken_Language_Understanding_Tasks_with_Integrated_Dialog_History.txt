@@ -134,20 +134,20 @@ SP(YdajS;X)P(SjX) (1)
 SP(YdajS;X)P(SjX) (2)
 Their approach then assumes the conditional independence of
 yda
-cjs1:c 1fromx1:c 1,yda
-1:c 1to simplify the Eq 2:
+cjs1:c1fromx1:c1,yda
+1:c1to simplify the Eq 2:
 P(YdajX)max
 SCY
 c=1P(yda
-cjs1:c 1;xc)P(SjX) (3)
+cjs1:c1;xc)P(SjX) (3)
 Transcripts are computed using a separate ASR module that seeks to
 estimate ^Sthat maximises P(SjX). Using ^S, we can modify Eq 3:
 P(YdajX)CY
 c=1P(yda
-cj^s1:c 1;xc) (4)
+cj^s1:c1;xc) (4)
 Prior work [17] models P(yda
-cj^s1:c 1;xc)in Eq. 4 by passing
-ASR transcripts ^s1:c 1to a pretrained language model (LM) like
+cj^s1:c1;xc)in Eq. 4 by passing
+ASR transcripts ^s1:c1to a pretrained language model (LM) like
 BERT [27] and then concatenating these context embeddings to the
 acoustic embedding obtained from xc. They focus on building a sep-
 arate model for each of the SLU tasks, which in the above description
@@ -174,17 +174,17 @@ c;yer
 c)
 as shown below:
 P(RjX)CY
-c=1P(rcjr1:c 1;^s1:c 1;xc) (5)
+c=1P(rcjr1:c1;^s1:c1;xc) (5)
 The SLU tags predicted for the previous spoken utterances i.e.
-r1:c 1= (yda
-1:c 1;yic
-1:c 1;ysr
-1:c 1;yer
-1:c 1)may be incorporated
+r1:c1= (yda
+1:c1;yic
+1:c1;ysr
+1:c1;yer
+1:c1)may be incorporated
 (Eq. 5) to better model the dialog context unlike in prior work [17]
 which assumes conditional independence of yda
-cjs1:c 1fromyda
-1:c 1.
+cjs1:c1fromyda
+1:c1.
 In §5.1, we conﬁrm experimentally whether this previous SLU tag
 condition is helpful. Further, by jointly modeling all the SLU tasks,
 we expect signiﬁcantly lower latency and lightweight inference.
@@ -193,10 +193,10 @@ ture shown in Fig. 1. The input speech signal for each utterance i.e.,
 xcin Eq. 5, is passed through an acoustic encoder (Encoder aco) to
 generate acoustic embeddings caco.
 caco= Encoder aco(xc) (6)
-We concatenate ASR transcripts ^s1:c 1and SLU tags r1:c 1for all
+We concatenate ASR transcripts ^s1:c1and SLU tags r1:c1for all
 previous spoken utterances and pass them through semantic encoder
 (Encoder sem) like a pretrained LM to encode the dialog history:
-ccont= Encoder sem(concat(^s1:c 1;r1:c 1)) (7)
+ccont= Encoder sem(concat(^s1:c1;r1:c1)) (7)
 The output of the semantic encoder is also passed to a linear layer to
 ensure that context embeddings cconthave the same hidden dimen-
 sion as acoustic embeddings caco. The acoustic and context embed-
@@ -207,7 +207,7 @@ The model is trained using joint CTC-attention training [28], where
 the CTC objective function is used to train the attention model
 encoder as an auxiliary task. Because we use an autoregres-
 sive decoder to predict tags one by one (Eq. 11), the likelihood
-P(rcjxc;^s1:c 1;r1:c 1)is dependent on the order of SLU tags in
+P(rcjxc;^s1:c1;r1:c1)is dependent on the order of SLU tags in
 the target sequence rc. This has been referred to as label ambiguity
 (or permutation) problem in prior work [29, 30]. Inspired by prior
 work on permutation invariant training [30–32], we use CTC objec-
@@ -243,16 +243,16 @@ permutation ^is used for computing the attention decoder loss2.
 For each pair of optimal decoding order and reference target
 (^,rc), the attention likelihood is calculated as shown below.
 hl= Decoder( cJOIN;(r^
-c)1:l 1) (10)
+c)1:l1) (10)
 PAttn((r^
-c)ljxc;^s1:c 1;r1:c 1;(r^
-c)1:l 1) = SoftmaxOut( hl);
+c)ljxc;^s1:c1;r1:c1;(r^
+c)1:l1) = SoftmaxOut( hl);
 (11)
 where SoftmaxOut denotes a linear layer followed by the softmax
 function and (r^
 c)lis thelthterm in target sequence. The joint like-
 lihoodPAttn(r^
-cjxc;^s1:c 1;r1:c 1)can then be computed as a prod-
+cjxc;^s1:c1;r1:c1)can then be computed as a prod-
 uct of the individual likelihood for each of the SLU tags (i.e., from
 lin [1,4]). It is important to note that this “order agnostic train-
 ing” does not add any new model parameters. During inference, the
@@ -305,21 +305,21 @@ Our approach is compared to state-of-the-art SLU task-speciﬁc
 baselines referred to as “Separate E2E models without context”
 (optimizesP(yda
 cjxc)instead ofP(yda
-cj^s1:c 1;xc)in Eq. 4). We
+cj^s1:c1;xc)in Eq. 4). We
 also compared with our proposed model without context, i.e., “Joint
 E2E model without context” which optimizes P(rcjxc)instead of
-P(rcjr1:c 1;xc;^s1:c 1)in Eq. 5. This baseline joint E2E model
+P(rcjr1:c1;xc;^s1:c1)in Eq. 5. This baseline joint E2E model
 does not incorporate order agnostic training deﬁned in Eq. 9 and in-
 stead is trained using a ﬁxed order (yda;yic;ysr;yer)of SLU tags.
 To understand the efﬁcacy of our proposed modiﬁcations to [17],
 we ﬁrst trained a joint model (referred to as “Joint E2E model with
 context”) that does not use SLU tags of previous spoken utterances
-(i.e. optimize P(rcjxc;^s1:c 1)instead ofP(rcjr1:c 1;xc;^s1:c 1)
+(i.e. optimize P(rcjxc;^s1:c1)instead ofP(rcjr1:c1;xc;^s1:c1)
 in Eq. 5) and also does not utilize order agnostic training. In our
 ablation study, we further trained proposed joint model that incor-
 porates “order agnostic training” as deﬁned in Eq. 9 and another
 joint model that incorporates “previous SLU tag condition” i.e. tags
-predicted for previous spoken utterances ( r1:c 1in Eq. 5).
+predicted for previous spoken utterances ( r1:c1in Eq. 5).
 Our models were implemented in pytorch [34] and experiments
 were conducted through the ESPNet-SLU [26, 35] toolkit. All the
 models were trained using an auxiliary ASR objective. Our task-
@@ -332,7 +332,7 @@ tached to an intermediate layer in the encoder network to regularize
 CTC training and improve performance. Inspired by this work, we
 experimented with adding intermediate CTC loss at layers 4, 6 and
 8 of our conformer encoder. The “Joint E2E model without con-
-text” is used to generate dialog context4^s1:i 1. We incorporated the
+text” is used to generate dialog context4^s1:i1. We incorporated the
 usage of Transformers library [41] to get BERT-base-uncased [27]
 as semantic encoder ( encoder SEMin Eq. 7). The conformer archi-
 tecture with intermediate CTC loss is leveraged as the joint encoder
@@ -368,7 +368,7 @@ tic training framework increases the training time as it requires the
 computation of CTC loss over all possible permutations of SLU tags
 (Eq. 9), this increase in training time is not very signiﬁcant. We also
 experimented with “previous SLU tag condition” (i.e. attending to
-r1:c 1in Eq. 5) using only utterance-level annotated tags, i.e., dia-
+r1:c1in Eq. 5) using only utterance-level annotated tags, i.e., dia-
 log act, emotion, and speaker role, to encode context. This model
 achieves a performance gain in intent classiﬁcation and dialog act
 prediction with comparable results on predicting other SLU tasks.
@@ -383,7 +383,7 @@ stabilize training and improve the performance of our joint model.
 5.2. Using oracle context
 To understand the impact of errors in ASR transcripts , we compute
 results of our joint E2E model with oracle context, i.e., using ground
-truth transcripts as ^s1:c 1in Eq. 5. Table 3 shows only a slight in-
+truth transcripts as ^s1:c1in Eq. 5. Table 3 shows only a slight in-
 crease in performance compared with the model that uses ASR tran-
 scripts to encode context, indicating that it is robust to ASR errors.
 4The Word Error Rate (WER) of ASR transcripts is 11.7.

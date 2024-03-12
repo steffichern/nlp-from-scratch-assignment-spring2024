@@ -155,7 +155,8 @@ and diverse actions (Shridhar et al., 2020b). Song
 et al. (2022) uses GPT3 to generate step-by-step low-
 level commands, which are then executed by respective
 control policies. the work improves Ahn et al. (2022)
-with more action diversity and on-the-y re-plan. In
+with more action diversity and on-the-
+y re-plan. In
 addition, all the above LLMs require few-shot demon-
 strations of up to 17 examples, making the length of
 the prompt infeasible for AlfWorld. Micheli & Fleuret
@@ -344,7 +345,7 @@ for the current sub-task and the question as \Did you
 nish the task of sp?". For eciency, we set d:=
 min(d+ 1;3) at each step. Note that dis reset to
 1 whenever the progress tracker updates. Hence, the
-templatePa=concat (Ot d;:::;Ot 1;\Did you nish
+templatePa=concat (Otd;:::;Ot1;\Did you nish
 the task of sp?"). We feedPato a pre-trained zero-
 shot QA modelMTand compute the probability of
 tokens `Yes' and `No' as follows: pMT(\Yes"jPa) and
@@ -389,16 +390,16 @@ same transformer with a \key" head ( MK) on task
 embedding ( Ht), the current observation embedding
 (Ot), and embedding of action ( ai).
 Finally, we compute the dot-product of the query andkeys as action scores for the policy (Eq. 5).
-Ht= avgj2[1;t 1]Embed(Oj) (1)
+Ht= avgj2[1;t1]Embed(Oj) (1)
 HA=
 Embed(at
 1);:::;Embed(at
 n)
 (2)
-Q=MQ 
+Q=MQ
 Embed(T);Ht;Embed(Ot);HA
 (3)
-Ki=MK 
+Ki=MK
 Embed(T);Ht;Embed(Ot);Embed(at
 i)
 (4)
@@ -493,7 +494,7 @@ and a decoder. At each time step t, the encoder
 takes initial observation s0, current observation st,
 and task string staskand generates representation
 rt. The recurrent aggregator combines rtwith the
-last recurrent state ht 1to produce ht, which is
+last recurrent state ht1to produce ht, which is
 then decoded into a string atrepresenting action. In
 addition, the BUTLER agent uses beam search to get
 out of stuck conditions in the event of a failed action.
@@ -732,7 +733,8 @@ International Conference on Machine Learning , pp.
 166{175. PMLR, 2017.
 Black, S., Gao, L., Wang, P., Leahy, C., and Bider-
 man, S. GPT-Neo: Large Scale Autoregressive Lan-
-guage Modeling with Mesh-Tensorow, March 2021.
+guage Modeling with Mesh-Tensor
+ow, March 2021.
 URL https://doi.org/10.5281/zenodo.5297715 .
 If you use this software, please cite it using these
 metadata.

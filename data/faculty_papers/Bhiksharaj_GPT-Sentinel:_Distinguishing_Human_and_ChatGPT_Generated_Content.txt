@@ -219,8 +219,8 @@ the “Adaptive Momentum Estimation with Weight Decay” optimizer proposed by L
 Hyper-Parameters RoBERTa-Sentinel T5-Sentinel
 Epoch 15 5
 Batch Size 512 512
-Learning Rate 110 4510 4
-Weight Decay 110 3110 3
+Learning Rate 11045104
+Weight Decay 11031103
 Optimizer AdamW AdamW
 Loss Function Cross entropy Cross entropy
 Scheduler Cosine annealing Cosine annealing

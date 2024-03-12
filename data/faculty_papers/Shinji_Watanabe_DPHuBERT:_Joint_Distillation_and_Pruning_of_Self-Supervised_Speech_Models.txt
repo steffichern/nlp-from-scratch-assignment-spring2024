@@ -155,7 +155,7 @@ i(shape T×dstu) be the output sequences of the i-th
 Transformer layers from the teacher and student, respectively,
 where Tis the sequence length. The distillation loss is:
 Ldis=X
-i∈SL 
+i∈SL
 Xtea
 i,Xstu
 iWi

@@ -158,11 +158,11 @@ dot-product part of the transformer’s attention computation can be rewritten a
 QKT= (hdWq) (heWk)⊤(2)
 = (hdWq)W⊤
 khe⊤
-= 
+=
 hdWqW⊤
 k
 he⊤
-Thus, the retrieval step can be formulated as choosing the encoder hidden states hethat maximize 
+Thus, the retrieval step can be formulated as choosing the encoder hidden states hethat maximize
 hdWqW⊤
 k
 he⊤. This rewriting has two major advantages: first, there is no need to index the keys

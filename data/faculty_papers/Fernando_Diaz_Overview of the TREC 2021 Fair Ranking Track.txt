@@ -257,9 +257,11 @@ To apply expected exposure, we ﬁrst deﬁne the exposure /epsilon1da document 
 |L|/summationdisplay
 L∈LwL−1
 d(4)
-This forms an exposure vector ∈R|D|. It is aggregated into a group exposure vector , including
+This forms an exposure vector ∈R|D|. It is aggregated into a group exposure vector 
+, including
 “unknown” as a group:
-=AT (5)
+
+=AT (5)
 Our implementation rearranges the mean and aggregate operations, but the result is mathematically
 equivalent.
 We then compare these system exposures with the target exposures ∗for each query. This starts
@@ -269,8 +271,10 @@ w∈{1,2,3,4}, then according to Diaz et al. [1] the ideal exposure for document
 d=1
 mwdm≥wd/summationdisplay
 i=m>wd+1vi (6)
-We use this to compute the non-averaged target distribution ˜∗:
-˜∗=AT∗(7)
+We use this to compute the non-averaged target distribution ˜
+∗:
+˜
+∗=AT∗(7)
 Since we include “unknown” as a group, we have a challenge with computing the target distribution by
 averaging the empirical distribution of relevant documents and the global population — global population
 does not provide any information on the proportion of relevant articles for which the fairness attributes are
@@ -284,11 +288,24 @@ global intersectional population (global population by location and equality by 
 gender distribution.
 •Average the distribution of documents with unknown gender but known location with the world pop-
 ulation.
-The result is the target group exposure ∗. We use this to measure the expected exposure loss :
-M2(Lq) =/bardbl−∗/bardbl2 (8)
-=·−2·∗+∗·∗
-EE-D(Lq) =∗·∗(9)
-EE-R(Lq) =·∗(10)
+The result is the target group exposure 
+∗. We use this to measure the expected exposure loss :
+M2(Lq) =/bardbl
+−
+∗/bardbl2 (8)
+=
+·
+−2
+·
+∗+
+∗·
+∗
+EE-D(Lq) =
+∗·
+∗(9)
+EE-R(Lq) =
+·
+∗(10)
 7
 nDCG AWRF Score 95% CI
 UoGTrDExpDisT1 0.2071 0.8299 0.1761 (0.145, 0.212)

@@ -932,7 +932,7 @@ precision +recall
 A more general F score Fβuses a positive factor
 β, where recall is considered βtimes as important
 as precision:
-Fβ= 
+Fβ=
 1 +β2
 ·precision ·recall
 β2·precision +recall(5)

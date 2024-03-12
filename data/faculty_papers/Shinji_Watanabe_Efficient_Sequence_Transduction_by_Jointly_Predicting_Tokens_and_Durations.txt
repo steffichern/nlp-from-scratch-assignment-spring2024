@@ -1563,7 +1563,7 @@ frame 40 correspond to all the twos, and fivestarts at frame 41; let’s also as
 just emitted 5 twos during decoding. At this time, the decoder state was updated by feeding in 5 twos. At this point, there
 are two possibilities,
 Option 1. If the model emits another twobetween frame 30 and 40, say at frame t, this means,
-two=argmax 
+two=argmax
 join(enc[t],dec(<bos>, two, two, two, two, two| {z }
 5 twos)
 (53)
@@ -1587,7 +1587,7 @@ join(enc[t],dec(<bos>,two, two, two, two, two, two| {z }
 Note, since joiner usually has a non-linearity in its computation, this does not strictly follow; although based on what we
 observed this is usually the case. The equations above are not meant to be rigorous proof but only serve to explain the issue.
 Therefore in this next decoding step, it is likely that,
-two=argmax 
+two=argmax
 join(enc[t],dec(<bos>,two, two, two, two, two, two| {z }
 6 twos)
 (56)

@@ -388,8 +388,13 @@ The loss is defined as:
 LiRAS=XP
 p=1αpLiRAS,p=XP
 p=1αp1
-∥yp∥1yp−XC
-c=1ˆhp(c)∗ˆz(c)
+∥yp∥1
+
+
+yp−XC
+c=1ˆhp(c)∗ˆz(c)
+
+
 1, (12)
 with∗denoting linear convolution, ypthe time-domain mixture at microphone p, and ˆhp(c)a
 time-domain Wiener filter computed by solving the following problem:

@@ -196,7 +196,7 @@ model πINITand the RL-optimized model πRL
 ϕ, the full optimization loss is articulated as:
 L(πRL
 ϕ) =−E(I,x)∈DRL,y∼πRL(y|I,x)
-rθ(I, x, y)−β·DKL 
+rθ(I, x, y)−β·DKL
 πRL
 ϕ(y|I, x)∥πINIT(y|I, x)
 ,

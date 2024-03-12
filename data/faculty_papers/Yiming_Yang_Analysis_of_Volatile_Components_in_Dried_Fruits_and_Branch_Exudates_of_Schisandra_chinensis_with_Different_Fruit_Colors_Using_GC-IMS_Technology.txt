@@ -381,7 +381,8 @@ WeightRetention
 IndextR (s)Migration
 Time (ms)Note
 1 -Terpineol C98555 C 10H18O 154.3 1205.4 641.106 1.22046
-2 -Terpinene C99854 C 10H16 136.2 1054.0 423.305 1.2173
+2 
+-Terpinene C99854 C 10H16 136.2 1054.0 423.305 1.2173
 3 -Ocimene C13877913 C 10H16 136.2 1045.0 410.429 1.21073 Monomer
 4 -Ocimene C13877913 C 10H16 136.2 1044.5 409.742 1.24999 Dimer
 5 Limonene C138863 C 10H16 136.2 1024.9 381.459 1.2184
@@ -641,7 +642,8 @@ Figure 9. Permutation retention.
 Table 2. Different volatile components of Schisandra branch exudates and dried fruits of different colors.
 No. Compound (Juice) p VIP No. Compound (Fruit) p VIP
 1 -Phellandrene 0.0039 1.115 1 -Terpineol 0.0112 1.040
-2 Acetone 0.0000 1.193 2 -Terpinene 0.0000 1.058
+2 Acetone 0.0000 1.193 2 
+-Terpinene 0.0000 1.058
 3 2-Butanone 0.0000 1.181 3 -Ocimene 0.0000 1.068
 4 2-Hexanone 0.0000 1.189 4 Limonene 0.0000 1.061
 5 4-Methyl-2-pentanone 0.0029 1.150 5 -Terpinene 0.0000 1.061

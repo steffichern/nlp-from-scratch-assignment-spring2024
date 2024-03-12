@@ -548,11 +548,11 @@ L(i)(θ) =−logpθ
 y(i), f(i)|x(i)
 (5)
 Over all examples in D. These equation can be fac-
-torized as L(i)(θ) =−logpθ 
+torized as L(i)(θ) =−logpθ
 f(i)|y(i), x(i)
 +
 7Preprint
-logpθ 
+logpθ
 y(i)|x(i)
 . Some works simply train the
 model to predict the feedback given to each genera-
@@ -604,7 +604,7 @@ which its safety prediction is below a threshold.
 Finally, this can also be achieved by training the
 model to predict generation and conditioning on
 the feedback. This corresponds to minimizing thefollowing loss:
-L(i)(θ) =−logpθ 
+L(i)(θ) =−logpθ
 yi|fi, xi
 (6)
 Liu et al. (2023) proposed prompt-based fine-

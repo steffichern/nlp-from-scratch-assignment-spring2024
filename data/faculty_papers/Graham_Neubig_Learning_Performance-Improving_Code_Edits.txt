@@ -261,7 +261,7 @@ Metrics. To evaluate performance, we measure the following for functionally corr
 •Percent Optimized [%O PT]: The fraction of programs in the test set (out of 1000 unseen samples)
 improved by a certain method. A program must be at least 10% faster and correct to contribute.
 •Speedup [SPEEDUP ]: the absolute improvement in running time. If oandnare the “old” and “new”
-running times, then SPEEDUP (O,N)= o
+running times, then SPEEDUP (O,N)=o
 n
 . A program must be correct to contribute.
 •Percent Correct [%Correct ]: The proportion of programs in the test set that are at least functionally

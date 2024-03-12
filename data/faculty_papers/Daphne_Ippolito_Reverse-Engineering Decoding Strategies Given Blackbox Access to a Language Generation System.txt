@@ -334,7 +334,7 @@ the true pvalue. Figure 3 shows two limitations: (1)
 our estimates are worse when there is significant mis-
 match between Gen’s distributions and our known
 distributions; and (2) the minimum pour method
-can predict is 
+can predict is
 Prob(x(1)
 1)+Prob(x(1)
 2)
@@ -554,7 +554,7 @@ kby setting n>2klogk. Unfortunately, such
 a prompt is exceedingly difficult to engineer (see Appendix D).
 It turns out we can do almost as well without needing full uniformity. The key building block for our attack
 is the construction of an mthat distributes substantial probability mass onto a subset Vm⊆Vof the token space.
-We require that for any k<|Vm|, we have Prob 
+We require that for any k<|Vm|, we have Prob
 Gen(m)=x(k)
 ≥1
 ck, for some small constant c. Put in plain

@@ -148,7 +148,7 @@ counts in a vector of constant dimension. The re-
 sulting vector is then reduced using PCA to the
 target embedding dimension d.
 W2F () =〈P2F ()|∈〉 (array) (1)
-F2V () =COUNT VEC. [
+F2V () =COUNT VEC.[
 1≤≤||−1×+1
 (2)
 ƒPAR=PCAd({F2V (W2F ())|∈W})(3)
@@ -334,9 +334,9 @@ trying to summarize the phonetic information in a
 word. A related approach was used by Yang and
 Hirschberg (2019) to learn acoustic word embed-
 dings. Although contrastive learning is a more
-intuitive approach, it yielded only negative results: 
+intuitive approach, it yielded only negative results:
 exp(|ƒθ()−ƒθ(p)|2)
-/ P
+/P
 exp(|ƒθ()−ƒθ(n)|2).
 Though metric learning and triplet margin loss
 have been applied previously to similar applica-

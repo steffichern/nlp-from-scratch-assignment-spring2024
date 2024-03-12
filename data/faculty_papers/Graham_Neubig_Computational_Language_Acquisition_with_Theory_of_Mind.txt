@@ -111,7 +111,7 @@ to act, in the case where they do not. The listener can also determine whether o
 feedback (linguistic input in the form of the ground-truth caption of the target image) to the speaker.
 Speaker training is motivated by a reward function that seeks to model the communicative goal of
 directing the listener to the correct referent. The speaker gets a positive reward of 1if the listener
-chooses the target image and a penalty of  1if the listener chooses the wrong target image. Ad-
+chooses the target image and a penalty of 1if the listener chooses the wrong target image. Ad-
 ditionally, a smaller penalty wnoop is applied to the speaker if the listener chooses to not choose an
 image; this is done to penalize the speaker for generating unclear utterances.
 2.1 A GENT FORMULATION
@@ -121,16 +121,16 @@ provided image. We deﬁne as the speaker vocabulary and Ias the set of candid
 The listener is deﬁned on andIN, which is a set of Ncandidate images sampled from I. Given
 an utterance2and an observation space 2IN, the listener will either return the index of its
 predicted image or noop , if it cannot predict an image. It may also return the ground-truth caption
-from its vocabulary. We deﬁne it with the model g: IN!([0;1;:::N 1][noop ).
+from its vocabulary. We deﬁne it with the model g: IN!([0;1;:::N1][noop ).
 2.2 S PEAKER DESIGN
 The speaker that we use is a captioning model composed of a pretrained ResNet (He et al., 2016)
 model and an LSTM-based utterance generation model. After generating an embedding vector
 of the target image using the ResNet model, the speaker autoregressively generates an utterance
 u=fuigM
 i=1using the LSTM network:
-P(uiju1;u2;:::;ui 1;x)
+P(uiju1;u2;:::;ui1;x)
 /exp(wT
-uiLSTM (wu1;wu2;:::;wui 1;h0=ResNet (x)));(1)
+uiLSTM (wu1;wu2;:::;wui1;h0=ResNet (x)));(1)
 wherewui2Rdwis the word embedding of ui. The speaker generates a sequence of tokens to
 either the maximum length, which is set to 20 in our experiments, or an end-of-sequence token. In
 our experiments, we use a vocabulary size of 200to limit the size of the action space and to more
@@ -180,7 +180,7 @@ input in the speaker models and optimize this continuous function with stochasti
 OLI=Ex;C;u(ujx)log(U
 flistener(u;C)jx;C) (4)
 We then combine the separate learning objectives for each task using a coefﬁcient 2[0;1]:
-Ojoint=OCG+ (1 )OLI (5)
+Ojoint=OCG+ (1)OLI (5)
 Next, we introduce ToM Modeling, and an additional task objective, OToM. This is a cross-entropy
 objective that represents how accurate the speaker’s internal listener model is. Similar to the objec-
 tive above, we combine these into a single learning objective for the entire speaker network.
@@ -200,11 +200,11 @@ rerank them with the help of the ToM listener. Our ToM speaker ﬁrst samples Nc
 U=fu(i)gN
 i=1from its distribution. Next, we generate a speaker and a listener score for each:
 Pspeaker (u)/Y
-iP(uiju1;u2;:::ui 1;x) (7)
+iP(uiju1;u2;:::ui1;x) (7)
 PToM(xju)/exp(LSTMT(u)Resnet (x)) (8)
 4
 Published as a conference paper at ICLR 2023
-Here, the probability P(uiju1;u2;:::ui 1;x)is computed according to 1. We then combine these
+Here, the probability P(uiju1;u2;:::ui1;x)is computed according to 1. We then combine these
 scores using a listener weight hyperparameter wlto get the overall score assigned to each utterance.
 Finally, we select the best utterance, ub, as the argmax of this score:
 ub= arg max
@@ -220,21 +220,21 @@ Andreas & Klein (2016), which also trains pragmatic speakers on referential game
 We compare our ToM speakers to these “RSA” speakers to evaluate the impact of using our learned
 approximation rather than the actual listener.
 Finally, we introduce a hyperparameter : our speaker outputs a random utterance with probability
-andubwith probability 1 .is set to decay linearly over time; this randomization is done to
+andubwith probability 1.is set to decay linearly over time; this randomization is done to
 promote early exploration.
 By default, we begin with an untrained listener that will be trained to emulate the actual listener’s
 outputs over time. To train the ToM listener, we introduce a third training objective in addition to
 OLIandOCG, the ToM objective OToM, deﬁned as the cross-entropy loss between the distribution
 of the ToM listener and that of the true listener. Thus, we are training it to give higher probabilities
 to the listener’s choice ^xbased on the speaker’s utterances. Formally,
-OToM = logPToM(^xju)Pmax>1
+OToM =logPToM(^xju)Pmax>1
 0 Pmax<1(10)
 Note that this requires a choice to be made by the listener, so we mask out the case where the actual
 listener does not choose an image by setting it to zero. This is done using the same parameter 1
 and listener conﬁdence Pmaxthat were used to control linguistic input in 2. We add this to the joint
 learning objective previously deﬁned in 5 to compute our combined objective for the ToM speaker
 system as a whole:
-Ojoint=OCG+ (1 )OLI+OToM (11)
+Ojoint=OCG+ (1)OLI+OToM (11)
 However, an untrained listener can introduce signiﬁcant noise to the utterance generation process.
 To counteract this, we anneal the inﬂuence of the listener, by linearly increasing wlfrom 0 to the
 ﬁnalwlvalue over a ﬁxed number of steps. This allows our speaker to only begin using its ToM
@@ -293,7 +293,7 @@ length, F1 score for salient parts of speech, and caption quality scores. We use
 measures the grammatical quality of output utterances (Kann et al., 2018). This is deﬁned as the
 average gain in log probability when moving from a unigram model to a pretrained language model.
 ﬂuency =1
-juj(ln(pM(u)) ln(pU(u))) (12)
+juj(ln(pM(u))ln(pU(u))) (12)
 We train a unigram model, pU, and ﬁne-tune GPT-2 large (Radford et al., 2019), pM, on our training
 set.
 In addition to ﬂuency and accuracy, we consider two additional performance metrics. To better

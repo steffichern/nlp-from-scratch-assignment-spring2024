@@ -7,7 +7,8 @@ TLDR: {'model': 'tldr@v2.0.0', 'text': 'The proposed method improves the interpr
 
 Full paper text:
 Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023) , pages 232–241
-July 13, 2023 c2023 Association for Computational Linguistics
+July 13, 2023 c
+2023 Association for Computational Linguistics
 Towards Extracting and Understanding the Implicit Rubrics of
 Transformer Based Automated Essay Scoring Models
 James Fiacco

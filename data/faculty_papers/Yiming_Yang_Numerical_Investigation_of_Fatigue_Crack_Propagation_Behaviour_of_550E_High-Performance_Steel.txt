@@ -310,10 +310,10 @@ Figure 6. Crack propagation path: ( a) Intact; ( b) Corroded.
 3.2. Fatigue Crack Growth Rate
 The crack growth rate is obtained as the tangential slope of the polynomial ﬁtting
 curve of crack length aand fatigue cycle number N, expressed as follows:
-(da/dN)i=b1/C2+2b2(Ni Ci)/C2
+(da/dN)i=b1/C2+2b2(NiCi)/C2
 2 (1)
 where da/dNis the crack growth rate in mm; Citerms are the material parameters, such
-that C1=(Ni+3+Ni 3)/2,C2=(Ni+3 Ni 3)/2, and index iindicates the test data
+that C1=(Ni+3+Ni3)/2,C2=(Ni+3Ni3)/2, and index iindicates the test data
 point; a=a/W,and its value is greater than 0.2; and b1,b2are the regression parameters
 determined by the least squares method. The stress intensity range DKis calculated
 by Equation (2). By taking the logarithm of the Paris formula, it can be expressed as
@@ -323,19 +323,19 @@ in Table 3.
 DK=DP
 Bp
 W(2+a)
-(1 a)3/2
-0.886 +4.64a 13.32 a2+14.72 a3 5.6a4
+(1a)3/2
+0.886 +4.64a13.32 a2+14.72 a35.6a4
 (2)
 lgda
 dN=mlg(DK)+lg(C) (3)
 Table 3. Parameter values.
 Materials No lg C m R2Mean Value
-Q550E1# 9.08 3.61 0.98
-lgC= 9.11, m= 3.6 2# 9.16 3.6 0.98
-3# 9.09 3.58 0.99
-Q2351# 10.47 4.59 0.98
-lgC= 10.45, m= 4.57 2# 10.45 4.57 0.98
-3# 10.43 4.57 0.97
+Q550E1#9.08 3.61 0.98
+lgC=9.11, m= 3.6 2#9.16 3.6 0.98
+3#9.09 3.58 0.99
+Q2351#10.47 4.59 0.98
+lgC=10.45, m= 4.57 2#10.45 4.57 0.98
+3#10.43 4.57 0.97
 Figure 7 shows the crack growth rates of the two steels according to their average
 values, and an intersection point at a stress intensity factor amplitude of 24.04 MPam1/2
 can be observed. After this point, the crack growth rate of Q550E is slightly higher than

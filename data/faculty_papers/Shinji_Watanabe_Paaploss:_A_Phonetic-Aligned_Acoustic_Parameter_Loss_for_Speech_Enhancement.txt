@@ -174,7 +174,7 @@ estimator 	, estimated acoustic-phonetic weights w.
 9 j Index of phoneme at XC
 i
 10 `PAAP `PAAP+ (DE
-i DC
+iDC
 i)2wj
 11`PAAP 1
 N`PAAP
@@ -192,7 +192,7 @@ ferently based on their importance to predict phoneme logits. These
 acoustic-phonetic weights are estimated using clean speech, through
 linear regression between the acoustic parameters and their corre-
 sponding segmented phoneme logits:
-w= ((DC)>DC)) 1((DC)>PC) (1)
+w= ((DC)>DC))1((DC)>PC) (1)
 where PCindicates the phoneme logits of the clean waveform.
 Each column wiis the vector of weights from the 25 acoustic param-
 eters to phoneme i, plus a bias term. Each weight wijcorresponds
@@ -319,11 +319,11 @@ j;DC
 j) =1
 NNX
 i=1jDE
-ij DC
+ijDC
 ijj (2)
 and then average over all acoustic parameters to get MAE (DE;DC).
 Formally, the acoustic improvement as reduction in MAE is
-MAE (DE;DC) MAE (DB;DC)
+MAE (DE;DC)MAE (DB;DC)
 MAE (DB;DC)100% (3)
 where DBstands for the acoustic parameters from the baseline
 enhancement model. For FullSubNet, we can observe that the PAAP

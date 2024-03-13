@@ -258,33 +258,33 @@ LTI
 LTI
 LTI
 LTI
-April 11-14, 2024
-03:00PM - 03:30PM ET
-Inventing Shakespeare: Text, Technology and The Four Folios, Here to Stay: Celebrating 40 Years at the Architecture Archives, Mixed Reality: A Virtual Reality Escape Room Experience
-Crafting with HR Family Care Initiatives, Delta Upsilon Reception for Alumni, Family and Friends
-College of Engineering Alumni Awards, Heinz Alumni Association Awards, Order of the May, Heinz Network Pittsburgh, Tartans on the Rise
+April 11-14
+03:00PM - 03:30PM
+Booth, Rides and Dog Houses, Carnival Headquarters Tent, Activities, Wellness and Kidzone tents, Buggy Races and Donut Tent, Scotch'n'Soda Performance of The Little Mermaid
+No
+Hill 5
 Thursday: 7-9PM, Friday: 7-9PM and 11PM-1AM, Saturday: 3-5PM and 7-9PM
 No
 Here to Stay: Celebrating 40 Years at the Architecture Archives, Inventing Shakespeare: Text, Technology and The Four Folios, Holi
-Bachelor’s, master’s and doctoral degree candidates and their guests are invited
-There is no limit on the number of guests
+All guests are invited
+No
 All guests must be seated by 9:15AM
 Yes
-Diploma ceremonies will be held over the course of the weekend (Friday, May 10–Sunday, May 12)
+May 10, May 11
 Simmons Auditorium, Tepper Building
 Mike Danko
-Thursday, May 9, 3–4PM
-Logic Theorist, created by Herb Simon, Allen Newell, and Cliff Shaw
-CMU researchers built a pioneering computer by linking 16 processors to solve the problem of slow machines in the early 1970s, leading to the development of multi-core processors
-Developed at Carnegie Mellon beginning in the 1970s, the cognitive tutoring program did more than simply drill students on math problems. Cognitive tutors were able to adapt, presenting harder or easier problems as students learned or stumbled
+May 9
+Logic Theorist
+Yes
+Yes
 Scott Fahlman
-At the core of all modern Apple devices --- including iPhones, iPads and MacBooks --- is the Mach kernel, developed at CMU under the leadership of then-professor Rick Rashid
+Mach kernel
 James Gosling
 Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum
 BOSS
-CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999
-CMU’s Robotics Institute
-Dec. 22, 1988
+Yes
+Robotics Institute
+1988
 Alan Perlis
 2014
 1975
@@ -306,11 +306,11 @@ Yes
 4
 My heart is in the work
 Mao Yisheng
-A curriculum that required science and engineer students to take courses in humanities and social sciences in order to better understand the needs of society
+Yes
 1967
 Yes
-Advancing the individual student experience, the broader Carnegie Mellon community experience, and the social impact of Carnegie Mellon throughout the world
-5 feet 3 inches
+Yes
+5 feet, 3 inches
 Scottish terrier; Scottie Dog
 Tartans
 Josh Centor
@@ -320,7 +320,7 @@ Yes
 All home football games, a holiday concert, and two spring concerts
 No
 Yes
-November 25th, 1922
+November 25, 1922
 Information Retrieval, Text Mining and Analytics
 ['Score:_A_Rule_Engine_for_the_Scone_Knowledge_Base_System']
 412-268-4525
@@ -331,9 +331,9 @@ Professor
 Information Extraction, Summarization and Question AnsweringInformation Retrieval, Text Mining and AnalyticsLanguage Technologies for Education
 412-268-6193
 ['GPT-Sentinel:_Distinguishing_Human_and_ChatGPT_Generated_Content']
-shamos@cs.cmu.edu
+estrubel@andrew.cmu.edu
 ['Reverse-Engineering_Decoding_Strategies_Given_Blackbox_Access_to_a_Language_Generation_System', "A_Pretrainer's_Guide_to_Training_Data:_Measuring_the_Effects_of_Data_Age,_Domain_Coverage,_Quality,_&_Toxicity", 'Extracting_Training_Data_from_Diffusion_Models', 'Report_of_the_1st_Workshop_on_Generative_AI_and_Law', 'Are_aligned_neural_networks_adversarially_aligned?', 'Effective_Prompt_Extraction_from_Language_Models', 'Scalable_Extraction_of_Training_Data_from_(Production)_Language_Models']
-6707 Gates & Hillman Centers
+6709 Gates & Hillman Centers
 Information Retrieval: Recommender Systems, Retrieval and Ranking ModelsNatural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation
 waibel@cs.cmu.edu
 6703 Gates & Hillman Centers
@@ -341,7 +341,7 @@ Assistant Professor
 teruko@cs.cmu.edu
 N/A
 ['Advancing_Regular_Language_Reasoning_in_Linear_Recurrent_Neural_Networks', 'Structured_Dialogue_Discourse_Parsing', 'A_Vector_Quantized_Approach_for_Text_to_Speech_Synthesis_on_Real-World_Spontaneous_Speech', 'Tartan:_an_LLM_Driven_SocialBot', 'Overview_of_Robust_and_Multilingual_Automatic_Evaluation_Metrics\n\nfor_Open-Domain_Dialogue_Systems_at_DSTC_11_Track_4', 'Learning_to_Ask_Questions_for_Zero-shot_Dialogue_State_Tracking']
-Research Professor Emeritus
+Professor Emeritus
 Assistant Research Professor
 N/A
 Professor

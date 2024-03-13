@@ -80,7 +80,7 @@ vector_store = PGVectorStore.from_params(
 from llama_index.llms.ollama import Ollama
 from llama_index.core import Settings
 # ollama
-Settings.llm = Ollama(model="mistral", request_timeout=30.0)
+Settings.llm = Ollama(model="gemma", request_timeout=120.0, context_window=32768)
 storage_context = StorageContext.from_defaults(vector_store=vector_store)
 index = VectorStoreIndex.from_documents(
     docs, storage_context=storage_context, show_progress=True
@@ -88,8 +88,10 @@ index = VectorStoreIndex.from_documents(
 
 query_engine = index.as_query_engine()
 prompt_engineering = "Return answer from a single course (do not add results together). If there's more than one answers, return a random one. If asked about the time, please answer in the format of '08:00AM' and nothing else. If asked about the course number, please answer in the format of '12345' and nothing else. If asked about the name of the instructor or the course name, please answer only the name and nothing else. If asked about the units/credit of a course, please answer in the format of '8.0' and nothing else. If you cannot find the info, answer 'None' and nothing else."
-question = "What is the name of course 76774?"
+question = "When does Presenting Performing Arts & Festivals start?"
 
-response = query_engine.query(question + prompt_engineering)
+response = query_engine.query(question + " " + prompt_engineering)
+
+print("\n\n\nThe response is:\n\n\n")
 print(textwrap.fill(str(response), 100))
 

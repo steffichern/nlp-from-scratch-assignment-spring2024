@@ -1,6 +1,0 @@
-Title: Identifying Health-Related Quality of Life Domains after Upper Extremity Transplantation.
-Year: 2023
-Authors: D. Tulsky, Pamela A. Kisala, Callie E Tyner, J. Slotkin, C. Kaufman, C. Dearth, A. Horan, S. Talbot, J. Shores, K. Azari, C. Cetrulo, G. Brandacher, C. Cooney, David E Victorson, M. Dooley, Lori S. Levin, Cdr Scott M Tintle
-Abstract: None
-Publication Venue: Archives of Physical Medicine and Rehabilitation
-TLDR: {'model': 'tldr@v2.0.0', 'text': 'This study identified key constructs for use in evaluation of the potentially substantial physical, medical, social, and emotional effects of UET, including physical functioning and medical complications, positive and negative emotional functioning, and social participation, relationships, and independence.'}

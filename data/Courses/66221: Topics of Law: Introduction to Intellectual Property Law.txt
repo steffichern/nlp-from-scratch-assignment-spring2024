@@ -1,0 +1,10 @@
+Course Number: 66221
+Title: Topics of Law: Introduction to Intellectual Property Law
+Units: 9.0
+Lec/Sec: A
+Days: MW
+Begin: 07:00PM
+End: 08:20PM
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor: Thomas, Patel

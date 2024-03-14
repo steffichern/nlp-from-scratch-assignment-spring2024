@@ -1,0 +1,10 @@
+Course Number: 48616
+Title: Carnival Gateway Special Project
+Units: VAR
+Lec/Sec: A4
+Days: M
+Begin: 06:30PM
+End: 07:50PM
+Bldg/Room: CFA 206A
+Location: Pittsburgh, Pennsylvania
+Instructor: Khan

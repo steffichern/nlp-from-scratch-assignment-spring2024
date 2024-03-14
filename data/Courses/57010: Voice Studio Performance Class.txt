@@ -1,0 +1,10 @@
+Course Number: 57010
+Title: Voice Studio Performance Class
+Units: 1.0
+Lec/Sec: A
+Days: T
+Begin: 03:00PM
+End: 03:50PM
+Bldg/Room: CFA KRESGE
+Location: Pittsburgh, Pennsylvania
+Instructor: Irwin

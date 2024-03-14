@@ -1,0 +1,10 @@
+Course Number: 80282
+Title: Phonetics and Phonology I
+Units: 9.0
+Lec/Sec: A
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: PH 125B
+Location: Pittsburgh, Pennsylvania
+Instructor: Werner

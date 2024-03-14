@@ -1,0 +1,10 @@
+Course Number: 54666
+Title: Production Audio
+Units: VAR
+Lec/Sec: A
+Days: M
+Begin: 01:00PM
+End: 03:50PM
+Bldg/Room: PCA 103
+Location: Pittsburgh, Pennsylvania
+Instructor: Pino

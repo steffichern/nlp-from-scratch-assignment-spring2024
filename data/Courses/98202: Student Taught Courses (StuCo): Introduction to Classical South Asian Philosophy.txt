@@ -1,0 +1,10 @@
+Course Number: 98202
+Title: Student Taught Courses (StuCo): Introduction to Classical South Asian Philosophy
+Units: 3.0
+Lec/Sec: A
+Days: T
+Begin: 07:00PM
+End: 07:50PM
+Bldg/Room: WEH 5310
+Location: Pittsburgh, Pennsylvania
+Instructor: Batra, Beh, Madan, Ghodke

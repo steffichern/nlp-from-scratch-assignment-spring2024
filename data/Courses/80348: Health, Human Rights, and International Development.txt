@@ -1,0 +1,10 @@
+Course Number: 80348
+Title: Health, Human Rights, and International Development
+Units: 9.0
+Lec/Sec: A
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: WEH 4623
+Location: Pittsburgh, Pennsylvania
+Instructor: Wenner

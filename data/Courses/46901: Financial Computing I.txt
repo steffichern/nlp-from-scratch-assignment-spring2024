@@ -1,0 +1,10 @@
+Course Number: 46901
+Title: Financial Computing I
+Units: 6.0
+Lec/Sec: I1
+Days: TR
+Begin: 01:00PM
+End: 02:30PM
+Bldg/Room: TCS 250
+Location: Pittsburgh, Pennsylvania
+Instructor: Ostlund

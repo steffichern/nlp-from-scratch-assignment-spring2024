@@ -1,0 +1,10 @@
+Course Number: 09107
+Title: Honors Chemistry: Fundamentals, Concepts and Applications
+Units: 10.0
+Lec/Sec: Lec
+Days: MWF
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: DH 1211
+Location: Pittsburgh, Pennsylvania
+Instructor: Yaron

@@ -1,0 +1,10 @@
+Course Number: 90783
+Title: Policy Innovation Lab: Public Interest Technology
+Units: 6.0
+Lec/Sec: A2
+Days: T
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1006
+Location: Pittsburgh, Pennsylvania
+Instructor: Goranson

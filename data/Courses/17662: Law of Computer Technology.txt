@@ -1,0 +1,10 @@
+Course Number: 17662
+Title: Law of Computer Technology
+Units: 6.0
+Lec/Sec: A1
+Days: TR
+Begin: 08:00AM
+End: 09:20AM
+Bldg/Room: DH A302
+Location: Pittsburgh, Pennsylvania
+Instructor: Shamos

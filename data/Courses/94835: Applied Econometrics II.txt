@@ -1,0 +1,10 @@
+Course Number: 94835
+Title: Applied Econometrics II
+Units: 6.0
+Lec/Sec: A4
+Days: MW
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: HBH 1204
+Location: Pittsburgh, Pennsylvania
+Instructor: Jha

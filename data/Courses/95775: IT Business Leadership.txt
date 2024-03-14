@@ -1,0 +1,10 @@
+Course Number: 95775
+Title: IT Business Leadership
+Units: 6.0
+Lec/Sec: A1
+Days: M
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1004
+Location: Pittsburgh, Pennsylvania
+Instructor: Smalley

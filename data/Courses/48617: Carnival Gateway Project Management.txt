@@ -1,0 +1,10 @@
+Course Number: 48617
+Title: Carnival Gateway Project Management
+Units: VAR
+Lec/Sec: A
+Days: M
+Begin: 06:30PM
+End: 07:50PM
+Bldg/Room: CFA 206A
+Location: Pittsburgh, Pennsylvania
+Instructor: Khan

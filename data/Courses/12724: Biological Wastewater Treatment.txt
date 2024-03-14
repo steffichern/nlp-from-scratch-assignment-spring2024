@@ -1,0 +1,10 @@
+Course Number: 12724
+Title: Biological Wastewater Treatment
+Units: 12.0
+Lec/Sec: Lec
+Days: TR
+Begin: 08:00AM
+End: 09:50AM
+Bldg/Room: PH A7F
+Location: Pittsburgh, Pennsylvania
+Instructor: Moore

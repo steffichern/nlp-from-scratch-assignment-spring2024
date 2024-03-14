@@ -1,0 +1,10 @@
+Course Number: 49704
+Title: iii Seminar Series
+Units: 0.0
+Lec/Sec: A
+Days: F
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: CA 115
+Location: Pittsburgh, Pennsylvania
+Instructor: Ayoob, Wooten

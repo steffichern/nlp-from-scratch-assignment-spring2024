@@ -1,0 +1,10 @@
+Course Number: 36640
+Title: Probability & Statistics for Data Science
+Units: 6.0
+Lec/Sec: A3
+Days: W
+Begin: 06:00PM
+End: 07:30PM
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor: Freeman

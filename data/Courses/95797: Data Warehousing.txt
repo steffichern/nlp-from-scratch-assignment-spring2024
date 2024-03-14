@@ -1,0 +1,10 @@
+Course Number: 95797
+Title: Data Warehousing
+Units: 6.0
+Lec/Sec: Z2
+Days: W
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor: Fein

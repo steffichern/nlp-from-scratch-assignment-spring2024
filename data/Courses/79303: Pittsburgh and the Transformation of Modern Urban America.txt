@@ -1,0 +1,10 @@
+Course Number: 79303
+Title: Pittsburgh and the Transformation of Modern Urban America
+Units: 6.0
+Lec/Sec: A2
+Days: TR
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: BH 246A
+Location: Pittsburgh, Pennsylvania
+Instructor: Tarr

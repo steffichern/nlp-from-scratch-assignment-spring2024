@@ -1,0 +1,10 @@
+Course Number: 51612
+Title: MA Studio II: Intro Interaction Design
+Units: 12.0
+Lec/Sec: A
+Days: TR
+Begin: 09:00AM
+End: 11:50AM
+Bldg/Room: MM 121
+Location: Pittsburgh, Pennsylvania
+Instructor: Deal, O'Leary

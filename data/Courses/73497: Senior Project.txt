@@ -1,0 +1,10 @@
+Course Number: 73497
+Title: Senior Project
+Units: 12.0
+Lec/Sec: A
+Days: TR
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: TEP 2613
+Location: Pittsburgh, Pennsylvania
+Instructor: Gasper

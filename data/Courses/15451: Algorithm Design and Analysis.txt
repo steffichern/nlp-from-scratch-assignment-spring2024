@@ -1,0 +1,10 @@
+Course Number: 15451
+Title: Algorithm Design and Analysis
+Units: 12.0
+Lec/Sec: Lec 1
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: PH 100
+Location: Pittsburgh, Pennsylvania
+Instructor: Anderson, Sleator

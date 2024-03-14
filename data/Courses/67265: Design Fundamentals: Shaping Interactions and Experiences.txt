@@ -1,0 +1,10 @@
+Course Number: 67265
+Title: Design Fundamentals: Shaping Interactions and Experiences
+Units: 9.0
+Lec/Sec: A
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: SH 238
+Location: Pittsburgh, Pennsylvania
+Instructor: Hagan

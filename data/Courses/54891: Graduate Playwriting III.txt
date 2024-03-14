@@ -1,0 +1,10 @@
+Course Number: 54891
+Title: Graduate Playwriting III
+Units: 18.0
+Lec/Sec: A
+Days: M
+Begin: 09:30AM
+End: 11:50AM
+Bldg/Room: BH 136E
+Location: Pittsburgh, Pennsylvania
+Instructor: Handel

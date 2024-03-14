@@ -1,0 +1,10 @@
+Course Number: 11442
+Title: Search Engines
+Units: 9.0
+Lec/Sec: A
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: MI 348
+Location: Pittsburgh, Pennsylvania
+Instructor: Callan

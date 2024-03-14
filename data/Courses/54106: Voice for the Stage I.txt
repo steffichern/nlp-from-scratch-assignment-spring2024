@@ -1,0 +1,10 @@
+Course Number: 54106
+Title: Voice for the Stage I
+Units: 5.0
+Lec/Sec: A
+Days: T
+Begin: 10:30AM
+End: 11:50AM
+Bldg/Room: PCA A35
+Location: Pittsburgh, Pennsylvania
+Instructor: Velten-Smith

@@ -1,0 +1,10 @@
+Course Number: 80150
+Title: Nature of Reason
+Units: 9.0
+Lec/Sec: Lec
+Days: MW
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: BH A53
+Location: Pittsburgh, Pennsylvania
+Instructor: Zaffora Blando

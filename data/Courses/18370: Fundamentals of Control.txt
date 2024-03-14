@@ -1,0 +1,10 @@
+Course Number: 18370
+Title: Fundamentals of Control
+Units: 12.0
+Lec/Sec: A
+Days: MW
+Begin: 01:00PM
+End: 02:50PM
+Bldg/Room: MM 103
+Location: Pittsburgh, Pennsylvania
+Instructor: Nakahira

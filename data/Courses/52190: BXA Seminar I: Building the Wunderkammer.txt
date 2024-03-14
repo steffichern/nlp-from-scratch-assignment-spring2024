@@ -1,0 +1,10 @@
+Course Number: 52190
+Title: BXA Seminar I: Building the Wunderkammer
+Units: 4.5
+Lec/Sec: A3
+Days: F
+Begin: 12:00PM
+End: 01:50PM
+Bldg/Room: HOA 211F
+Location: Pittsburgh, Pennsylvania
+Instructor: Murray

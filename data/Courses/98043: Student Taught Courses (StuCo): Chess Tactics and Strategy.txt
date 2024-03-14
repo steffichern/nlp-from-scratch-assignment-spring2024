@@ -1,0 +1,10 @@
+Course Number: 98043
+Title: Student Taught Courses (StuCo): Chess Tactics and Strategy
+Units: 3.0
+Lec/Sec: A
+Days: M
+Begin: 07:00PM
+End: 08:20PM
+Bldg/Room: WEH 5415
+Location: Pittsburgh, Pennsylvania
+Instructor: Gu, Khong, Peng

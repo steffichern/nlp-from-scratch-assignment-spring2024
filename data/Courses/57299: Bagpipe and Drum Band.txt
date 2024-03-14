@@ -1,0 +1,10 @@
+Course Number: 57299
+Title: Bagpipe and Drum Band
+Units: VAR
+Lec/Sec: A
+Days: M
+Begin: 07:00PM
+End: 08:50PM
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor: Carlisle

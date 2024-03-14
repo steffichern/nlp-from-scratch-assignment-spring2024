@@ -1,0 +1,10 @@
+Course Number: 54011
+Title: Introduction to Alexander Technique
+Units: 1.0
+Lec/Sec: A1
+Days: MW
+Begin: 03:00PM
+End: 03:50PM
+Bldg/Room: PCA 115
+Location: Pittsburgh, Pennsylvania
+Instructor: Sapa

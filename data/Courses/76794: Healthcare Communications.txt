@@ -1,0 +1,10 @@
+Course Number: 76794
+Title: Healthcare Communications
+Units: 9-12
+Lec/Sec: A
+Days: R
+Begin: 07:00PM
+End: 09:50PM
+Bldg/Room: BH 255B
+Location: Pittsburgh, Pennsylvania
+Instructor: Castagnaro

@@ -1,0 +1,10 @@
+Course Number: 73369
+Title: Islamic Economics
+Units: 9.0
+Lec/Sec: W
+Days: MW
+Begin: 02:30PM
+End: 03:45PM
+Bldg/Room: CMB 1030
+Location: Doha, Qatar
+Instructor: Safak

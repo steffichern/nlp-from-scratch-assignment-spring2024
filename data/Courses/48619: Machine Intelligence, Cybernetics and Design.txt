@@ -1,0 +1,10 @@
+Course Number: 48619
+Title: Machine Intelligence, Cybernetics and Design
+Units: 9.0
+Lec/Sec: A
+Days: WF
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: MM 307
+Location: Pittsburgh, Pennsylvania
+Instructor: Temizel, Pangaro

@@ -1,0 +1,10 @@
+Course Number: 90824
+Title: Cost Benefit Analysis
+Units: 6.0
+Lec/Sec: W3
+Days: W
+Begin: 06:00PM
+End: 08:50PM
+Bldg/Room: TBA
+Location: Washington, District of Columbia
+Instructor: Cheesebrough

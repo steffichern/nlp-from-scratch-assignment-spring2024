@@ -1,0 +1,10 @@
+Course Number: 57570
+Title: Music and Technology Seminar
+Units: 1.0
+Lec/Sec: A
+Days: T
+Begin: 04:00PM
+End: 04:50PM
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor: Schulz

@@ -1,0 +1,10 @@
+Course Number: 21410
+Title: Research Topics in Mathematical Sciences
+Units: 9.0
+Lec/Sec: A
+Days: MWF
+Begin: 03:00PM
+End: 03:50PM
+Bldg/Room: WEH 8201
+Location: Pittsburgh, Pennsylvania
+Instructor: Anderson, O'Dorney

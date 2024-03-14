@@ -1,0 +1,10 @@
+Course Number: 95729
+Title: E-Commerce Tech, Machine Learning, Analytics, & Bots
+Units: 6.0
+Lec/Sec: A2
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: HBH 2009
+Location: Pittsburgh, Pennsylvania
+Instructor: Wright

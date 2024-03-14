@@ -1,0 +1,10 @@
+Course Number: 54247
+Title: Dramaturgy 6: In Company
+Units: 9.0
+Lec/Sec: A
+Days: F
+Begin: 10:00AM
+End: 11:50AM
+Bldg/Room: PH A20
+Location: Pittsburgh, Pennsylvania
+Instructor: Young, Good

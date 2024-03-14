@@ -1,0 +1,10 @@
+Course Number: 93808
+Title: Exhibitions Management
+Units: 6.0
+Lec/Sec: A3
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: HBH 1006
+Location: Pittsburgh, Pennsylvania
+Instructor: Gent

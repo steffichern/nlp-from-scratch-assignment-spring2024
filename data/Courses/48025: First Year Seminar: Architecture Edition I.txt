@@ -1,0 +1,10 @@
+Course Number: 48025
+Title: First Year Seminar: Architecture Edition I
+Units: 3.0
+Lec/Sec: A
+Days: R
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: MM A14
+Location: Pittsburgh, Pennsylvania
+Instructor: Workinger

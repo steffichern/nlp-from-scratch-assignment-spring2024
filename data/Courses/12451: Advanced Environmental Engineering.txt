@@ -1,0 +1,10 @@
+Course Number: 12451
+Title: Advanced Environmental Engineering
+Units: 9.0
+Lec/Sec: A
+Days: TR
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: PH A18C
+Location: Pittsburgh, Pennsylvania
+Instructor: Fakhreddine

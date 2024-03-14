@@ -1,0 +1,10 @@
+Course Number: 14310
+Title: Cybersecurity in our Daily Applications
+Units: 3.0
+Lec/Sec: W1
+Days: UMTWR
+Begin: 06:00PM
+End: 07:30PM
+Bldg/Room: CMB 2052
+Location: Doha, Qatar
+Instructor: Hibshi

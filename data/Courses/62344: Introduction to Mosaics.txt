@@ -1,0 +1,10 @@
+Course Number: 62344
+Title: Introduction to Mosaics
+Units: 3.0
+Lec/Sec: A
+Days: F
+Begin: 09:30AM
+End: 12:30PM
+Bldg/Room: OFF CAMP
+Location: Pittsburgh, Pennsylvania
+Instructor: Mcgowan

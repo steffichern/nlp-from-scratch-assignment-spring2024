@@ -1,0 +1,10 @@
+Course Number: 82580
+Title: Senior Seminar in Modern Languages
+Units: 9.0
+Lec/Sec: A
+Days: TR
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: PH 226A
+Location: Pittsburgh, Pennsylvania
+Instructor: Skibba

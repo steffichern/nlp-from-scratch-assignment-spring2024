@@ -1,0 +1,10 @@
+Course Number: 57772
+Title: Production: Performance
+Units: 6.0
+Lec/Sec: A
+Days: MTWRF
+Begin: 07:00PM
+End: 09:50PM
+Bldg/Room: WQE ST B
+Location: Pittsburgh, Pennsylvania
+Instructor: Rissinger, Douglas

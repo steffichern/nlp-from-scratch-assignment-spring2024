@@ -1,0 +1,10 @@
+Course Number: 14315
+Title: Innovation in Building AI-Products
+Units: 3.0
+Lec/Sec: W3
+Days: UTR
+Begin: 06:00PM
+End: 07:30PM
+Bldg/Room: CMB 1030
+Location: Doha, Qatar
+Instructor: Farag

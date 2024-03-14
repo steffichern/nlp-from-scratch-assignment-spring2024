@@ -1,0 +1,10 @@
+Course Number: 16170
+Title: Concepts of Robotics
+Units: 5.0
+Lec/Sec: M3
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: WEH 2302
+Location: Pittsburgh, Pennsylvania
+Instructor: Kantor

@@ -1,0 +1,10 @@
+Course Number: 76846
+Title: Revenge Tragedy
+Units: 9,12
+Lec/Sec: A
+Days: TR
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: PH 125D
+Location: Pittsburgh, Pennsylvania
+Instructor: Wittek

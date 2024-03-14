@@ -1,0 +1,10 @@
+Course Number: 93880
+Title: Production Finance
+Units: 6.0
+Lec/Sec: A4
+Days: MW
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor: Saul

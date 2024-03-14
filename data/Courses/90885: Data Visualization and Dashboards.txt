@@ -1,0 +1,10 @@
+Course Number: 90885
+Title: Data Visualization and Dashboards
+Units: 6.0
+Lec/Sec: W3
+Days: T
+Begin: 06:00PM
+End: 08:50PM
+Bldg/Room: TBA
+Location: Washington, District of Columbia
+Instructor: Filipiak

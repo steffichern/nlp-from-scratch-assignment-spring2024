@@ -1,0 +1,10 @@
+Course Number: 24677
+Title: Modern Control Theory
+Units: 12.0
+Lec/Sec: Lec
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: MM A14
+Location: Pittsburgh, Pennsylvania
+Instructor: Zhao

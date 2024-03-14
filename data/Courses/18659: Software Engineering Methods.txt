@@ -1,0 +1,10 @@
+Course Number: 18659
+Title: Software Engineering Methods
+Units: 12.0
+Lec/Sec: Lec
+Days: MW
+Begin: 01:00PM
+End: 02:50PM
+Bldg/Room: B23 109
+Location: San Jose, California
+Instructor: Peraire

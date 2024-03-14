@@ -1,0 +1,10 @@
+Course Number: 76717
+Title: Contemporary American Fiction
+Units: VAR
+Lec/Sec: A
+Days: R
+Begin: 07:00PM
+End: 09:50PM
+Bldg/Room: BH 255B
+Location: Pittsburgh, Pennsylvania
+Instructor: Williams

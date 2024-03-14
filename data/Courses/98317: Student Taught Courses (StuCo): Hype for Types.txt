@@ -1,0 +1,10 @@
+Course Number: 98317
+Title: Student Taught Courses (StuCo): Hype for Types
+Units: 3.0
+Lec/Sec: A
+Days: T
+Begin: 07:00PM
+End: 07:50PM
+Bldg/Room: WEH 4709
+Location: Pittsburgh, Pennsylvania
+Instructor: Alsuhaibani, Battleman, Li, Simkin

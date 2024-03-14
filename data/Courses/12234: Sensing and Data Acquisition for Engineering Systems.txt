@@ -1,0 +1,10 @@
+Course Number: 12234
+Title: Sensing and Data Acquisition for Engineering Systems
+Units: 4.0
+Lec/Sec: Lec
+Days: T
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: PH 107E
+Location: Pittsburgh, Pennsylvania
+Instructor: Christian

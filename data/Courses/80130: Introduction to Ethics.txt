@@ -1,0 +1,10 @@
+Course Number: 80130
+Title: Introduction to Ethics
+Units: 9.0
+Lec/Sec: Lec
+Days: MW
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: PH A18A
+Location: Pittsburgh, Pennsylvania
+Instructor: Gray

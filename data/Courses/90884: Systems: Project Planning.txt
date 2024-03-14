@@ -1,0 +1,10 @@
+Course Number: 90884
+Title: Systems: Project Planning
+Units: 3.0
+Lec/Sec: V2
+Days: F
+Begin: 09:30AM
+End: 12:20PM
+Bldg/Room: TBA
+Location: Washington, District of Columbia
+Instructor: Robinson

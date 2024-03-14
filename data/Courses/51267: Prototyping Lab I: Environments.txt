@@ -1,0 +1,10 @@
+Course Number: 51267
+Title: Prototyping Lab I: Environments
+Units: 4.5
+Lec/Sec: A1
+Days: TR
+Begin: 10:30AM
+End: 12:20PM
+Bldg/Room: MM 211
+Location: Pittsburgh, Pennsylvania
+Instructor: Firos

@@ -1,0 +1,10 @@
+Course Number: 79705
+Title: Seminar in Instruction
+Units: 6.0
+Lec/Sec: A
+Days: MWF
+Begin: 12:00PM
+End: 12:50PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor: Law

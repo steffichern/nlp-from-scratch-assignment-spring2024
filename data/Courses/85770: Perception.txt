@@ -1,0 +1,10 @@
+Course Number: 85770
+Title: Perception
+Units: 9,12
+Lec/Sec: A
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: BH 336B
+Location: Pittsburgh, Pennsylvania
+Instructor: Klatzky

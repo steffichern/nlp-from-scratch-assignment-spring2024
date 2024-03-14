@@ -1,0 +1,10 @@
+Course Number: 82104
+Title: Elementary French II Online
+Units: 12.0
+Lec/Sec: W
+Days: U
+Begin: 11:30AM
+End: 12:45PM
+Bldg/Room: CMB 1032
+Location: Doha, Qatar
+Instructor: Moufid

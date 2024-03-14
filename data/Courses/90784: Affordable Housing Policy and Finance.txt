@@ -1,0 +1,10 @@
+Course Number: 90784
+Title: Affordable Housing Policy and Finance
+Units: 6.0
+Lec/Sec: A3
+Days: M
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor: Smith

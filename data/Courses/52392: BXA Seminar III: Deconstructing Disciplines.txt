@@ -1,0 +1,10 @@
+Course Number: 52392
+Title: BXA Seminar III: Deconstructing Disciplines
+Units: 9.0
+Lec/Sec: A
+Days: M
+Begin: 06:00PM
+End: 06:50PM
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor: Marcum, Hagan

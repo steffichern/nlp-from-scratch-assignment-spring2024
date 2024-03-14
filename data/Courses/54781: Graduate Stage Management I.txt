@@ -1,0 +1,10 @@
+Course Number: 54781
+Title: Graduate Stage Management I
+Units: 3.0
+Lec/Sec: A1
+Days: MW
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: BH 136E
+Location: Pittsburgh, Pennsylvania
+Instructor: Wei

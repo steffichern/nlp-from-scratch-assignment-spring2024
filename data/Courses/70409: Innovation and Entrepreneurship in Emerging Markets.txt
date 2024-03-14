@@ -1,0 +1,10 @@
+Course Number: 70409
+Title: Innovation and Entrepreneurship in Emerging Markets
+Units: 9.0
+Lec/Sec: W
+Days: MW
+Begin: 04:00PM
+End: 05:15PM
+Bldg/Room: CMB 1031
+Location: Doha, Qatar
+Instructor: Hakim

@@ -1,0 +1,10 @@
+Course Number: 19301
+Title: Decision Making Methods for Engineers and Scientists
+Units: 9.0
+Lec/Sec: A
+Days: MWF
+Begin: 12:00PM
+End: 12:50PM
+Bldg/Room: BH 237B
+Location: Pittsburgh, Pennsylvania
+Instructor: Jaramillo

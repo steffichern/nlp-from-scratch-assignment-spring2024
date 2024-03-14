@@ -1,0 +1,10 @@
+Course Number: 14798
+Title: INI Practicum
+Units: 24.0
+Lec/Sec: A
+Days: W
+Begin: 05:00PM
+End: 06:50PM
+Bldg/Room: INI DEC
+Location: Pittsburgh, Pennsylvania
+Instructor: Kuo, Telang

@@ -1,0 +1,10 @@
+Course Number: 69151
+Title: Introduction to Yoga
+Units: 3.0
+Lec/Sec: B3
+Days: MWF
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: CUC AR 254
+Location: Pittsburgh, Pennsylvania
+Instructor: Stragar, Gauntner

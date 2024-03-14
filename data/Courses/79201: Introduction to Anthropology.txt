@@ -1,0 +1,10 @@
+Course Number: 79201
+Title: Introduction to Anthropology
+Units: 9.0
+Lec/Sec: A
+Days: MW
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: PH A18A
+Location: Pittsburgh, Pennsylvania
+Instructor: Grama

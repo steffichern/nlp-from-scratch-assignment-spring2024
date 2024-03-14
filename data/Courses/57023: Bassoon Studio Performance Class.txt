@@ -1,0 +1,10 @@
+Course Number: 57023
+Title: Bassoon Studio Performance Class
+Units: 1.0
+Lec/Sec: A
+Days: M
+Begin: 07:00PM
+End: 08:50PM
+Bldg/Room: HOA 226
+Location: Pittsburgh, Pennsylvania
+Instructor: Goeres, Shields

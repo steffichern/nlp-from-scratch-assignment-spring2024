@@ -1,0 +1,10 @@
+Course Number: 36641
+Title: Gaining Insights through Statistical Modeling and Machine Learning
+Units: 6.0
+Lec/Sec: A4
+Days: W
+Begin: 06:00PM
+End: 07:30PM
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor: Freeman

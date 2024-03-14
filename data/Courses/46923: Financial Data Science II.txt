@@ -1,0 +1,10 @@
+Course Number: 46923
+Title: Financial Data Science II
+Units: 6.0
+Lec/Sec: I2
+Days: TR
+Begin: 10:00AM
+End: 11:30AM
+Bldg/Room: TCS 250
+Location: Pittsburgh, Pennsylvania
+Instructor: Schafer

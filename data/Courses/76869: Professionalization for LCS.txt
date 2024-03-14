@@ -1,0 +1,10 @@
+Course Number: 76869
+Title: Professionalization for LCS
+Units: 6.0
+Lec/Sec: A4
+Days: M
+Begin: 04:00PM
+End: 06:50PM
+Bldg/Room: BH 136E
+Location: Pittsburgh, Pennsylvania
+Instructor: Newman

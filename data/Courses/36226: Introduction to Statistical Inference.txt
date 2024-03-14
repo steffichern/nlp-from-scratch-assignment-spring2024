@@ -1,0 +1,10 @@
+Course Number: 36226
+Title: Introduction to Statistical Inference
+Units: 9.0
+Lec/Sec: A
+Days: MWF
+Begin: 09:00AM
+End: 09:50AM
+Bldg/Room: DH 2210
+Location: Pittsburgh, Pennsylvania
+Instructor: Branson

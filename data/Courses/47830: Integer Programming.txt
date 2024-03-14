@@ -1,0 +1,10 @@
+Course Number: 47830
+Title: Integer Programming
+Units: 6.0
+Lec/Sec: A3
+Days: TR
+Begin: 02:00PM
+End: 03:50PM
+Bldg/Room: TEP 4219
+Location: Pittsburgh, Pennsylvania
+Instructor: Cornuejols

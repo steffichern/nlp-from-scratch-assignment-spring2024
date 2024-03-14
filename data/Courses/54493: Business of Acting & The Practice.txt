@@ -1,0 +1,10 @@
+Course Number: 54493
+Title: Business of Acting & The Practice
+Units: 4.0
+Lec/Sec: A
+Days: MW
+Begin: 01:30PM
+End: 03:20PM
+Bldg/Room: PCA 231
+Location: Pittsburgh, Pennsylvania
+Instructor: Velten-Smith

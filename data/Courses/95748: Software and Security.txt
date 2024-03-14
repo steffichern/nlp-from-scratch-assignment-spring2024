@@ -1,0 +1,10 @@
+Course Number: 95748
+Title: Software and Security
+Units: 6.0
+Lec/Sec: A3
+Days: M
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1206
+Location: Pittsburgh, Pennsylvania
+Instructor: Yasar

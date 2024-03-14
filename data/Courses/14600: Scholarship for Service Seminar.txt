@@ -1,0 +1,10 @@
+Course Number: 14600
+Title: Scholarship for Service Seminar
+Units: 0.0
+Lec/Sec: A
+Days: W
+Begin: 05:00PM
+End: 05:50PM
+Bldg/Room: CIC 1201
+Location: Pittsburgh, Pennsylvania
+Instructor: Tsamitis, Peca

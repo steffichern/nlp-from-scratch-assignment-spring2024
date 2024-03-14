@@ -1,0 +1,10 @@
+Course Number: 48400
+Title: Architecture Design Studio: Praxis Studio 3
+Units: 18.0
+Lec/Sec: Lec
+Days: TR
+Begin: 01:00PM
+End: 03:20PM
+Bldg/Room: MM 103
+Location: Pittsburgh, Pennsylvania
+Instructor: Damiani

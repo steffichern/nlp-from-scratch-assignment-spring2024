@@ -1,0 +1,10 @@
+Course Number: 57767
+Title: Orchestral Reductions for Piano
+Units: VAR
+Lec/Sec: A
+Days: M
+Begin: 07:00PM
+End: 08:20PM
+Bldg/Room: CFA KRESGE
+Location: Pittsburgh, Pennsylvania
+Instructor: Kim

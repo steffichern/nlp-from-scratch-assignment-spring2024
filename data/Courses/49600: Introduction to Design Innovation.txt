@@ -1,0 +1,10 @@
+Course Number: 49600
+Title: Introduction to Design Innovation
+Units: 10.0
+Lec/Sec: A
+Days: W
+Begin: 08:00PM
+End: 09:20PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor: Saunders

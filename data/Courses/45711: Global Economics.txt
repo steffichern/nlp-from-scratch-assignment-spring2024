@@ -1,0 +1,10 @@
+Course Number: 45711
+Title: Global Economics
+Units: 6.0
+Lec/Sec: M1
+Days: T
+Begin: 08:30PM
+End: 09:45PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor: Ales

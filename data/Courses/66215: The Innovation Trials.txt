@@ -1,0 +1,10 @@
+Course Number: 66215
+Title: The Innovation Trials
+Units: 9.0
+Lec/Sec: A
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: WEH 4707
+Location: Pittsburgh, Pennsylvania
+Instructor: Healey

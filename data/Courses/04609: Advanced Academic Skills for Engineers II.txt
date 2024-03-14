@@ -1,0 +1,10 @@
+Course Number: 04609
+Title: Advanced Academic Skills for Engineers II
+Units: 6.0
+Lec/Sec: B
+Days: R
+Begin: 12:00PM
+End: 01:50PM
+Bldg/Room: CMR F307
+Location: Kigali, Rwanda
+Instructor: Lee

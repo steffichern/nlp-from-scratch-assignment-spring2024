@@ -1,0 +1,10 @@
+Course Number: 54359
+Title: Introduction to Show Networking
+Units: 3.0
+Lec/Sec: A3
+Days: F
+Begin: 04:00PM
+End: 05:20PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor: Brown

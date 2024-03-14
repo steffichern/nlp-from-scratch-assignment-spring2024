@@ -1,0 +1,10 @@
+Course Number: 14828
+Title: Browser Security
+Units: 12.0
+Lec/Sec: Lec 1
+Days: MW
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: CIC 1201
+Location: Pittsburgh, Pennsylvania
+Instructor: Hibshi

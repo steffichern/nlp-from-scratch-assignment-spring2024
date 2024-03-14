@@ -1,0 +1,10 @@
+Course Number: 95759
+Title: Malicious Code Analysis
+Units: 6.0
+Lec/Sec: A3
+Days: W
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 2009
+Location: Pittsburgh, Pennsylvania
+Instructor: Batchelor

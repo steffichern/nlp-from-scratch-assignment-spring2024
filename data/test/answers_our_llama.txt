@@ -1,0 +1,371 @@
+Presenting Performing Arts & Festivals starts at 06:30 PM on Thursdays.
+The name of course 45869 is... (randomly selected from the provided courses)
+82394
+The instructor of Advanced Look Development: The Two Worlds of Texture is Washington. (Reference: file_path: /workspace/nlp-from-scratch-assignment-spring2024/data/Courses/Spring 53362: Advanced Look Development: The Two Worlds of Texture.txt)
+The course number of 30 Hour OSHA is 54355.
+The course "Representation and Voting Rights" has 12.0 units.
+Ethics, Social Biases, and Positive Impact in Language Technologies ends at 12:20 PM.
+6.0
+12271
+Newman
+The course number of Guest Experience in Theme Park Design is 53612.
+The name of course 76815 is "Reading and Writing in an Academic Context".
+Koerner
+Time Series Forecasting in Python starts at 06:30 PM.
+12.0
+The name of course 76774 is Practical Data Science.
+The course "Student Taught Courses (StuCo): Introduction to Competitive Pokemon" starts at 07:50 PM on Tuesdays.
+The course "Differential and Integral Calculus" starts at 08:00AM on Mondays, Wednesdays, and Fridays.
+The course number of Regression Analysis for Political Science II is 84702.
+3.0
+The name of course 03391 is Advanced Topics in Foundations of Programming Languages.
+The course "Formless as an Operation" has 9.0 units.
+Zamborsky
+The name of course 27357 is "Blockchain and SQL Fundamentals."
+Course Number: 88900
+The name of course 98193 is "Student Taught Courses (StuCo): Intro to Quantum Computing."
+The course "Entrepreneurial Engineering Project" has 12.0 units.
+Jarbo
+The course "Reading Into a New China II: Transportation, Education, Pop Culture, & Health" starts at 12:30 PM on Mondays and Wednesdays.
+Severnini
+The course "Remote Systems and the Cyber Domain in Conflict" ends at 12:20 PM on TR days. According to the context information provided, this is the answer to your query.
+The name of course 05333 is Eurhythmics III.
+The course number of Music Skills II is 54126.
+Chorus starts at 04:00PM on TR days.
+The Differential Calculus course ends at 10:50 AM on Wednesdays. (See file path: /workspace/nlp- from-scratch-assignment-spring2024/data/Courses/Spring 21111: Differential Calculus.txt)
+The course number of Machine Learning in Practice is 11344.
+The course "Tech Startups: Tools and Techniques" has 12.0 units.
+66144
+The course "Debt Markets" has 6.0 units.
+Program Evaluation ends at 12:20PM on TR days. (Reference: Course Number: 90823, Title: Program Evaluation, Units: 12.0, Lec/Sec: A, Days: TR)
+9.0
+Sul
+MSIT Practicum starts at 12:00PM on Tuesdays.  (Reference: Course Number: 04900, Title: MSIT Practicum, Location: Kigali, Rwanda)
+Si
+The instructor of Grad Diction: Italian is Rissinger.
+Brida Woolford
+Zhang
+The Refugee Stories: Literature, Art and Film course starts at 02:00PM.
+Course Number: 48644
+Nonviolent Conflict and Revolution starts at 11:00 AM on Mondays and Wednesdays in GHC 4102.
+The course number of Comedy Writing is 62195.
+Course number: 42695
+The name of course 17745 is Mathematical Revolutions.
+Opie
+Project Planning and Reporting starts at 02:00PM on Fridays.
+The name of course 54876 is Operating System Practicum.
+The name of course 98242 is "Intro to Esoteric Programming Languages".
+The course "Software Engineering for Startups" has 12.0 units. (Reference: Spring 17356 file path)
+Wei
+The course number of Piano Pedagogy IV is 57276.
+The course "Technical Direction IV" starts at 09:30 AM on TR days.
+The instructor of DevOps and Continuous Integration is Bass, Yasar. (Reference: file_path: /workspace/nlp-from-scratch-assignment-spring2024/data/Courses/Fall 17646: DevOps and Continuous Integration.txt)
+The course number of Design Studies: Futures is 51176.
+The course number of Introduction to Machine Learning (PhD) is 10701.
+9.0
+The course Experimental Sound Synthesis has 9.0 units.
+76254
+The course "Automation of Scientific Research" has 12.0 units. (Reference: Course Number: 02750, Title: Automation of Scientific Research, Units: 12.0)
+The Band and Choral Arranging course starts at 10:00 AM on Wednesdays.
+Woodwind Methods ends at 11:50 AM.
+The instructor of Solfege for Conductors II is Story.
+The name of course 84687 is Advanced Database Systems.
+The course number of Modern Mexico & Guatemala: 19th-21st Century Architecture (MOD MEX) is 48735.
+According to the provided context, Acoustics of Human Speech: Theory, Data, and Analysis has 9.0 units.
+The instructor of Student Taught Courses (StuCo): Taylor Swift Through the Eras is Slomsky.
+Coplan
+6.0
+The course number of Nanostructered Materials is 27705.
+The course number of The American Railroad: Decline and Renaissance in the Age of Deregulation is 66213.
+Segal
+9.0
+The name of course 73408 is History of Architecture in the Islamic World- A Primer.
+The name of course 02710 is Logic and Proofs.
+12.0
+The Intermediate Studio: Stop-Motion Animation class starts at 08:00 AM on Mondays and Wednesdays.
+Ends at 06:30 PM.
+The Statistical Analysis Mini - TBA course ends at 03:20 PM on Wednesdays.
+The name of course 62706 is "Oneirology: The Study of Dream".
+The name of course 57347 is Spring 57404: String Quartet: A Social History.
+The name of course 54862 is Foundations of Drama II.
+The course "Behavioral Economics of Poverty and Development" has 9.0 units.
+Course Number: 54317
+The Consumer Driven Composition for Contemporary Media course ends at 01:50 PM on Wednesdays.
+The course "Introduction to Accounting" has 9.0 units. (Reference: Course Number: 70122, Title: Introduction to Accounting, Units: 9.0)
+90744
+The name of course 88901 is Reason, Passion and Cognition.
+The course number of Writing for the Professions is 76270.
+Agarwal
+The Additive Manufacturing Laboratory course ends at 11:50 AM on Mondays and Wednesdays.
+The instructor of Instrumental/Choral Conducting is Story.
+The Additive Manufacturing Laboratory class ends at 11:50 AM on Mondays and Wednesdays. According to the course information provided in the context, the class meets from 10:00 AM to 11:50 AM. Therefore, the answer to the query is: 11:50 AM.
+12.0
+The course number of Anti-Racist & Equitable Practices in Theater is 54362.
+The course "MAAD Research by Design Project" has 18.0 units.
+The course number of Designing Large-scale Software Systems is 17423.
+Intermediate Studio: Fundamentals of Figuration ends at 09:50 PM on Mondays and Wednesdays.
+12.0
+The course "Introduction to Writing Fiction" ends at 10:50 AM on Mondays and Wednesdays.
+The name of course 24262 is "Law of Computer Technology."
+The Scenic Design Skills: 3D Model Making course starts at 01:00PM on Wednesdays.
+The course number of Production Resource Management is 54334.
+The course "Web Application Development" ends at 04:50 PM according to the provided context information.
+The Formulation Engineering course starts at 12:30 PM on Mondays and Wednesdays.
+The instructor of Physics of Energy is Dodelson.
+The course "Directing IV: Next Steps" has 9.0 units.
+Units of Graduate Research Seminar II: 12.0
+The Continuous-Time Finance course starts at 01:00 PM on Mondays, Wednesdays, and Fridays.
+The course number of Large Format Photography: The Antiquarian Avant-Garde is 62375.
+12.0
+The Architectural Lighting Design course starts at 02:00PM on Tuesdays.
+The name of course 36736 is Brooklyn Nine-Nine.
+The course number of Graduate Playwriting IV is 54892.
+Acting II ends at 03:20 PM on Mondays and Wednesdays.
+The course number of Multi Media is 90782.
+The course "Introduction to Set Theory I" has 12.0 units.
+The course number of Introduction to Software Reverse-Engineering is 14819.
+The course "Special Topics in HCI" has 12.0 units. (Reference: Spring 05499 course information)
+The course "Professional Skills for Statisticians II" ends at 12:20 PM on F days. Based on the provided context information, this is answered directly from the file path /workspace/nlp-from- scratch-assignment-spring2024/data/Courses/Spring 36612: Professional Skills for Statisticians II.txt.
+The course "Complex Analysis" has 12.0 units. (Reference: Spring 21623 Course Information)
+The Quantum Mechanics of Materials course starts at 10:00AM on TR days.
+The Strategy for High-Tech Products and Services course starts at 11:00 AM on Mondays and Wednesdays in TEP 2702, Pittsburgh, Pennsylvania.
+The course "Foundations: Digital Media" starts at 02:00 PM on Mondays and Wednesdays.
+The course number of The American Experiment: Unravelling the US Electoral System is 84654.
+Institutions of the Roman Church ends at 12:45 PM on Mondays and Wednesdays.
+The name of course 21356 is Combinatorics.
+12.0
+Project Management for Engineering and Construction ends at 10:50 AM on TR days.
+8.0
+6.0
+Koopman
+The Topics of Law: Introduction to Intellectual Property Law course starts at 07:00PM on Mondays and Wednesdays.
+The name of course 02605 is Contemporary American Foreign Policy.
+The name of course 15312 is "Foundations of Programming Languages".
+Severnini
+The course "Computational Methods for Proteogenomics and Metabolomics" starts at 03:30 PM according to the context information provided.
+Stephenson
+Rule
+The course "Statistics Departmental Seminar" starts at 04:00PM on Mondays and Wednesdays.
+Intermediate Studio: Drawing with Machines ends at 09:50 PM on TR days.
+Caton
+The course "Parallel Computer Architecture and Programming" has 12.0 units.
+Shaw
+The course number of Algebraic Topology is 21752.
+The Advanced Russian II: Great Short Works course starts at 09:30 AM on Tuesday and Thursday.
+The name of course 12772 is Python Programming II.
+Cognitive Perspectives in HCI ends at 12:20 PM.
+The Maker Series: Intro to Welding course starts at 10:00 AM on Tuesdays.
+Large Language Model Systems
+The course "Organic Chemistry of Polymers" (Course Number: 09741) starts at 06:00PM on Tuesday and Thursday.
+The course number of Algorithm Design and Analysis is 15451.
+The course "Media & Communication Design I" has 6.0 units.
+The course "Mechanical Engineering Project Management" has 12.0 units.
+The name of course 79305 is Advanced Topics in Global LGBTQ+ History.
+12.0
+The name of course 82435 is Advanced Analytical Techniques.
+12.0
+The course "Beginning Piano for Minors" has 3.0 units.
+Data Analytics with Tableau starts at 02:00PM on TR days.
+The course "Fundamentals of Mechanical Engineering" ends at 03:20PM on Monday and Wednesday. Reference: Context information - file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/Courses/Fall 24101: Fundamentals of Mechanical Engineering.txt
+The course "Financial and Managerial Accounting II" has 6.0 units.
+Course 54124 is Operating System Practicum.
+Mediated Power and Propaganda ends at 01:50 PM according to the context file_path: /workspace/nlp- from-scratch-assignment-spring2024/data/Courses/Spring 76815: Mediated Power and Propaganda.txt
+The name of course 15386 is Introduction to Computer Security.
+The course Statistical Graphics and Visualization ends at 12:50 PM according to the provided context information.
+The course number of Software Architectures is 17635.
+The Italian Diction course starts at 04:00PM on Mondays.
+6.0
+The course number of American Environmental History is 79204.
+The name of course 16675 is Manufacturing Futures.
+The course starts at 02:00PM.
+The course "Consumer Behavior" has 6.0 units.
+The course number of Scenic Design Forum is 54350.
+The name of course 42660 is "Russian History and Revolutionary Socialism".
+The Sound Editing and Mastering course ends at 03:20 PM on Mondays. According to the provided context information, the end time for the Fall semester is 03:20 PM on Monday.
+The Distributed Systems for Information Systems Management course ends at 03:20 PM on Mondays and Wednesdays.
+9.0
+The course "Team Dynamics and Leadership" ends at 10:50 AM on Mondays and Wednesdays.
+Rosen
+The course "Resilient & Sustainable Communities" (Course Number: 90489) starts at 06:30 PM on Wednesdays.
+Yu.
+The instructor of Student Taught Courses (StuCo): Romance in Video Games is Wu, Kutin.
+The name of course 84319 is "Oneirology: The Study of Dream".
+Course Number: 15617
+The name of course 32400 is Advanced Digital Signal Processing.
+12.0
+The course "Collaborative Project in Music Entrepreneurship" has 8.0 units.
+Placone
+Based on the provided context, Gaining Insights through Statistical Modeling and Machine Learning ends at 7:30 PM.
+The course "Building Controls and Diagnostics" starts at 11:00 AM on Tuesday and Thursday.
+Translation Workshop II starts at 02:00PM on TR days.
+Independence Day is celebrated on July 4th of each year. According to the course information provided, the University is closed and there are no classes on this day. Therefore, the answer to your query is: "July 4th."
+The drop deadline for Semester courses is March 10th. After this date, a withdrawal grade of "W" will be assigned. (1)
+Spring Carnival will take place on April 11-14, 2024. There will be no classes on these days.
+Juneteenth is on June 19th. According to the course schedule, there are no classes on that day, and the university is closed. Therefore, the answer to your query is "June 19th."
+Based on the provided context, Graduating Final Grades are due by 4 pm on Friday, May 10th.
+Independence Day is on July 4th. According to the course schedule provided in the context, there are no classes on July 4th and the university is closed. Therefore, Independence Day falls on a day when there are no classes and the university is closed.
+On 08/02/2024, Spring 84324: The Future of Democracy will take place from 09:30 AM to 10:50 AM in PH 226C.
+On 04/15/2024, Spring 84324: The Future of Democracy will take place at 09:30 AM - 10:50 AM in PH 226C.
+Winter Break; University Closed: 12/24/2024 - 01/01/2025.
+The First Day of Class for Advanced First Year Writing: Special Topics is Monday, August 20th at 11:00 AM.
+On 05/04/2024, Spring 84324: The Future of Democracy will take place from 09:30 AM to 10:50 AM in PH 226C.
+On 07/05/2024, Spring 84324: The Future of Democracy will be held in PH 226C at 10:50 AM.
+On 09/04/2023, The Future of Democracy course (84324) will take place from 09:30 AM to 10:50 AM in PH 226C.
+The Summer Semester II Faculty Course Evaluations are open on MWF at 03:00PM.
+Summer Semester Two pass/no pass & withdrawal deadline is on May 15th at 11:59 PM.
+The Mini-4 add, audit, and tuition adjustment drop deadline is on Wednesday, March 29th at 9:50 AM. (Reference: Spring 33213 course information)
+On August 2nd, 2024, The Future of Democracy course taught by Professor Chin will take place from 9:30 AM to 10:50 AM in PH 226C.
+The course evaluations for Semester & Mini-6 are open on TR at 03:20PM.
+On 06/28/2024, Spring 84324 - The Future of Democracy will take place from 9:30 AM to 10:50 AM in PH 226C.
+Mini-3 pass/no pass & withdrawal deadline is on March 10th at 12:20 PM according to the context information.
+On 05/13/2024, Spring 84324: The Future of Democracy will take place from 09:30 AM to 10:50 AM in PH 226C.
+Democracy Day is on Wednesday at 12:00 PM.
+The Mini-5 course drop deadline is None. Withdrawal grade is assigned after None.
+The semester pass/no pass & withdrawal deadline for course 09301 is 11:50 AM on Wednesdays.
+On June 25th, 2024, Spring 84324: The Future of Democracy will take place from 9:30 AM to 10:50 AM in PH 226C.
+The Semester & Mini-2 Faculty Course Evaluations are close on Wednesday at 03:50 PM.
+The Semester & Mini-4 Faculty Course Evaluations are close on 09:50AM, Monday, Wednesday, and Friday. (Reference: file_path:/workspace/nlp-from-scratch-assignment-spring2024/data/Courses/Fall 33213: Mini-Course in Special Relativity.txt)
+The Mini-3 Faculty Course Evaluations are closed on Wednesdays at 9:50 AM.
+The Mini-3 voucher deadline is on Monday, Wednesday, and Friday at 09:50 AM.
+On 06/24/2024, Spring 84624: The Future of Democracy will take place in PH 226C at 9:30 AM - 10:50 AM.
+Final Exams are on Monday, Wednesday, and Friday from 08:00 AM to 10:20 AM.
+The drop deadline for the Mini-Course in Special Relativity (Fall 33213) is March 15th, 09:50 AM. After this date, a withdrawal grade of "W" will be assigned.
+On 04/15/2024, Spring 84324: The Future of Democracy will take place from 09:30 AM to 10:50 AM in PH 226C.
+Family Weekend will take place on February 23rd and 24th, from 11am to 7pm on both days.
+The Make-Up Final Exams for Course 54230 (Make-Up for Designers) are on Thursday at 11:50 AM.
+On May 17th, 2024, Spring 84324: The Future of Democracy will take place from 09:30 AM to 10:50 AM in PH 226C.
+The registration week for Spring 2024 is from Thursday, April 11 to Sunday, April 14.
+Summer Semester Two Final Grades are due by 4pm on Friday, May 29th. (see "Begin" time in the Course Information for Mathematical Studies Algebra II)
+Final Exams are on Wednesday, May 20th from 8:00 AM to 10:20 AM in TEP 2700.
+The Fall Deans' Lists are posted on Monday at 11:00AM.
+On 06/21/2024, Spring 84324 - The Future of Democracy will take place from 09:30 AM to 10:50 AM in PH 226C.
+The Mini-3 add, audit, and tuition adjustment drop deadline is on Wednesday, March 22nd at 9:50 AM. (1)
+On May 6th, 2024, Spring 84324: The Future of Democracy will take place from 9:30 AM to 10:50 AM in PH 226C.
+On 06/20/2024, Spring 84324: The Future of Democracy will take place from 09:30 AM to 10:50 AM in PH 226C.
+The drop deadline for Summer Semester II is 07/15/2024. A withdrawal grade of "W" will be assigned to any student who does not complete the course by this date.
+The semester add, audit, and tuition adjustment drop deadline is on March 25th at 10am. (1)
+The drop deadline for Semester courses is March 15th. After this date, a withdrawal grade of "W" will be assigned.
+Final Examinations will be held on August 08:00AM.
+On 06/20/2024, Spring 84324: The Future of Democracy will have a lecture from 9:30-10:50 AM in PH 226C.
+On 11/27/2023, Spring 84324: The Future of Democracy will take place at 09:30 AM - 10:50 AM in PH 226C.
+Yes, the Language Technologies Institute (LTI) at Carnegie Mellon University offers traditional, research-focused Ph.D. programs in various areas of language technologies. Students can study under the guidance of renowned faculty members and gain hands-on experience through cutting-edge techniques and projects, preparing them for a successful career in academia or industry.
+Yes, LTI offers Master's programs. According to the text, "The Language Technologies Institute (LTI) offers PhD programs, Master's programs, and a concentration in human language technologies." Therefore, the answer to the query is yes, LTI offers Master's programs.
+Yes, the Language Technologies Institute (LTI) at Carnegie Mellon University offers an undergraduate concentration in human language technologies for students pursuing a degree in computer science through the School of Computer Science.
+Based on the given context, the department that offers Ph.D. in Language and Information Technology is the Language Technologies Institute (LTI) at Carnegie Mellon University. According to the LTI website, the institute offers traditional, research-focused Ph.D. programs in language technologies, as well as professional master's programs that train scientists to solve today's most pressing challenges.  Reference: Language Technologies Institute, Carnegie Mellon University. (n.d.). Academics. Retrieved from <https://www.cmu.edu/lti/academics/>
+Based on the information provided in the LTI Ph.D. Graduate Student Handbook, the answer to the query is:  The Department of Language Technologies Institute offers Dual-Degree Ph.D. in Language and Information Technologies (Portugal Partnership).  Reference: Page 3 of the handbook, under the section "Ph.D. Programs".
+Based on the provided context, the department that offers a Master of Language Technologies is the Language Technologies Institute (LTI) at Carnegie Mellon University. According to the Ph.D. Graduate Student Handbook, LTI offers a Masters in Language Technologies (MLT) degree.
+The Language Technologies Institute (LTI) at Carnegie Mellon University offers the Master of Science in Intelligent Information Systems (MIIS) degree. According to the handbook, "The MIIS degree provides advanced study and practical experience in areas of Computer Science focused on processing and analysis of unstructured and semi-structured information, such as text, image, video, speech, and audio information."
+The Master of Computational Data Science (MCDS) program is offered by the Language Technologies Institute and the School of Computer Science at Carnegie Mellon University.
+Based on the provided context, the department that offers Master of Science in Artificial Intelligence and Innovation (MSAII) is the Language Technologies Institute. According to the file path "LTI.txt", the MSAII program is offered by the LTI under the Academics section. Specifically, it is listed under the Research section as "Master of Science in Artificial Intelligence and Innovation".
+Based on the provided context, the department that offers LT concentration is the Language and Information Technologies (LTI) department at Carnegie Mellon University.
+Spring Carnival at Carnegie Mellon University will take place from April 11-14, 2024.
+The Spring Carnival Midway Opening Ceremony 2024 will take place on Thursday, April 11th at 3:00 PM-3:30 PM ET.
+The weekend highlights of Spring Carnival 2024 include:  * Booth, Rides and Dog Houses (Thursday- Saturday): 3-11 p.m. * Lunar Bots, Roll Out! (Friday & Saturday): 11 a.m.-11 p.m. * Sigma Phi Epsilon Annual Alumni BBQ (Friday): 2:30-4:30 p.m. * Residential Education (Student Life) Alumni Reception (Saturday): 3-4 p.m. * Dog Costume Party (Saturday): 3-5 p.m.  Note: Times are in Eastern Time (ET).
+The Reunion Welcome Back Happy Hour is open to alumni Reunion celebrants and their guests only.
+Based on the provided information, the Reunion Buggy Watch Tent is located on Hill 5.
+Based on the provided context, the answer to the query "What are all the times for Scotch'n'Soda Performance of The Little Mermaid?" is as follows:  * Thursday: 7-9:30 p.m. * Friday: 6-8:30 p.m. and 10 p.m.-12:30 a.m. * Saturday: 3-5:30 p.m. and 7-9:30 p.m.  Please refer to the context for more information.
+Yes, there is a closing event for the Spring Carnival 2024. The event is called "Sweepstakes Final Races" and it will take place on April 13, 2024, at Tech and Frew streets (in-person) and Livestream (virtual). The event starts at 8:00 AM ET and will feature the exciting conclusion of this year's Sweepstakes races as teams take on the final heats that stand between them and the championship title. If you can't make it back to campus, you can livestream the events through cmuTV or tune into WRCT Radio for the play-by-play.
+Based on the provided context, the events on the last day of Carnegie Mellon's Spring Carnival in 2024 are:  1. Scotch'n'Soda Theatre Carnival Show: The Little Mermaid (3:00 PM-5:00 PM ET) 2. Cost: Tickets will be available online in March and at the door. Cost: $5 for students/faculty/staff; $10 for alumni and guests.  Please note that the schedule is subject to change, and it's always best to check the Carnegie Mellon University Spring Carnival website or the event organizer for the most up- to-date information.
+Based on the provided context, the main commencement ceremony on Sunday, May 12, 2024 is open to the Carnegie Mellon University community and their guests. This includes alumni, faculty, staff, and students.
+Based on the provided context, there is no limit on the number of guests who can attend the main commencement ceremony. According to the information provided in the "Commencement Ceremonies" section, the event is open to the public and guests are welcome to attend. Additionally, the "file_path: /workspace/nlp-from-scratch-assignment-spring2024/data/events/commencement.txt" file does not mention any restrictions on the number of guests who can attend the ceremony. Therefore, the answer to the query is "No limit."
+The time for all guests to be seated for the main commencement ceremony is 8:30 AM.
+Based on the provided context, there are no college/school/department-specific diploma ceremonies mentioned in the given text. The text only provides information on the university-wide commencement exercises and events, as well as the time and location of the diploma ceremonies for various programs. Therefore, the answer to the query is "no."
+The college/school/department-specific diploma ceremonies will take place on Friday, May 10.
+The Center for Student Diversity and Inclusion ceremony is taking place at the Eberly Center for Teaching Excellence & Educational Innovation.
+Stewart
+Based on the provided context, the Phi Beta Kappa Initiation Ceremony Reception will take place on Thursday, May 9.
+The first artificial intelligence program was developed by Herb Simon (H'90), Allen Newell (IA'57), and Cliff Shaw of RAND in 1956. They created the Logic Theorist, a computer program that could develop proofs for theorems in much the same way a human would work.
+Yes, CMU contributed to the development of multi-core processors. In 1971, CMU researchers found their existing machines too slow to keep pace with the advance of speech and graphics programs, so they solved the problem by ganging together 16 processors to build a pioneering computer called C.mmp—then topped the feat by linking 50 processors into Cm*.
+Yes, algebra is taught in cognitive tutoring programs. According to the context information provided, Mathematical Studies Algebra I and Algebra II are offered during the fall and spring semesters, respectively. These courses are part of a cognitive tutoring program and are designed to provide students with a comprehensive understanding of algebraic concepts and techniques.
+The creator of the emoticon is believed to be Scott Fahlman, a computer scientist at Carnegie Mellon University. According to Fahlman's own account, he created the first emoticon in 1980 as a way to add humor and personality to the growing number of online communication channels. The first emoticon was a smiling face with a heart symbol inside, which was intended to represent a happy or positive emotion. Since then, emoticons have become an integral part of digital communication, allowing people to express their emotions and feelings in a more visual and intuitive way.
+The kernel at the core of all modern Apple devices is the Mach kernel.
+Java was developed by James Gosling (CS’83) while he was a graduate student at Carnegie Mellon University.
+The inventor of CAPTCHA is Luis von Ahn.
+The self-driving SUV that won the 2007 DARPA Urban Challenge road race was the "DARPA Grand Challenge Finals: Humanoid Robots To The Rescue" winner, which was driven by a team led by General Dynamics.
+Based on the provided context, there is no information available that confirms Michael "Fuzzy" Mauldin played a role in the development of web search engines. According to the text, Mauldin was a professor at Carnegie Mellon University's Language Technologies Institute, but there is no mention of his involvement in web search engine development. Therefore, I can only provide a "08:00AM" answer and confirm that Michael "Fuzzy" Mauldin did not play a role in the development of web search engines based on the provided context.
+Pittsburgh, Pennsylvania
+The School of Computer Science at CMU was officially formed in 1989, as announced on Jan. 3 of that year.
+Based on the provided context, the first head of the Computer Science Department at CMU was Joseph Traub. According to the text, Traub was recruited from Bell Labs to become the new department head in 1970, following a crisis that had affected half of the tenured faculty members, including the department head Perlis, who left for other universities.
+The School of Computer Science at Carnegie Mellon University celebrated its 25th year in 2014.
+The answer to the query is: 1970
+The interdisciplinary Ph.D. program in computer science was created at Carnegie Tech in 1965. (file_path: /workspace/nlp-from-scratch-assignment-spring2024/data/history/scshistory.txt)
+Based on the context provided, Mary Shaw (CS'72) led CMU's first effort to design an undergraduate curriculum solely in computer science.
+Based on the provided context, the answer to the query is 401 undergraduates in the School of Computer Science by 1995. This information can be found in the second paragraph of the text, which states that "By 1995, there were 401 undergraduates in the School of Computer Science; in fall 2013, more than 600 undergraduates made up about 37 percent of student enrollment at SCS, along with more than 600 master’s degree students."
+The Machine Learning Department was formed in 18797.
+Yes, according to the provided context, Carnegie Mellon University's (CMU) Robotics Institute is the largest university robotics research group in the world. The fact sheet states that CMU has "become a model for economic development" and has formed partnerships with companies such as Uber, Google, and Disney, indicating its significant impact in the field of robotics and artificial intelligence. Additionally, the Institute is home to numerous award-winning faculty members who work closely with students to solve major scientific, technological, and societal challenges.
+Carnegie Mellon University was founded in 1900.  (Reference: file_path: /workspace/nlp-from-scratch- assignment-spring2024/data/history/cmu_history.txt)
+Based on the provided context, the answer to the query is:  The students represent 12 countries. This information can be found in the second paragraph of the second file, where it is stated that "90% of users contributed content to the creation of the RUQuAD dataset, and by the end, they had generated 23,036 questions, 20,730 (90%) of which passed the double peer review." Since the users contributed content from 12 countries, we can infer that the students represent at least 12 countries.
+Based on the provided context, there are 6.0 units of Music History for Graduate Students 1 course, and the course starts at 08:30 AM and ends at 09:20 AM in HOA 223 building in Pittsburgh, Pennsylvania. Therefore, the answer to the query "How many living alumni are there?" is 6.0.
+According to the provided context, approximately 60% of graduate students at Carnegie Mellon University are international students. Therefore, the answer is 60%.
+According to the text, 74% of participants in the survey are from the USA. Therefore, the percentage of undergraduate students from the US is 74%.
+According to the provided fact sheet, alumni and current/former faculty of Carnegie Mellon University have won a total of 20 Emmy Awards. (See reference: EMMY AWARDS, 20)
+The Kevlar Fiber was invented by alumna Stephanie Kwolek (MM 1946) at Carnegie Mellon University. (Reference: cmu.edu/assets/pdfs/cmu-fact-sheet.pdf)
+The current Provost of Carnegie Mellon University is Dr. Farnam Jahanian.
+Yes, Mellon College of Science is one of the schools at Carnegie Mellon University. According to the provided text, the college was established in 1967 as part of the merger between Carnegie Tech and the Mellon Institute.
+Yes, according to the provided text, Carnegie Mellon University was the first U.S. school to award a degree in drama in 1914. (Quote from the text: "In 1919, CMU’s first Ph.D. was awarded to Mao Yisheng, father of Chinese bridge construction.")
+According to the U.S. News & World Report, 2022, the College of Engineering at Carnegie Mellon University ranks #1.
+The Carnegie Mellon University's official motto is "The Word."
+The first doctorate student in civil engineering at Carnegie Mellon University is Qian.
+Yes, there was a Carnegie Plan in 1938. According to the text, "In 1938, Carnegie Mellon University launched the Carnegie Plan, which provided scholarships for students from the Pittsburgh area to attend college." (Source: cmu.edu/about/awards.html)
+According to the text, Carnegie Tech merged with the Mellon Institute in 1967.
+No, there is no Carnegie Mellon campus in Washington. According to the provided fact sheet, the university has campuses in Pittsburgh, Pennsylvania and Silicon Valley, California, but there is no mention of a campus in Washington.
+Yes, there is a Strategic Plan 2025 for Soviet Futures: Revolutionary Design course. According to the context information, the plan is available in the file located at /workspace/nlp-from-scratch- assignment-spring2024/data/Courses/Spring 88255: Strategic Decision Making.txt.
+According to the text, "most - but not all - are women." Therefore, the height of most buggy drivers is likely to be around 5 feet 3 inches (63 inches) or less.
+Carnegie Mellon University's official mascot is Scotty, a Scottish terrier. According to the text, the university formed a Mascot Identity Task Force in 2006 to select an official mascot, and after surveys and focus groups, Scotty was chosen as the winner with nearly 78% of student votes.
+The Carnegie Mellon athletic teams are nicknamed the "Tartans".
+Based on the provided context, the athletic director at Carnegie Mellon University is unknown. The information provided in the context does not mention the name of the athletic director or provide any information about them. Therefore, I cannot answer the query directly by referencing the context.
+The official Scotty costume was unveiled at the 2008 Spring Carnival.
+Yes, Andrew Carnegie kept a Scottish terrier as his pet. According to the context information, Carnegie Mellon's founder, Andrew Carnegie, was born in Dunfermline, Scotland, in 1835 and later settled in Pittsburgh, Pennsylvania, where he kept a Scottish terrier as his pet.
+The Kiltie Band began in 1908.
+The Kiltie Band performs at all home football games. The exact dates and times for their performances are announced at the first practice.
+No, any member of the campus community with music experience is able to join the Kiltie Band!
+The Kiltie Band does perform pop tunes. (Reference: file_path: /workspace/nlp-from-scratch- assignment-spring2024/data/history/kiltieband.txt)
+Andrew Carnegie was born in 1835, so his 87th birthday would be in 1922.
+Based on the provided context, Jamie Callan's research interests include Information Retrieval, Text Mining and Analytics.
+The paper published by Scott Fahlman is "SPRING: Studying the Paper and Reasoning to Play Games".
+The phone number of Jamie Callan is +1 412-268-4525.
+The phone number of Alexander Rudnicky is +1-412-268-7676.
+The office of Michael Shamos is located at 6707 Gates-Hillman Complex, Carnegie Mellon University, Pittsburgh, PA 15213-3891.
+The phone number of Robert Frederking is 412-268-6656.
+Bhiksha Ramakrishnan is a Professor at Carnegie Mellon University - Language Technologies Institute.
+Eric Nyberg's research interests include automatic text translation, information retrieval, and question answering. He is also interested in bio-medical natural language processing, including passage retrieval, concept retrieval, and exact answer retrieval. Additionally, he has worked on developing information systems for unstructured biomedical text and has collaborated with Hoffman- LaRoche's Innovation Center to develop information systems for gene targeting using automatic QA systems.
+The phone number of Lorraine Levin is not provided in the given context.
+Based on the provided context, Bhiksha Ramakrishnan published a paper titled "Multimodal Fusion for Emotion Recognition in Speech and Text".
+The email address of Emma Strubell is `estrubel@andrew.cmu.edu`.
+Based on the context provided, Daphne Ippolito published a paper titled "Privacy and Security in Natural Language Processing" (PDF available at <https://www.cs.cmu.edu/~daphnei/publications/Ippolito-etal-2019-PrivacyAndSecurityInNLP.pdf>).
+Emma Strubell's office is located at 6709 Gates Hillman, Pittsburgh, PA, USA.
+Fernando Diaz's research interests include:  * Information Retrieval: Recommender Systems, Retrieval and Ranking Models * Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation  According to the provided context, Fernando Diaz is a Associate Professor at Carnegie Mellon University - Language Technologies Institute, with research interests in Information Retrieval and Natural Language Processing.
+The email address of Alexander Waibel is "waibel@cs.cmu.edu".
+Rita Singh's office is located at 6703 - Gates & Hillman Centers.
+Emma Strubell is an Assistant Professor at Carnegie Mellon University's Language Technologies Institute.
+The email address of Teruko Mitamura is teruko@cs.cmu.edu.
+According to the provided context, Sean Welleck's research interests include Language Technologies Institute.
+Based on the provided context, Alexander Rudnicky published "Leveraging Behavioral Patterns of Mobile Applications for Personalized Spoken Language Understanding" along with other authors in 2015. (Reference: Chen et al., 2015)
+Scott Fahlman's position is Professor Emeritus.
+Based on the given context, David Mortensen is a professor at Carnegie Mellon University's Language Technologies Institute.
+Rita Singh's research interests include Information Retrieval, Text Mining, and Analytics. According to her personal webpage, she is particularly interested in "Search Engines With Knowledge Resources," which develops new methods for using knowledge graphs and ontologies to improve search engine accuracy.
+Carolyn Rose is a Professor at Carnegie Mellon University in the Language Technologies Institute and the Human-Computer Interaction Institute.
+Lorraine Levin's email address is lsl@cs.cmu.edu.
+The office of Mona Diab is located in 5723, Gates & Hillman Centers.
+The email address of Yonatan Bisk is ybisk@cs.cmu.edu.
+The phone number of Shinji Watanabe is 412-268-3687.
+The office of Bhiksha Ramakrishnan is located in room 6705 of the Gates & Hillman Centers.
+Based on the given context, Kemal Oflazer published "Multi-rate HMMs for Word Alignment" in Proceedings of ACL 2013.
+The authors of "High School Students' Data Modeling Practices and Processes" are Shiyan Jiang, Hengtao Tang, Can Tatar, C. Rosé, and J. Chao. (See Tables 1 and 2 for more information.)
+The publication venue of "Quantifying & Modeling Multimodal Interactions" is arXiv.org.
+Through analysis of volatile components in dried fruits and branch exudates of Schisandra chinensis with different fruit colors using GC-IMS technology, the following information was obtained about the contents of Tartan:  * The contents of Tartan include 60 compounds, accounting for 97.3% of the total ion current. * The main components are monoterpenes (43%), sesquiterpenes (21.5%), and phenolic compounds (11.8%). * The most abundant compound is 5-methylfurfural, which accounts for 12.7% of the total ion current. * Other notable compounds include heptanal, furfural, hexanal, pentanal, butanal, and octanal. * The contents of Tartan are different from those of other samples analyzed in the study, indicating potential differences in chemical composition between different batches or varieties of Schisandra chinensis.  In conclusion, the contents of Tartan are diverse and complex, consisting of a variety of terpenoids and phenolic compounds. Further analysis is needed to fully understand the chemical composition and potential applications of this substance.
+The article states that Tartan was published in 2023. Therefore, the answer to the query is 2023.
+The authors of "Robust Cross-Domain Pseudo-Labeling and Contrastive Learning for Unsupervised Domain Adaptation NIR-VIS Face Recognition" are Yiming Yang, Weipeng Hu, Haiqi Lin, Haifeng Hu.
+Based on the provided context, the authors of ChatGPT_MT are Shuai Wang, Harrisen Scells, Bevan Koopman, and Guido Zuccon. (Reference: file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/faculty_papers/Language-Agnostic_Transformers_and_Assessing_ChatGPT- Based_Query_Rewriting_for_Multilingual_Document-Grounded_QA.txt)
+The publication venue of "Automatic synchrotron tomographic alignment schemes based on genetic algorithms and human-in-the-loop software" is Journal of Synchrotron Radiation.
+The authors of "Somatosensory and motor representations following bilateral transplants of the hands: A 6-year longitudinal case report on the first pediatric bilateral hand transplant patient" are W. Gaetz, C. Dockstader, P. Furlong, S. Amaral, A. Vossough, E. Schwartz, T. Roberts, and Lori S. Levin.
+The publication venue of "Novel, Practical, and Scalable Approach for the Synthesis of Eldecalcitol" is Organic Process Research & Development.
+Fusion-in-T5 is published in arXiv.org.
+The publication venue of "Accurate detection of reactive oxygen species by tuning an elastic motif (GPGGA)4 in nanopores." is Chemical Communications.
+The article "Association between albumin-to-globulin ratio and the risk of overall survival in advanced non-small cell lung cancer patients with anlotinib treatment: a retrospective cohort study" investigates the relationship between the albumin-to-globulin (A/G) ratio and overall survival in patients with advanced non-small cell lung cancer (NSCLC) receiving anlotinib treatment. The study includes 153 patients and finds that a higher A/G ratio is associated with poorer overall survival. The study also explores the potential mechanisms underlying this association, including inflammation and immune response.  The study found that patients with a higher A/G ratio had a lower overall survival rate compared to those with a lower A/G ratio. The hazard ratio for overall survival was 2.36 (95% CI: 1.41-3.90) in the unadjusted analysis and 1.78 (95% CI: 1.03-3.07) after adjusting for age, gender, performance status, and treatment variables. The study also found that the A/G ratio was significantly higher in patients who progressed faster compared to those who progressed more slowly.  The study suggests that inflammation and immune response may play a role in the association between the A/G ratio and overall survival. The study found that high levels of inflammatory markers, such as C-reactive protein (CRP) and white blood cell count (WBC), were associated with poorer overall survival. Additionally, the study found that low levels of immune response markers, such as CD3+ T cells and CD8+ T cells, were also associated with poorer overall survival.  The study has some limitations, including its retrospective nature and small sample size. However, the findings suggest that the A/G ratio may be a useful marker for predicting overall survival in patients with advanced NSCLC receiving anlotinib treatment. Further studies are needed to confirm these findings and explore the underlying mechanisms.  In conclusion, the study provides evidence that the A/G ratio is associated with overall survival in patients with advanced NSCLC receiving anlotinib treatment. The study suggests that inflammation and immune response may play a role in this association, and further research is needed to confirm these findings and explore the underlying mechanisms.
+The paper "Association between albumin-to-globulin ratio and the risk of overall survival in advanced non-small cell lung cancer patients with anlotinib treatment: a retrospective cohort study" was published in 2020. According to the reference list provided, the paper was published in the journal Cancer Epidemiology in 2020.
+The paper "When to generate hedges in peer-tutoring interactions" (2023) explores the application of machine learning techniques to predict when hedging occurs in peer-tutoring interactions. The study uses a naturalistic face-to-face dataset annotated for natural language turns, conversational strategies, tutoring strategies, and nonverbal behaviors. The authors find that embedding layers, capturing the semantic information of the previous turns, significantly improves the model’s performance and provides insights into the importance of various features, such as interpersonal rapport and nonverbal behaviors, in predicting hedges by using Shapley values for feature explanation. They discover that the eye gaze of both the tutor and the tutee has a significant impact on hedge prediction.
+The article "When to generate hedges in peer-tutoring interactions" was published in 2023.
+The authors of "Co-benefits of carbon neutrality in enhancing and stabilizing solar and wind energy" are Yadong Lei, Zhili Wang, Deying Wang, Xiaoye Zhang, H. Che, Xu Yue, Chenguang Tian, Junting Zhong, Lifeng Guo, Lei Li, Hao Zhou, Lin Liu, and Yangyang Xu.
+The paper "Identification of Nonlinear Latent Hierarchical Models" presents a novel approach for identifying latent variables and causal structures in nonlinear, general non-Gaussian latent hierarchical models. The proposed method is based on a new identifiability theory that guarantees the existence of a unique solution for the identified latent variables and causal structure under mild assumptions. The method uses an estimation algorithm to recover the latent variables and causal structure, which are validated using multiple synthetic and real-world datasets.  The main contributions of the paper are:  1. Analogous to independence tests in PC algorithm [Spirtes et al., 2000] and rank-deficiency tests in Huang et al. [2022], a novel identifiability theory is developed as a fundamental criterion for locating and identifying latent variables in general nonlinear causal models. 2. Structure identification guarantees are provided for latent hierarchical models admitting continuous multi-dimensional (c.f., one-dimensional and often discrete [Pearl, 1988, Choi et al., 2011, Huang et al., 2022, Xie et al., 2022]) variables, general nonlinear (c.f., linear [Pearl, 1988, Huang et al., 2022, Xie et al., 2022]) functions, and arbitrary discrete distributions. 3. An estimation algorithm is proposed to recover the identified latent variables and causal structure, which are validated using multiple synthetic and real-world datasets.  The key idea of the proposed method is to use a novel identifiability criterion that combines the concept of "generality" (i.e., the ability to capture arbitrary discrete distributions) with the idea of "independence" (i.e., the ability to disentangle causal relationships among latent variables). This allows for identifying latent variables and causal structures in nonlinear, general non-Gaussian models, which is not possible with traditional methods that assume linearity or discrete data.  The rest of the paper is organized as follows: Section 2 provides a brief review of related work on latent variable discovery and causal inference. Section 3 presents the proposed identifiability criterion and estimation algorithm. Section 4 validates the proposed method using multiple synthetic and real-world datasets. Finally, Section 5 concludes with a discussion of future directions and potential applications of the proposed approach.
+According to the provided context information, "Identification of Nonlinear Latent Hierarchical Models" was published in 2023. Therefore, the answer to the query is 2023.

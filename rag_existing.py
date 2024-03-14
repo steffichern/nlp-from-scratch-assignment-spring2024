@@ -12,11 +12,11 @@ import dotenv
 from sqlalchemy import make_url
 
 
-try:
-    os.remove("data/test/generated_answers.txt")
-    os.remove("generated_answers.txt")
-except Exception as e:
-    pass
+#try:
+   # os.remove("data/test/generated_answers.txt")
+   # os.remove("generated_answers.txt")
+#except Exception as e:
+ #   pass
 
 
 # Uncomment to see debug logs
@@ -142,7 +142,7 @@ query_engine.update_prompts(
 
 # Answering our questions
 print("Answering our questions")
-our_questions = 'data/train/questions.txt'
+our_questions = 'data/train/questions_2.txt'
 questions = []
 with open(our_questions, 'r') as file:
     for line in file:

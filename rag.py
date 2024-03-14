@@ -12,6 +12,13 @@ import dotenv
 from sqlalchemy import make_url
 
 
+try:
+    os.remove("data/test/generated_answers.txt")
+    os.remove("generated_answers.txt")
+except Exception as e:
+    pass
+
+
 # Uncomment to see debug logs
 # logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG, force=True)
@@ -85,7 +92,7 @@ from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.llms.ollama import Ollama
 from llama_index.core import Settings
 # ollama
-Settings.llm = Ollama(model="gemma", request_timeout=300.0, context_window=60000)
+Settings.llm = Ollama(model="gemma", request_timeout=999999.0, context_window=60000)
 
 # configure retriever
 retriever = VectorIndexRetriever(

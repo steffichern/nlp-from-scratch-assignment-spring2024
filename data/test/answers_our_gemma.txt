@@ -1,0 +1,371 @@
+Sure, here is the answer to the query:  The text states that "Presenting Performing Arts & Festivals" starts at "06:30PM."
+The text does not mention course number 45869, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course number of Russian for Heritage Speakers: Babushkas, Russia & Beyond is 82394.
+Sure, here is the answer to the query:  The instructor of Advanced Look Development: The Two Worlds of Texture is Washington.  **Context:**  file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/Courses/Spring 53362: Advanced Look Development: The Two Worlds of Texture.txt Course Number: 53362 Title: Advanced Look Development: The Two Worlds of Texture Units: 9.0 Lec/Sec: A Days: TR Begin: 10:00AM End: 11:50AM Bldg/Room: HL 106C Location: Pittsburgh, Pennsylvania Instructor: Washington  file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/Courses/Spring 53762: Advanced Look Development: The Two Worlds of Texture.txt Course Number: 53762 Title: Advanced Look Development: The Two Worlds of Texture Units: 9.0 Lec/Sec: A Days: TR Begin: 10:00AM End: 11:50AM Bldg/Room: HL 106C Location: Pittsburgh, Pennsylvania Instructor: Washington
+Sure, here is the answer to the query:  The course number of 30 Hour OSHA in the context is 54355 and 54847.
+Sure, here is the answer to the query:  The course "Representation and Voting Rights" has 12.0 units.
+The text does not specify the end date of "Ethics, Social Biases, and Positive Impact in Language Technologies," therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course "Policy Seminar II" has 6.0 units.
+Sure, here is the answer to the query:  The course number of Computation and Data Science for Civil & Environmental Engineering is 12271.
+Sure, here is the answer to the query:  The instructor of Multivariate Analysis is Newman or Flaherty, based on the provided context.
+Sure, here is the answer to the query:  The course number of Guest Experience in Theme Park Design in the context is 53612.
+The text does not mention course 76815, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The instructor of Engineering Statistics and Quality Control is Koerner or Weinberg, as per the context information.
+Sure, here is the answer to the query:  The text states that the course "Time Series Forecasting in Python" starts at 06:30PM.
+Sure, here is the answer to the query:  The course named "Remediation Engineering" has 12 units.
+The text does not mention course number 76774, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text states that "Introduction to Competitive Pokemon" starts at 07:00PM.
+Sure, here is the answer to the query:  The text states that "Differential and Integral Calculus" starts at 08:00AM.
+Sure, here is the answer to the query:  The course number of Regression Analysis for Political Science II is 84702.
+Sure, here is the answer to the query:  Elective Studio (Jazz Piano I Class) has 3.0 units.
+The text does not contain information about course 03391, therefore I cannot answer the query.
+Sure, here is the answer to the query:  Formless as an Operation has 9.0 units.
+The instructor of Scenic Painting II is Zamborsky, as per the context information.
+The text does not mention course 27357, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The course number of Graduate Research Seminar I is 88900.
+The text does not contain information about course 98205, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The Entrepreneurial Engineering Project has 12.0 units.
+Sure, here is the answer to the query:  The instructor of Behavioral Decision Making is Jarbo.
+Sure, here is the answer to the query:  The course "Reading Into a New China II: Transportation, Education, Pop Culture, & Health" starts at 12:30PM.
+Sure, here is the answer to the query:  The instructor of Applied Econometrics I is Severnini.
+Sure, here is the answer to the query:  The text states that the course "Remote Systems and the Cyber Domain in Conflict" ends at "12:20PM".
+The text does not contain any course information with the number '05333', therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course number of Music Skills II is 54126.
+The text states that "Begin: 04:00PM" for the course "Chorus," therefore the answer is "04:00PM."
+Sure, here is the answer to the query:  The text states that the course "Differential Calculus" ends at 10:50AM.
+Sure, here is the answer to the query:  The course number of Machine Learning in Practice in the given context is 11344.
+Sure, here is the answer to the query:  The course "Tech Startups: Tools and Techniques" has 12 units.
+Sure, here is the answer to the query:  The course number of DC Grand Challenge Seminar: In Transit: Exile, Migration, and Culture is 66144.
+Sure, here is the answer to the query:  The course named "Debt Markets" has 6 units.
+Sure, here is the answer to the query:  The text states that the end time of Program Evaluation is 12:20PM.
+Sure, here is the answer to the query:  The course "Data Science for Technology, Innovation and Policy" has 9.0 units.
+Sure, here is the answer to the query:  The instructor of Supply Chain Management is Sul.
+The text states that "MSIT Practicum" starts at "12:00PM".
+Sure, here is the answer to the query:  The instructor of Biophysics: From Basic Concepts to Current Research is Si.
+Sure, here is the answer to the query:  The instructor of Grad Diction: Italian is Rissinger.
+Sure, here is the answer to the query:  The instructor of Advanced Genetics is Woolford, Bridges.
+Sure, here is the answer to the query:  The instructor of Numerical Methods in Engineering in the given context is Zhang.
+Sure, here is the answer to the query:  The course "Refugee Stories: Literature, Art and Film" starts at 02:00PM.
+Sure, here is the answer to the query:  The course number of M.Arch Pre-Thesis is 48644.
+Sure, here is the answer to the query:  The text states that Nonviolent Conflict and Revolution starts at 11:00 AM.
+The course number of Comedy Writing in the context is 62195 and 54195.
+Sure, here is the answer to the query:  The course number of Special Topics: Engineering Protein Therapeutics is 42695.
+The text does not mention course number 17745, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The instructor of Introduction to Music Technology is Opie.
+Sure, here is the answer to the query:  The text states that "Project Planning and Reporting" starts at 02:00 PM.
+The text does not contain information about course 54876, therefore I cannot answer the query.
+The text does not mention course 24204, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course "Software Engineering for Startups" has 12.0 units.
+Sure, here is the answer to the query:  The instructor of Advanced Topics in Stage Management: Cross-Boundaries is Wei.
+Sure, here is the answer to the query:  The course number of Piano Pedagogy IV is 57276 and 57976.
+Sure, here is the answer to the query:  The text states that "Technical Direction IV" starts at "09:30AM".
+Sure, here is the answer to the query:  The instructor of DevOps and Continuous Integration in the context is Bass, Yasar.
+Sure, here is the answer to the query:  The course number of Design Studies: Futures is 51176.
+Sure, here is the answer to the query:  The course number of Introduction to Machine Learning (PhD) is 10701.
+Sure, here is the answer to the query:  The text states that Principles of Real Analysis II has 9.0 units.
+Sure, here is the answer to the query:  The course "Experimental Sound Synthesis" has 9 units. (Context information: --------------------- file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/Courses/Spring 57344: Experimental Sound Synthesis.txt  Course Number: 57344 Title: Experimental Sound Synthesis Units: 9.0 Lec/Sec: A Days: TR Begin: 12:00PM End: 01:50PM Bldg/Room: HL A10A Location: Pittsburgh, Pennsylvania Instructor: Hsieh  file_path: /workspace/nlp-from- scratch-assignment-spring2024/data/Courses/Spring 60407: IDeATe: Experimental Sound Synthesis.txt Course Number: 60407 Title: IDeATe: Experimental Sound Synthesis Units: 9.0 Lec/Sec: A Days: TR Begin: 12:00PM End: 01:50PM Bldg/Room: HL A10A Location: Pittsburgh, Pennsylvania Instructor: Hsieh file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/faculty_papers/Toward_Universal_Speech_Enhancement_For_Diverse_Input_Conditions.txt ---------------------)
+Sure, here is the answer to the query:  The course number of Arts Greenhouse: Experiential Learning through Community Engagement is 76254.
+Sure, here is the answer to the query:  The course "Automation of Scientific Research" has 12.0 units.
+Sure, here is the answer to the query:  The text states that Band and Choral Arranging starts at 10:00AM.
+Sure, here is the answer to the query:  The text states that the end time of Woodwind Methods is 11:50AM.  **Answer:**  11:50AM (from file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/Courses/Spring 57362: Woodwind Methods.txt)
+Sure, here is the answer to the query:  The instructor of Solfege for Conductors II is Story.
+The text does not mention course 84687, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course number of Modern Mexico & Guatemala: 19th-21st Century Architecture (MOD MEX) is 48735, as shown in the context information.
+Sure, here is the answer to the query:  The course "Acoustics of Human Speech: Theory, Data, and Analysis" has 9.0 units.
+Sure, here is the answer to the query:  The instructor of Student Taught Courses (StuCo): Taylor Swift Through the Eras is Slomsky.
+Sure, here is the answer to the query:  The instructor of "Connecting with the Pittsburgh Community" is Coplan.
+Sure, here is the answer to the query:  The course "Theater Architecture I" has 6 units.
+Sure, here is the answer to the query:  The course number of Nanostructured Materials is 27705 and 27565.
+Sure, here is the answer to the query:  The course number of The American Railroad: Decline and Renaissance in the Age of Deregulation is 66213, 19213, or 70213.
+Sure, here is the answer to the query:  The instructor of Introduction to Structures is Segal.
+Sure, here is the answer to the query:  The Dietrich Leadership Development Seminar has 9.0 units. (Context information: Fall 66402: Dietrich Leadership Development Seminar.txt)
+The text does not mention course 73408, therefore I cannot answer this query.
+The text does not mention course 02710, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course named "Applied Information Assurance" has 12 units.
+Sure, here is the answer to the query:  The text states that "Intermediate Studio: Stop-Motion Animation" begins at "08:00AM".
+Sure, here is the answer to the query:  The end time for Instrumental Ensemble is 06:30PM. (Context information, file_path: /workspace/nlp-from-scratch-assignment-spring2024/data/Courses/Fall 57118: Instrumental Ensemble.txt)
+Sure, here is the answer to the query:  The text states that Statistical Analysis Mini - TBA ends at 03:20PM.
+The text does not contain information about course 62706, therefore I cannot answer the query.
+The text does not mention course number 57347, therefore I cannot answer this query.
+The text does not mention course number 54862, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The course "Behavioral Economics of Poverty and Development" has 9.0 units.
+Sure, here is the answer to the query:  The course number of Singing for Actors III is 54317 and 54318 in the provided text.
+Sure, here is the answer to the query:  The text does not specify the time of the end of Consumer Driven Composition for Contemporary Media, therefore I cannot provide an answer to this query.
+Sure, here is the answer to the query:  The course "Introduction to Accounting" has 9 units.
+Sure, here is the answer to the query:  The course number for "Financial Statements & Analysis for Arts Enterprises" is 90744.
+The text does not mention course number 88901, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course number of Writing for the Professions is 76270.
+Sure, here is the answer to the query:  The instructor of Building User-Focused Sensing Systems is **Agarwal, Goel**.
+Sure, here is the answer to the query:  The end time of the Additive Manufacturing Laboratory course is 11:50AM. (From the context information, file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/Courses/Spring 24633: Additive Manufacturing Laboratory.txt)
+Sure, here is the answer to the query:  The instructor of Instrumental/Choral Conducting is Story.
+Sure, here is the answer to the query:  The end time of the Additive Manufacturing Laboratory course is 11:50AM. (See context information under file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/Courses/Spring 24633: Additive Manufacturing Laboratory.txt)
+Sure, here is the answer to the query:  The course named "Behavioral Decision Making" has a total of 12.0 units.
+Sure, here is the answer to the query:  The course number of Anti-Racist & Equitable Practices in Theater is 54362.
+Sure, here is the answer to the query:  MAAD Research by Design Project has 18.0 units.
+Sure, here is the answer to the query:  The course number of "Designing Large-scale Software Systems" is 17423 or 17723.
+Sure, here is the answer to the query:  The text states that "Intermediate Studio: Fundamentals of Figuration" ends at "09:50PM".
+Sure, here is the answer to the query:  Spacecraft Design-Build-Fly Laboratory 2 has 12.0 units.
+Sure, here is the answer to the query:  The text states that the course "Introduction to Writing Fiction" ends at 10:50AM.
+The text does not mention course number 24262, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text states that the course "Scenic Design Skills: 3D Model Making" starts at **01:00PM**.
+Sure, here is the answer to the query:  The course number of Production Resource Management is 54334 and 54790.
+Sure, here is the answer to the query:  The text does not specify the end time of Web Application Development, therefore I cannot answer this question.
+Sure, here is the answer to the query:  The text states that "Formulation Engineering" starts at "12:30PM".
+Sure, here is the answer to the query:  The instructor of Physics of Energy is Dodelson.
+Sure, here is the answer to the query:  Directing IV: Next Steps has 9.0 units.
+Sure, here is the answer to the query:  The text states that Graduate Research Seminar II has 6.0 units.
+Sure, here is the answer to the query:  The text states that "Continuous-Time Finance" starts at "01:00PM".
+Sure, here is the answer to the query:  The course number of Large Format Photography: The Antiquarian Avant-Garde is 62375 and 60375.
+Sure, here is the answer to the query:  The course "Art and Machine Learning" has 12 units. (Context information: Spring 10615: Art and Machine Learning.txt)
+Sure, here is the answer to the query:  The text states that Architectural Lighting Design starts at 02:00PM.
+The text does not mention course 36736, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course number of Graduate Playwriting IV is 54892.
+Sure, here is the answer to the query:  The text states that Acting II ends at 03:20PM.
+Sure, here is the answer to the query:  The course number of Multi Media in the context is 90782.
+Sure, here is the answer to the query:  Introduction to Set Theory I has 12.0 units.
+Sure, here is the answer to the query:  The course number of Introduction to Software Reverse- Engineering is 14819.
+Sure, here is the answer to the query:  The text states that "Special Topics in HCI" has 12 units.
+Sure, here is the answer to the query:  The end time for Professional Skills for Statisticians II is 12:20PM.
+Sure, here is the answer to the query:  The text describes three courses, Complex Analysis, Mathematical Studies Analysis I, and Mathematical Studies Algebra I. Complex Analysis has units of 12.0.
+Sure, here is the answer to the query:  **10:00AM** is the start time for Quantum Mechanics of Materials.
+Sure, here is the answer to the query:  The text states that the course "Strategy for High-Tech Products and Services" starts at 11:00 AM.
+Sure, here is the answer to the query:  The text states that "Foundations: Digital Media" starts at 02:00PM.
+Sure, here is the answer to the query:  The course number of The American Experiment: Unravelling the US Electoral System is 84654.
+The text does not specify the end time of the course "Institutions of the Roman Church", therefore I cannot answer the query.
+The text does not mention course number 21356, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The course named Cryptography has 12 units.
+Sure, here is the answer to the query:  The text states that Project Management for Engineering and Construction ends at 10:50AM.
+Sure, here is the answer to the query:  Introduction to Mathematical Concepts has 6.0 units.
+Sure, here is the answer to the query:  The course "Ethics and Decision Making in Architecture" has 6.0 units.
+Sure, here is the answer to the query:  The text does not describe "Embedded System Development," therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course "Topics of Law: Introduction to Intellectual Property Law" starts at 07:00PM. (Context information: Fall 66221 course information)
+The text does not contain any information about course 02605, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The name of course 15312 is Foundations of Programming Languages.
+Sure, here is the answer to the query:  The instructor of Applied Econometrics I is Severnini.
+Sure, here is the answer to the query:  The text states that "Computational Methods for Proteogenomics and Metabolomics" starts at 03:30PM.
+Sure, here is the answer to the query:  The instructor of Accounting and Finance Analytics is Stephenson.
+Sure, here is the answer to the query:  The instructor of Biochemistry I is Rule.
+Sure, here is the answer to the query:  The Statistics Departmental Seminar starts at **04:00PM** according to the provided context information.
+Sure, here is the answer to the query:  The text states that "Intermediate Studio: Drawing with Machines" ends at "09:50PM".
+Sure, here is the answer to the query:  The instructor of Actor Dance II is Caton.
+Sure, here is the answer to the query:  The text states that the course "Parallel Computer Architecture and Programming" has 12 units.
+Sure, here is the answer to the query:  The instructor of History of World Architecture, I, is Shaw.
+Sure, here is the answer to the query:  The course number of Algebraic Topology is 21752, as shown in the context information.
+Sure, here is the answer to the query:  The start time for Advanced Russian II: Great Short Works is 09:30AM.
+The text does not mention course number 12772, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text does not specify the end time of Cognitive Perspectives in HCI, therefore I cannot provide an answer.
+Sure, here is the answer to the query:  The text states that the course "Maker Series: Intro to Welding" starts at 10:00AM.
+Sure, here is the answer to the query:  The name of course 11868 is Large Language Model Systems.
+Sure, here is the answer to the query:  The text states that the course "Organic Chemistry of Polymers" starts at 06:00PM.
+Sure, here is the answer to the query:  The course number of Algorithm Design and Analysis in the provided context is 15451, 15651, and 15651.
+Sure, here is the answer to the query:  The course "Media & Communication Design I" has 6.0 units.
+Sure, here is the answer to the query:  The course "Mechanical Engineering Project Management" has 12 units.
+Sure, here is the answer to the query:  The name of course 79305 is Advanced Topics in Global LGBTQ+ History.
+Sure, here is the answer to the query:  The text states that Mechatronic Design has 12 units.
+The text does not mention course 82435, therefore I cannot answer the query.
+Sure, here is the answer to the query:  Usable Privacy and Security has 12.0 units.
+Sure, here is the answer to the query:  The course "Beginning Piano for Minors" has 3.0 units.
+The text states that the course "Data Analytics with Tableau" starts at 02:00PM.
+Sure, here is the answer to the query:  The end time of the course "Fundamentals of Mechanical Engineering" is 03:20PM. (Context information, file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/Courses/Fall 24101: Fundamentals of Mechanical Engineering.txt)
+Sure, here is the answer to the query:  The course "Financial and Managerial Accounting II" has 6 units.
+The text does not mention course number 54124, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text does not specify the time of the end of "Mediated Power and Propaganda," therefore I cannot provide an answer to this query.
+The text does not mention course number 15386, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text does not specify the end time of Statistical Graphics and Visualization, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The course number of Software Architectures in the context is 17635.
+Sure, here is the answer to the query:  The text states that the start time for Italian Diction is "04:00PM".
+Sure, here is the answer to the query:  The Bioinformatics Data Integration Practicum has 6.0 units.
+Sure, here is the answer to the query:  The course number of American Environmental History is 79204.
+The text does not mention course number 16745, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text does not specify the start time of "The ABCDE of Statistical Methods in Machine Learning," therefore I cannot answer this query.
+Sure, here is the answer to the query:  The course named "Consumer Behavior" has **6.0** units.
+Sure, here is the answer to the query:  The course number of Scenic Design Forum is 54350.
+The text does not mention course 42660, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text states that the end time for Sound Editing and Mastering is 03:20PM.
+Sure, here is the answer to the query:  The end time for Distributed Systems for Information Systems Management is 03:20PM.
+Sure, here is the answer to the query:  The course "Urban Nature, Architecture and the Modern South Asian City" has 9 units.
+The text states that Team Dynamics and Leadership ends at 10:50AM. Therefore, the answer is 10:50AM.
+Sure, here is the answer to the query:  The instructor of Advanced Calligraphy I is Rosen.
+Sure, here is the answer to the query:  The text states that the course "Resilient & Sustainable Communities" starts at 06:30PM.
+Sure, here is the answer to the query:  The instructor of ECE Design Experience is Yu, Mukherjee.
+Sure, here is the answer to the query:  The instructor of Student Taught Courses (StuCo): Romance in Video Games is Wu, Kutin.
+The text does not mention course number 84319, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course number of HOT Compilation is 15617, 15417, and 15813 as shown in the provided context.
+The text does not mention course 32400, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course "Programming Language Semantics" has 12 units.
+Sure, here is the answer to the query:  The course titled "Collaborative Project in Music Entrepreneurship" has 6 units. This information is available in the context text under the course information for each course.
+Sure, here is the answer to the query:  The instructor of Presentations for Computational Finance is Placone.
+The text does not specify the end date of the course "Gaining Insights through Statistical Modeling and Machine Learning," therefore I cannot answer the query.
+Sure, here is the answer to the query:  The course named "Building Controls and Diagnostics" starts at 11:00AM.
+The answer is: 02:00PM.  The text states that "Translation Workshop II" starts at 02:00PM.
+The text does not mention Independence Day or University closures, therefore I cannot answer this query.
+The text does not provide information about the semester course drop deadline or withdrawal grade assigned after this date, therefore I cannot answer the query.
+**Answer:**  The text does not specify a date for Spring Carnival without classes, therefore I cannot answer this query.
+The text does not mention Juneteenth or any date related to it, therefore I cannot answer the query.
+The text does not mention graduating final grades due date by 4 pm, therefore I cannot answer the query.
+The text does not provide information about Independence Day or university closures, therefore I cannot answer the query.
+The text does not contain any information about the date of 08/02/2024, therefore I cannot answer the query.
+The text does not mention any events happening on 04/15/2024, therefore I cannot provide an answer to this query.
+The text does not mention Winter Break or University Closed dates, therefore I cannot answer this query.
+The text does not provide information about the first day of class for any of the courses, therefore I cannot answer the query.
+The text does not describe any events happening on 05/04/2024, therefore I cannot answer this query.
+The text does not provide information about events happening on 07/05/2024, therefore I cannot answer this query.
+The text does not mention any events or activities happening on 09/04/2023, therefore I cannot answer this query.
+The text does not mention Summer Semester  Two Faculty Course Evaulations or their opening date, therefore I cannot answer the query.
+The provided text does not mention Summer Semester Two pass/no pass & withdrawal deadline (3), therefore I cannot answer this query.
+The text does not provide information about the deadline for Mini-4 add, audit & tuition adjustment drop deadline (1), therefore I cannot answer the query.
+The provided text does not contain any information about events happening on 08/02/2024, therefore I cannot answer this query.
+The text does not provide information about Semester & Mini-6 Faculty Course Evaluations, therefore I cannot answer this query.
+The text does not provide information about events on 06/28/2024, therefore I cannot answer the query.
+The text does not provide information about the Mini-3 pass/no pass & withdrawal deadline (3), therefore I cannot answer this query.
+The text does not provide information about events on 05/13/2024, therefore I cannot answer the query.
+The text does not specify the date of Democracy Day or any information about the timing of the event, therefore I cannot answer the query.
+The text does not contain information about the Mini-5 course, therefore I cannot answer the query.
+The text does not mention the deadline for Semester pass/no pass & withdrawal, therefore I cannot answer this query.
+The text does not provide information about events on 06/25/2024, therefore I cannot answer the query.
+The text does not contain information about Semester & Mini-2 Faculty Course Evaluations close date, therefore I cannot provide an answer to this query.
+The text does not provide information about the closing date of Semester & Mini-4 Faculty Course Evaluations, therefore I cannot answer this query.
+The text does not contain information about the closing date of Mini-3 Faculty Course Evaluations, therefore I cannot answer this query.
+The text does not provide information about the Mini-3 voucher deadline (4), therefore I cannot answer the query.
+The text does not provide information about the date of 06/24/2024, therefore I cannot answer the query.
+The text does not mention Final Exams information, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The text does not provide information about the Mini-4 course drop deadline or withdrawal grade assigned after this date (2), therefore I cannot answer this query.
+The provided text does not mention any information about events happening on 04/15/2024, therefore I cannot answer this query.
+The text does not specify the date of Family Weekend, therefore I cannot answer the query.
+The text does not provide information about Make-Up Final Exams, therefore I cannot answer this query.
+The provided text does not mention any information about the date of 05/17/2024, therefore I cannot answer this query.
+The text does not specify the date of Spring 2024 Registration Week, therefore I cannot answer this query.
+The text does not provide information about Summer Semester Two Final Grades Due by 4 pm, therefore I cannot answer this query.
+The text does not mention Final Exams information, therefore I cannot answer the query.
+The text does not contain information about Fall Deans' Lists Postings, therefore I cannot provide an answer to the query.
+The text does not provide information about events happening on 06/21/2024, therefore I cannot answer this query.
+The text does not specify the deadline for Mini-3 add, audit & tuition adjustment drop deadline (1), therefore I cannot answer the query.
+The text does not provide information about events on 05/06/2024, therefore I cannot answer this query.
+The text does not provide information about events occurring on 06/20/2024, therefore I cannot answer this query.
+The text does not contain information about Summer Semester Two drop deadline or withdrawal grade assigned after this date (2), therefore I cannot answer this query.
+The provided text does not mention any information about the Semester add, audit & tuition adjustment drop deadline (1), therefore I cannot answer this query.
+The provided text does not mention the semester course drop deadline or the withdrawal grade assigned after that date, therefore I cannot answer the query.
+The text does not specify the time of Final Examinations, therefore I cannot answer the query.
+The text does not mention any information about 06/20/2024, therefore I cannot answer this query.
+The text does not provide information about the date of 11/27/2023, therefore I cannot answer the query.
+Sure, here is the answer to the query:  LTI offers PhD programs. The text states that "The LTI does not offer direct transfers from its master’s programs into its Ph.D. program." Therefore, it is inferred that LTI offers PhD programs.
+Sure, here is the answer to the query:  Yes, LTI offers Master's programs. The text mentions Master of Science in Intelligent Information Systems, Master of Computational Data Science, and Master of Artificial Intelligence and Innovation programs.
+Sure, here is the answer to the query:  The text does not mention LTI's undergraduate programs, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The Language Technologies Institute offers a Ph.D. in Language and Information Technologies.
+Sure, here is the answer to the query:  The text states that the Department of Language Technologies Institute offers a Dual-Degree Ph.D. in Language and Information Technologies (Portugal Partnership).
+Sure, here is the answer to the query:  The Language Technologies Institute offers a Master of Language Technologies (MLT) degree.
+Sure, here is the answer to the query:  The Language Technologies Institute (LTI) offers the Master of Science in Intelligent Information Systems (MIIS) degree.
+The text states that the Language Technologies Institute offers the Master of Computational Data Science (MCDS) program.
+Sure, here is the answer to the query:  The text does not specify which department offers the Master of Science in Artificial Intelligence and Innovation (MSAII), therefore I cannot answer this query.
+The text does not mention any department offering an LT Concentration, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text does not specify the date of Carnegie Mellon's Spring Carnival in 2024, therefore I cannot answer this query.
+**Answer:**  The time for the Spring Carnival Midway Opening Ceremony 2024 is 3:00 PM-3:30 PM ET. **Context:**  The text provided describes events and activities for the Spring Carnival 2024 at Carnegie Mellon University. The text includes information about the Spring Carnival Midway Opening Ceremony, which is scheduled to take place at 3:00 PM-3:30 PM ET.
+Sure, here is the answer to the query:  The Weekend Highlights of Spring Carnival 2024 are:  - Booth, Rides and Dog Houses - Carnival Headquarters Tent - Activities, Wellness and Kidzone tents - Buggy Races and Donut Tent - Scotch'n'Soda Performance of The Little Mermaid
+The Reunion Welcome Back Happy Hour is open to the entire CMU community and their guests in Spring Carnival 2024.
+The Reunion Buggy Watch Tent is located on Hill 5.  **Context:**  "The Reunion Buggy Watch Tent is located on Hill 5."
+Sure, here is the answer to the query:  The times for Scotch'n'Soda Performance of The Little Mermaid are as follows:  * **Thursday:** 7-9:30 p.m. * **Friday:** 6-8:30 p.m. and 10 p.m.-12:30 a.m. * **Saturday:** 3-5:30 p.m. and 7-9:30 p.m.
+Sure, here is the answer to the query:  The text does not describe a closing event for Spring Carnival 2024, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The events on the last day of Carnegie Mellon's Spring Carnival in 2024 are the Scotch'n'Soda Performance of The Little Mermaid, the Buggy Races, and the Donut Tent.
+Sure, here is the answer to the query:  The text does not specify who is invited to the main commencement ceremony on Sunday, May 12, 2024, therefore I cannot answer this query.
+The text does not specify a limit on the number of guests who can attend the main commencement ceremony, therefore I cannot answer the query.
+Sure, here is the answer to the query:  All guests in the stadium must be seated by 10:00 AM for the main commencement ceremony.
+Sure, here is the answer to the query:  The text does not mention college/school/department-specific diploma ceremonies, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The text does not specify college/school/department-specific diploma ceremonies, therefore I cannot answer this question.
+The text does not provide information about the location of the Center for Student Diversity and Inclusion Ceremony, therefore I cannot answer the query.
+The text does not mention information about Naval ROTC Commissioning, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The Phi Beta Kappa Initiation Ceremony Reception is scheduled for **2-3 p.m. on May 9th**.
+Sure, here is the answer to the query:  The first artificial intelligence program was Logic Theorist, which was created by Herb Simon, Allen Newell, and Cliff Shaw in 1955-56.
+Sure, here is the answer to the query:  The text states that "multi-core processors are common in today’s computers" and mentions the C.mmp and Cm* computers developed by CMU researchers in 1971. Therefore, the answer to the query is yes.
+The text does not mention whether algebra is taught in cognitive tutoring programs, therefore I cannot answer the query.
+The text does not mention the creation of the emoticon, therefore I cannot answer the query.
+The Mach kernel is at the core of all modern Apple devices. As stated in the text, "At the core of all modern Apple devices --- including iPhones, iPads and MacBooks --- is the Mach kernel, developed at CMU under the leadership of then-professor Rick Rashid."
+Sure, here is the answer to the query:  **Answer:**  James Gosling (CS’83) developed Java, the first programming language able to run on almost any platform.
+The text does not mention CAPTCHA, therefore I cannot answer the query. Therefore, the answer is "None".
+The text does not mention any self-driving SUV or the 2007 DARPA Urban Challenge road race, therefore I cannot answer the query.
+The text does not mention Michael "Fuzzy" Mauldin, therefore I cannot answer the query.
+The text does not mention the development location of Smart Traffic Lights, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The School of Computer Science at CMU was officially formed in 1965.
+Sure, here is the answer to the query:  The first head of the Computer Science Department at CMU was Perlis.  (Context: "In 1965, Carnegie Tech established its Computer Science Department, or CSD, with a $5 million grant from the R.K. Mellon Foundation. Perlis was the first department head.")
+Sure, here is the answer to the query:  The School of Computer Science at Carnegie Mellon University celebrated its 25th year in 1989.  **Reference:**  "25 Great Things About SCS" (Context information)
+Sure, here is the answer to the query:  The text does not specify the year in which Simon and Newell were awarded the A.M. Turing Award for their work in artificial intelligence, therefore I cannot answer this query.
+Sure, here is the answer to the query:  In 1961, Carnegie Tech created its first interdisciplinary Ph.D. program in computer science.
+Sure, here is the answer to the query:  **Mary Shaw (CS’72)** led CMU’s first effort to design an undergraduate curriculum solely in computer science.
+Sure, here is the answer to the query:  By 1995, there were 401 undergraduates in the School of Computer Science.
+The text does not mention a Machine Learning Department, therefore I cannot answer the query.
+The text does not mention CMU's Robotics Institute or its size in comparison to other universities, therefore I cannot answer this query.
+Sure, here is the answer to the query:  Carnegie Mellon University was founded in 1900.
+The text does not mention the number of countries the students represent, therefore I cannot answer this query.
+The text does not mention the number of living alumni, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text states that "more than 60% of graduate students at Carnegie Mellon are international students". Therefore, the answer to the query is "more than 60%".
+The text does not provide information about undergraduate students, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The text does not mention Emmy Awards won by alumni and current/former faculty, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The text states that Kevlar Fiber was invented by alumna Stephanie Kwolek (MM 1946).
+The text does not contain information about the provost, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The text states that "Mellon College of Science" is one of Carnegie Mellon's schools.
+Sure, here is the answer to the query:  The text states that "The first U.S. school to award a degree in drama in 1914" is unknown, therefore I cannot answer the query.
+Sure, here is the answer to the query:  According to the U.S. News & World Report, 2022, the College of Engineering ranks #4 in the top U.S. universities.
+The text does not contain information about Carnegie Mellon's official motto, therefore I cannot answer this query.
+The text does not provide information about the first doctorate student in civil engineering, therefore I cannot answer this query.
+The text does not mention a 'Carnegie Plan' in 1938, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The text states that Carnegie Tech merged with the Mellon Institute in 1967.
+The text does not mention a Carnegie Mellon campus in Washington, therefore I cannot answer the query.
+The text does not mention any Strategic Plan 2025, therefore I cannot answer the query.
+Sure, here is the answer to the query:  Most — but not all — buggy drivers are women. The text states that "buggy drivers are often less than 5 feet, 3 inches in height."
+Sure, here is the answer to the query:  Carnegie Mellon University's first official mascot is a Scottish terrier named Scotty.
+Sure, here is the answer to the query:  The Carnegie Mellon athletic teams nickname is "Tartans." This information is available in the text under the heading "Tartan Facts."
+The text does not mention the athletic director at Carnegie Mellon University, therefore I cannot answer this query.
+The official Scotty costume was unveiled at the 2008 Spring Carnival. (file_path: /workspace/nlp- from-scratch-assignment-spring2024/data/history/scotty.txt)
+Sure, here is the answer to the query:  According to the text, Andrew Carnegie kept a Scottish terrier as his pet.
+Sure, here is the answer to the query:  The Kiltie Band began in 1908.  The text states that "The Kiltie Band began in 1908."
+Sure, here is the answer to the query:  The Kiltie Band performs at all home football games, a holiday concert, and two spring concerts.
+Sure, here is the answer to the query:  No, you do not need auditions to become a member of the Kiltie Band. Any member of the campus community with music experience is able to join the Kiltie Band.
+Sure, here is the answer to the query:  The text does not describe whether the Kiltie Band performs pop tunes, therefore I cannot answer this query.
+The text does not contain information about Andrew Carnegie's 87th birthday, therefore I cannot answer this query.
+Sure, here is the answer to the query:  According to the text, Jamie Callan's research interests include Information Retrieval, Text Mining and Analytics.
+Sure, here is the answer to the query:  The text does not mention any paper published by Scott Fahlman other than the ones referenced in the provided text, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The text provided does not specify the phone number of Jamie Callan, therefore I cannot provide an answer.
+Sure, here is the answer to the query:  The text states that the phone number of Alexander Rudnicky is "+1-412-268-7676".
+Sure, here is the answer to the query:  The office of Michael Shamos is located at 6707 Gates- Hillman Complex, Carnegie Mellon University.
+Sure, here is the answer to the query:  The text does not provide information about Robert Frederking's phone number, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The text does not specify the position of Bhiksha Ramakrishnan, therefore I cannot answer the query.
+Sure, here is the answer to the query:  Eric Nyberg's research interests include information extraction, summarization, and question answering, information retrieval, text mining, and language technologies for education.
+Sure, here is the answer to the query:  The text does not specify the phone number of Lorraine Levin, therefore I cannot answer this query.
+The text does not mention any papers published by Bhiksha Ramakrishnan, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The email address of Emma Strubell is estrubel@andrew.cmu.edu.
+The text does not mention any papers published by Daphne Ippolito, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The office of Emma Strubell is located at Office: 6709.
+Sure, here is the answer to the query:  According to the provided text, Fernando Diaz's research interests include natural language processing (NLP) and information retrieval, with a focus on fairness, ethics, and affective computing. His research interests are mainly in the areas of evaluation preference-based evaluation, fairness in ranking, artificial intelligence and culture, and retrieval-enhanced machine learning.
+Sure, here is the answer to the query:  The email address of Alexander Waibel is waibel@cs.cmu.edu. (Context: file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/faculty_websites/Alexander Waibel_lti_page.txt)
+Sure, here is the answer to the query:  Office: 6703 —Gates & Hillman Centers  This information is referenced in the context text under the heading "Rita Singh | Carnegie Mellon University - Language Technologies Institute".
+Sure, here is the answer to the query:  The text states that Emma Strubell's position is "Assistant Professor" in the "Language Technologies Institute" at "Carnegie Mellon University".
+Sure, here is the answer to the query:  Teruko Mitamura's email address is teruko[at]cs[dot]cmu[dot]edu, as shown in the context information under the "Teruko Mitamura, Ph.D." section.
+Sure, here is the answer to the query:  The text does not provide information about Sean Welleck's research interests, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The text states that "The following papers cover our work in the past while" and lists several papers written by Alexander Rudnicky. Therefore, I can answer the query by directly referencing the provided text:  **Answer:** The papers listed in the text cover Alexander Rudnicky's work in the past, including "Leveraging Behavioral Patterns of Mobile Applications for Personalized Spoken Language Understanding," "Learning Semantic Hierarchy with Distributional Representations for Unsupervised Spoken Language Understanding," and "Matrix Factorization with Knowledge Graph Propagation for Unsupervised Spoken Language Understanding."
+The text does not describe the position of Scott Fahlman, therefore I cannot answer the query.
+**Answer:**  The text does not describe David Mortensen's position, therefore I cannot answer this query.
+The text does not describe the research interests of Rita Singh, therefore I cannot answer the query.
+Sure, here is the answer to the query:  Carolyn Rose's position is Professor of Language Technologies and Human-Computer Interaction at Carnegie Mellon University.
+Sure, here is the answer to the query:  The email address of Lorraine Levin is lsl@cs.cmu.edu, as shown in the text at file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/faculty_websites/Lorraine Levin_personal_page.txt.
+Sure, here is the answer to the query:  According to the context, Mona Diab's office is located at "Office: 5723".
+Sure, here is the answer to the query:  Yonatan Bisk's email address is ybisk@cs.cmu.edu, as shown in the text.
+Sure, here is the answer to the query:  The phone number of Shinji Watanabe is 412-268-3687, as shown in the context information.
+Sure, here is the answer to the query:  Office: 6705  The office of Bhiksha Ramakrishnan is located in 6705.
+Sure, here is the answer to the query:  Kemal Oflazer's paper publications are included in the text, but I cannot identify which paper he published in the provided text. Therefore, I cannot answer this query.
+Sure, here is the answer to the query:  The authors of High_school_students’_data_modeling_practices_and_processes are Shiyan Jiang, Hengtao Tang, Can Tatar, C. Rosé, and J. Chao.
+Sure, here is the answer to the query:  The publication venue of Quantifying&Modeling_Multimodal_Interactions is not explicitly stated in the provided text, therefore I cannot answer this query.
+The text does not mention Tartan, therefore I cannot answer the query. Therefore, I have to answer 'None'.
+Sure, here is the answer to the query:  **Answer:** 2023  **Context:**  The text states that "Tartan: an LLM Driven SocialBot" was published in 2023.
+Sure, here is the answer to the query:  The authors of "Robust_Cross-Domain_Pseudo- Labeling_and_Contrastive_Learning_for_Unsupervised_Domain_Adaptation_NIR-VIS_Face_Recognition" are Yiming Yang, Weipeng Hu, Haiqi Lin, and Haifeng Hu.
+Sure, here is the answer to the query:  The text does not specify the authors of ChatGPT_MT, therefore I cannot answer this query.
+Sure, here is the answer to the query:  The publication venue of the paper "Automatic_synchrotron_tomographic_alignment_schemes_based_on_genetic_algorithms_and_human-in-the- loop_software" is the Journal of Synchrotron Radiation.  Context: --------------------- file_path: /workspace/nlp-from-scratch-assignment-spring2024/data/faculty_papers/Automatic_synchrotron_tomograp hic_alignment_schemes_based_on_genetic_algorithms_and_human-in-the-loop_software.txt  Title: Automatic synchrotron tomographic alignment schemes based on genetic algorithms and human-in-the- loop software Year: 2023 Authors: Zhen Zhang, Xiaoxue Bi, Pengcheng Li, Chenglong Zhang, Yiming Yang, Yu Liu, Gang Chen, Yuhui Dong, Gongfa Liu, Yi Zhang Abstract: A highly automatic alignment scheme is proposed to address the pressing challenge in tomographic alignment of future scanning tomography experiments. The results show that the proposed method exhibits excellent sub-pixel alignment accuracy and high time efficiency. Publication Venue: Journal of Synchrotron Radiation TLDR: {'model': 'tldr@v2.0.0', 'text': 'The results show that the proposed method exhibits excellent sub-pixel alignment accuracy and high time efficiency.'}  Full paper text: research papers J. Synchrotron Rad. (2023). 30, 169–178
+Sure, here is the answer to the query:  The authors of "Somatosensory_and_motor_representations_following_bilateral_transplants_of_the_hands" are W. Gaetz, C. Dockstader, P. Furlong, S. Amaral, A. Vossough, E. Schwartz, T. Roberts, and Lori S. Levin.
+Sure, here is the answer to the query:  The publication venue of _Novel,_Practical,_and_Scalable_Approach_for_the_Synthesis_of_Eldecalcitol is Organic Process Research & Development.
+Sure, here is the answer to the query:  The publication venue of Fusion-in-T5 is arXiv.org. **Context:**  The text describes two papers:  * **Language- Agnostic_Transformers_and_Assessing_ChatGPT-Based_Query_Rewriting_for_Multilingual_Document- Grounded_QA.txt:** This paper is not related to the query. * **Fusion- in-T5:_Unifying_Document_Ranking_Signals_for_Improved_Information_Retrieval.txt:** This paper describes the Fusion-in-T5 re-ranker, which is the paper related to the query.  The text does not mention any other papers related to the query, therefore I cannot answer the query.
+Sure, here is the answer to the query:  The publication venue of Accurate_detection_of_reactive_oxygen_species_by_tuning_an_elastic_motif_(GPGGA)4_in_nanopores is Chemical Communications.
+Sure, here is a summary of the text associated with the file "Association_between_albumin-to- globulin_ratio_and_the_risk_of_overall_survival_in_advanced_non- small_cell_lung_cancer_patients_with_anlotinib_treatment":  The text describes a retrospective cohort study investigating the relationship between albumin-to-globulin ratio (AGR) and overall survival (OS) in patients with advanced non-small-cell lung cancer (NSCLC) treated with anlotinib. The study found a non-linear relationship between AGR and OS, with an inflection point of 1.24. The hazard ratio and the confidence intervals on the left and the right sides of the inflection point were 13.05 (0.52 to 327.64) and 0.20 (0.07 to 0.57), respectively.  **Reference:**  **Context:** File_path: /workspace/nlp-from-scratch-assignment- spring2024/data/faculty_papers/Association_between_albumin-to- globulin_ratio_and_the_risk_of_overall_survival_in_advanced_non- small_cell_lung_cancer_patients_with_anlotinib_treatment:_a_retrospective_cohort_study.txt **Query:** Summarize the contents of Association_between_albumin-to- globulin_ratio_and_the_risk_of_overall_survival_in_advanced_non- small_cell_lung_cancer_patients_with_anlotinib_treatment?  **Answer:** The text describes a study finding a non-linear relationship between AGR and OS in advanced NSCLC patients treated with anlotinib, with an inflection point of 1.24.
+The text states that the publication year for "Association_between_albumin-to- globulin_ratio_and_the_risk_of_overall_survival_in_advanced_non- small_cell_lung_cancer_patients_with_anlotinib_treatment" is 2023.  **Answer:** 2023  **Context:** "Association_between_albumin-to-globulin_ratio_and_the_risk_of_overall_survival_in_advanced_non- small_cell_lung_cancer_patients_with_anlotinib_treatment" was published in 2023.
+Sure, here is the summary of the contents of "When to generate hedges in peer-tutoring interactions":  The paper explores the application of machine learning techniques to predict where hedging occurs in peer-tutoring interactions. The study uses a naturalistic face-to-face dataset annotated for natural language turns, conversational strategies, tutoring strategies, and nonverbal behaviors. The results show that embedding layers, capturing the semantic information of the previous turns, significantly improves the model’s performance. Additionally, the study provides insights into the importance of various features, such as interpersonal rapport and nonverbal behaviors, in predicting hedges. The paper also discovers that the eye gaze of both the tutor and the tutee has a significant impact on hedge prediction.
+Sure, here is the answer to the query:  The text states that "When to generate hedges in peer- tutoring interactions" was published in 2023.
+Sure, here is the answer to the query:  The authors of "Co- benefits_of_carbon_neutrality_in_enhancing_and_stabilizing_solar_and_wind_energy" are Yadong Lei, Zhili Wang, Deying Wang, Xiaoye Zhang, H. Che, Xu Yue, Chenguang Tian, J. Zhong, Lifeng Guo, Lei Li, Hao Zhou, Lin Liu, and Yangyang Xu.
+Sure, here is a summary of the text provided in "Identification_of_Nonlinear_Latent_Hierarchical_Models":  The text describes a novel identifiability theory for nonlinear latent hierarchical models. The main contributions of the work include:  * Analogous to independence tests in PC algorithm [Spirtes et al., 2000] and rank- deficiency tests in Huang et al. [2022], the author develops a novel identifiability theory (Theorem 3.2) as a fundamental criterion for locating and identifying latent variables in general nonlinear causal models. * The author shows structure identification guarantees for latent hierarchical models admitting continuous multi-dimensional (c.f., one-dimensional and often discrete [Pearl, 1988, Choi et al., 2011, Huang et al., 2022], general nonlinear (c.f., linear [Pearl, 1988, Huang et al., 2022, Xie et al., 2022]) structural functions, and general graph structures (c.f., generalized trees [Pearl, 1988, Choi et al., 2011, Huang et al., 2022]). * Under the same conditions, the author provides identification guarantees for latent variables up to invertible transformations, which, to the best of the author's knowledge, is the first attempt in cases of nonlinear hierarchical models. * The author accompanies their theory with an estimation method that can asymptotically identify the causal structure and latent variables for nonlinear latent hierarchical models and validate it on multiple synthetic and real-world datasets.  The text also includes a detailed literature review of previous causal discovery approaches and discusses the limitations of those approaches compared to the proposed method.
+Sure, here is the answer to the query:  **Answer:** 2023  **Context:** "Identification_of_Nonlinear_Latent_Hierarchical_Models" was published in 2023.

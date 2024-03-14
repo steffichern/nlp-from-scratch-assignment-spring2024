@@ -63,7 +63,7 @@ from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.llms.ollama import Ollama
 from llama_index.core import Settings
 # ollama
-Settings.llm = Ollama(model="gemma", request_timeout=999999.0, context_window=60000)
+Settings.llm = Ollama(model="mistral", request_timeout=999999.0, context_window=60000)
 
 # configure retriever
 retriever = VectorIndexRetriever(
@@ -143,25 +143,25 @@ query_engine.update_prompts(
 )
 
 
-# # Answering our questions
-# print("Answering our questions")
-# our_questions = 'data/train/questions.txt'
-# questions = []
-# with open(our_questions, 'r') as file:
-#     for line in file:
-#         # print(f"append question: {question} to list of questions")
-#         questions.append(line)
+# Answering our questions
+print("Answering our questions")
+our_questions = 'data/train/questions.txt'
+questions = []
+with open(our_questions, 'r') as file:
+    for line in file:
+        # print(f"append question: {question} to list of questions")
+        questions.append(line)
 
-# answers = []
-# for q in questions:
-#     response = query_engine.query(q)
-#     answer = textwrap.fill(str(response), 100)
-#     answer = answer.replace("\n", " ")
+answers = []
+for q in questions:
+    response = query_engine.query(q)
+    answer = textwrap.fill(str(response), 100)
+    answer = answer.replace("\n", " ")
 
-#     with open('data/test/generated_answers.txt', 'a') as file:
-#         file.write(answer)
-#         file.write("\n")
-#     answers.append(answer)
+    with open('data/test/generated_answers.txt', 'a') as file:
+        file.write(answer)
+        file.write("\n")
+    answers.append(answer)
 
 
 # Answering released test questions

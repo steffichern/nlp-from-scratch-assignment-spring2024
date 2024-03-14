@@ -1,0 +1,10 @@
+Course Number: 94811
+Title: Strategy Development
+Units: 6.0
+Lec/Sec: A3
+Days: MW
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: HBH 2008
+Location: Pittsburgh, Pennsylvania
+Instructor: Synnott

@@ -1,0 +1,10 @@
+Course Number: 67425
+Title: Special Topics - Capstone course in Digitalization
+Units: 9.0
+Lec/Sec: W
+Days: MW
+Begin: 04:00PM
+End: 05:15PM
+Bldg/Room: CMB 3048
+Location: Doha, Qatar
+Instructor: Vatanasakdakul

@@ -1,0 +1,10 @@
+Course Number: 90723
+Title: Financial Statements and Analysis of Companies
+Units: 6.0
+Lec/Sec: A3
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: HBH 1202
+Location: Pittsburgh, Pennsylvania
+Instructor: Stephenson

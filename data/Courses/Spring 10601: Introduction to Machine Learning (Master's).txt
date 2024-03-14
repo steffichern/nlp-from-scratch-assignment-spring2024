@@ -1,0 +1,10 @@
+Course Number: 10601
+Title: Introduction to Machine Learning (Master's)
+Units: 12.0
+Lec/Sec: A
+Days: MWF
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: TEP 1403
+Location: Pittsburgh, Pennsylvania
+Instructor: Chai, Gormley, Heidari

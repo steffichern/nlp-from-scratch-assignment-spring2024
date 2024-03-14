@@ -1,0 +1,10 @@
+Course Number: 49101
+Title: Introduction to Engineering Design, Innovation, and Entrepreneurship
+Units: 12.0
+Lec/Sec: Lec
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: BH A53
+Location: Pittsburgh, Pennsylvania
+Instructor: Bodily

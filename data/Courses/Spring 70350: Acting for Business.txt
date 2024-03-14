@@ -1,0 +1,10 @@
+Course Number: 70350
+Title: Acting for Business
+Units: 9.0
+Lec/Sec: A
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: TEP 2702
+Location: Pittsburgh, Pennsylvania
+Instructor: Rivera Lebron

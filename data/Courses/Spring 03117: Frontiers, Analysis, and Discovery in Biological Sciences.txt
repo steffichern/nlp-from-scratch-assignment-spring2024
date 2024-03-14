@@ -1,0 +1,10 @@
+Course Number: 03117
+Title: Frontiers, Analysis, and Discovery in Biological Sciences
+Units: 6.0
+Lec/Sec: Lec
+Days: TR
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: MI SOCIAL
+Location: Pittsburgh, Pennsylvania
+Instructor: Doonan, Willard, Laperuta

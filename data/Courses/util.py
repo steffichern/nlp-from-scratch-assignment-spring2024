@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import os
 
-def create_course_files_from_html(html_file):
+def create_course_files_from_html(html_file, s="Spring"):
     # Open and read the HTML file
     with open(html_file, 'r', encoding='utf-8') as file:
         html_content = file.read()
@@ -18,7 +18,7 @@ def create_course_files_from_html(html_file):
     
         if all(cells[:10]):
             # Create a file name from course code and title
-            file_name = f"{cells[0]}: {cells[1]}.txt".replace('/', '')
+            file_name = f"{s} {cells[0]}: {cells[1]}.txt".replace('/', '')
             file_content = f"Course Number: {cells[0]}\nTitle: {cells[1]}\nUnits: {cells[2]}\nLec/Sec: {cells[3]}\nDays: {cells[4]}\nBegin: {cells[5]}\nEnd: {cells[6]}\nBldg/Room: {cells[7]}\nLocation: {cells[8]}\nInstructor: {cells[9]}"
 
             # Write course details to the file
@@ -26,5 +26,5 @@ def create_course_files_from_html(html_file):
                 course_file.write(file_content)
 
 # Replace 'path/to/your/html_file.html' with the actual path of the HTML file
-create_course_files_from_html('spring.html')
-create_course_files_from_html('fall.html')
+create_course_files_from_html('spring.html', s="Spring")
+create_course_files_from_html('fall.html', s="Fall")

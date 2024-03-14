@@ -1,0 +1,10 @@
+Course Number: 73265
+Title: Economics and Data Science
+Units: 9.0
+Lec/Sec: Lec
+Days: MW
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: TEP 2701
+Location: Pittsburgh, Pennsylvania
+Instructor: Portnykh

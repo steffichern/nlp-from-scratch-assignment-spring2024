@@ -1,0 +1,10 @@
+Course Number: 70387
+Title: Strategy for High-Tech Products and Services
+Units: 9.0
+Lec/Sec: W
+Days: MW
+Begin: 04:00PM
+End: 05:15PM
+Bldg/Room: CMB 1199
+Location: Doha, Qatar
+Instructor: Fadlallah

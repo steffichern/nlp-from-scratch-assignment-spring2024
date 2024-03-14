@@ -1,0 +1,10 @@
+Course Number: 90812
+Title: Python Programming I
+Units: 6.0
+Lec/Sec: B3
+Days: TR
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: HBH 1002
+Location: Pittsburgh, Pennsylvania
+Instructor: Ostlund

@@ -1,0 +1,10 @@
+Course Number: 95799
+Title: Linux and Open Source
+Units: 6.0
+Lec/Sec: A4
+Days: W
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1204
+Location: Pittsburgh, Pennsylvania
+Instructor: Moul

@@ -1,5 +1,7 @@
-## Data Annotation
 [feel free to add what you did in this file!]
+
+## Data Annotation
+
 Steffi: Annotated our testing data from instances 261-323
 
 Scott(Shuning): Annotated our testing data from instances 324-371(manually).

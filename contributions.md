@@ -33,4 +33,4 @@ Steffi: Wrote code for metrics evaluation and significant tests
 ## Report Writing
 Steffi: Intro + Data Creation (including creating annotation platform and calculating IAA) + Results + Analysis
 
-Daniel (Zaitian) Wang: subset of Analysis.
+Daniel (Zaitian) Wang: Analysis.

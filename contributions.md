@@ -1,5 +1,3 @@
-[feel free to add what you did in this file!]
-
 ## Data Annotation
 
 Steffi: Annotated our testing data from instances 261-323
@@ -22,5 +20,7 @@ Scott(Shuning): Ran RAG pipeline on cluster provided by Daniel to obtain results
 
 ## Evaluation
 
+Steffi: Wrote code for metrics evaluation and significant tests
+
 ## Report Writing
-Steffi: Intro + Data Creation (including creating annotation platform and calculating IAA)
+Steffi: Intro + Data Creation (including creating annotation platform and calculating IAA) + Results + Analysis

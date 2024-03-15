@@ -1,0 +1,371 @@
+The course "Presenting Performing Arts & Festivals" starts at 6:30 PM.
+None. (The given context does not include a course with the number 45869.)
+Answer: 82394.
+Washington
+54355 or 54847 (either one randomly)  Explanation: The context provides two instances of the same course with different file paths, each having a unique course number. To answer the query, I directly reference the context and provide one of the course numbers at random.
+The course "Representation and Voting Rights" has 12.0 units.
+The query asks for the end time of the course "Ethics, Social Biases, and Positive Impact in Language Technologies". From the context information provided, the end time is given as '12:20PM'. Therefore, the answer would be '12:20PM'.  Answer: 12:20PM
+Answer: 6.0
+Answer: 12271.
+Newman or Flaherty (either one is a valid answer, as there are two instructors with that course number)
+53612 (or any of the other repeated numbers in the context as they are all the same)
+None. The context does not provide a course named 76815.
+Koerner (for the Fall semester) or Weinberg (for the Spring semester).
+The given context does not provide information about the exact starting time for the course "Time Series Forecasting in Python" in the format of 'HH:MMAM'. Therefore, the answer is 'None'.
+The answer is 12.0 units. (Directly referencing the given context.)
+None. The context does not provide any information about a course with that number.
+The answer is '07:00PM'.
+The answer is '08:00AM' for the fall semester of Differential and Integral Calculus (course number 21120).
+Answer: 84702.
+The answer is '3.0'.
+None. There is no course with the number 03391 in the given context.
+The course "Formless as an Operation" has 9.0 units.
+Zamborsky
+None. The context does not provide a course with that number.
+Answer: 88900.
+None. The context does not provide a course named "98205".
+The course "Entrepreneurial Engineering Project" has 12.0 units.
+Jarbo or Carbon (either one is random since there are two instructors with that name in the context)
+The answer is '12:30PM'.
+Severnini or Jha (randomly choose one)
+The answer is '12:20PM'. However, according to the instructions, it should be answered in the format of 'hh:mmAM' or 'hh:mmPM', so the final answer would be '12:20PM'.
+None. The context does not provide any information about a course with the number 05333.
+Answer: 54126
+The query asks for the start time of course "Chorus". According to the context information provided, the start time is given as "Begin: 04:00PM". Therefore, the answer is '04:00PM'.
+The answers for the given queries are as follows:  Query: When does Differential Calculus end? Answer: 10:50AM (for Spring 2111: Differential Calculus) or 08:50AM, 02:50PM (for Fall 21120: Differential and Integral Calculus - the second instance has a different lecture time)
+11344 (or any other number among 11344, 10718, or 05434) - The specific course number varies depending on the query. Since you asked for "Machine Learning in Practice", the answer is 11344 according to the context provided.
+The answer is '12.0'.
+Answer: 66144
+Answer: 6.0
+The course "Program Evaluation" that takes place on TR days, between 11:00AM and 12:20PM, therefore it ends at 12:20PM. (Reference: Course file with number 90823)
+9.0
+Sul
+The MSIT Practicum starts at 12:00PM according to the given context. Answer: '12:00PM'.
+Si
+Rissinger
+Woolford, Bridges.
+Zhang (from the Fall 12703 or Fall 24703 file) or Dayal (from the Spring 24703 file). Answering with a random one from the context: Zhang.
+The query asks for the start time of the course with the title "Refugee Stories: Literature, Art and Film". In the provided context information, we can find that this course begins at 02:00PM. Therefore, the answer would be '02:00PM'. However, according to the instructions given, the answer should only contain the time in the format of 'HH:MMAM' and nothing else. So, the final answer would be '02:00PM'.
+Answer: 48644
+The query asks for the start time of course "Nonviolent Conflict and Revolution". According to the context information provided, this course starts at 11:00AM. Therefore, the answer is '11:00AM'. Note that there are two courses with the same title in the context, but since the query does not specify which one to refer to, I assumed it refers to the first one mentioned in the context. If a more specific query is given, such as "When does Nonviolent Conflict and Revolution (Spring 84622) starts?", then the answer would be '11:00AM' with the course number included for clarity.
+The course number for Comedy Writing is 62195 (for the Spring semester) or 54195 (for the Spring semester with the same title taught by the same instructor).
+Answer: 42695
+None. The given context does not include a course with the number 17745.
+Opie.
+The query asks for the start time of the course "Project Planning and Reporting". According to the context information provided, this course begins at 02:00PM. Therefore, the answer is '02:00PM'.
+None. The context does not provide a course with the number 54876.
+None. The given context does not include a course with the number 24204.
+The answer is '12.0'.
+Wei
+57276 or 57976 (either one is valid)
+Answer: 09:30AM. Explanation: The context indicates that Technical Direction IV starts at 09:30AM.
+Bass (for the Fall semester) or Yasar (for the Spring semester.
+The answer to your query is '51176'.
+10701
+9.0
+The course "Experimental Sound Synthesis" has 9.0 units.
+Answer: 76254.
+The course "Automation of Scientific Research" has 12.0 units. (Reference: Context information for Spring 02750 and Spring 02450 files)
+The answer is '10:00AM'. This information was directly obtained from the context provided under the title "Begin" for the course with the number '57333' and '57833'.
+The query refers to the course with title "Woodwind Methods" and instructor name "Gerlach". Based on the context information provided, this course ends at 11:50AM. Therefore, the answer is '11:50AM'.
+Story
+None. (The context does not provide a course with the number 84687.)
+The answer to your query is '48735'. This information was obtained from the context provided in the first file path.
+The course named "Acoustics of Human Speech: Theory, Data, and Analysis" has a total of 9.0 units. (Reference: file_path: /workspace/nlp-from-scratch-assignment-spring2024/data/Courses/Spring 80488: Acoustics of Human Speech: Theory, Data, and Analysis.txt)
+Slomsky
+Coplan
+Answer: 6.0  Explanation: The context specifies that the number of units for Theater Architecture I is '6.0'.
+The course number for Nanostructured Materials is '27705' (from the first text file provided).
+The course number is 66213.
+Segal
+The Dietrich Leadership Development Seminar has 9.0 units.
+None. The context does not provide information on a course with that number.
+None. The context does not provide a course with the number 02710.
+The answer is 12.0 units. (Reference: Course number 14761 in either Fall or Spring semesters.)
+The answer is '08:00AM'. This information can be found in the context under the 'Begin' key for the course with title 'Intermediate Studio: Stop-Motion Animation'.
+The answer for the Fall 2024 semester is '06:30PM'. The answer for the Spring 2024 semester is '06:20PM'.
+The query asks for the end time of the Statistical Analysis Mini - TBA course. According to the context information provided, the course ends at 03:20PM. Therefore, the answer is '03:20PM'.
+None. The context does not provide information about a course with that number.
+None. (There is no course number 57347 in the provided context.)
+None. (The given context does not contain a course with the number 54862.)
+The course "Behavioral Economics of Poverty and Development" has 9.0 units.
+54317 or 54318 (either one is correct)  Explanation: The given context provides two instances of the "Singing for Actors III" course, each with a unique file path. By examining the information in each file, we can extract the course number for both occurrences: 54317 and 54318. Since the query asks for "the course number of Singing for Actors III," either answer would be acceptable. Therefore, I've provided both options to ensure accuracy.
+The query asks for the end time of course "Consumer Driven Composition for Contemporary Media". Based on the context information provided, the answer is '01:50PM'.
+The context provides information for two courses named "Introduction to Accounting," one in the fall semester with units of 9.0 and another in the spring semester with units of 9.0. Since you asked for the units of just one Introduction to Accounting course, I will provide the answer for the one with a defined beginning time (either 11:00AM or 9:00AM). In this case, it's the fall semester one.  Answer: 9.0
+Answer: 90744
+None. The context does not provide a course named 88901.
+76270
+Agarwal, Goel.
+The answer is '11:50AM'. This information can be found in the context under the key 'End' for both course files with title 'Additive Manufacturing Laboratory'. However, since the query refers to only one of these courses, I assume you meant to ask about a specific instance of this course. In that case, the answer would still be '11:50AM', as it is the same for both instances.
+Story
+The answer is '11:50AM'.
+The answers for the given queries are as follows:  Query: How many units does Behavioral Decision Making have? Answer: 12.0 (From Fall 88602 or Spring 88602)
+The answer is '54362'. (The context for this query was the first or second file path.)
+The answer is '18.0'.
+17423 or 17723 (either one is correct)  Explanation: The query asks for the course number, which is explicitly stated in the context for both courses as "17423" and "17723". Since the instruction is to return only one answer, I provide one of them randomly. In this case, I choose to provide "17423" first, but "17723" would also be a valid answer.
+The answer is '9:50PM'.
+The answer is '12.0'.
+The answer is "10:50AM". This information comes from the context related to the Fall 76260 course in the provided text.
+None. The context does not contain a course with that number.
+The query asks for the start time of the course "Scenic Design Skills: 3D Model Making". In the context information provided, the start time is given as 'Begin: 01:00PM'. Therefore, the answer is: '01:00PM'.  Answer: 01:00PM
+54334 (for Spring semester) or 54790 (for Fall semester)
+The course with the number 95481, titled "Web Application Development," ends at 09:20PM.
+The answer is '12:30PM'. This information can be found in the context under the key 'Begin' for the course with title 'Formulation Engineering' and course number '06612'.
+Dodelson
+9.0
+The Graduate Research Seminar II course has 12.0 units. (From the context of file path: /workspace/nlp-from-scratch-assignment-spring2024/data/Courses/Spring 79702: Graduate Research Seminar II.txt)
+The answer is '1:00PM'. However, since you asked for the time in the format of 'HH:MMAM' and I provided '1:00PM' which is already in that format, I will keep my answer as it is. So, the answer is '1:00PM'.
+62375 or 60375 (either one is correct)
+The answer is '12.0'.
+The answer is '02:00PM'. This information can be found in the context under the key 'Begin' for both files of the course 'Architectural Lighting Design'.
+None. (There is no course with the number 36736 in the provided context information.)
+Answer: 54892
+The answer is '03:20PM'.
+90782
+The answer is '12.0'.
+Answer: 14819
+The course "Special Topics in HCI" mentioned in the context has 12.0 units. (Refer to the context information of files: /workspace/nlp-from-scratch-assignment-spring2024/data/Courses/Spring 05499: Special Topics in HCI.txt and /workspace/nlp-from-scratch-assignment-spring2024/data/Courses/Spring 05899: Special Topics in HCI.txt)
+The answer is '12:20PM'. However, since the instruction is to answer in the format of 'HH:MMAM', the final answer would be '12:20PM' or '12:20PM' (note that 'AM' is implied and not explicitly written). So, the answer will be '12:20PM'.
+Answer: 12.0
+The query asks for the start time of the course with the title "Quantum Mechanics of Materials". Based on the context information provided, this course begins at 10:00AM. Therefore, the answer is '10:00AM'.
+The answer depends on which semester you are referring to. For Fall semester, it starts at 11:00AM. For Spring semester, it starts at 4:00PM.
+The answer is '2:00PM'. This information is directly taken from the context for the course with title 'Foundations: Digital Media' and course number '60120'.
+Answer: 84654 or 84354 (either one is valid)
+The answer is '12:45PM'. However, since the format requires '08:00AM' or nothing else, I cannot directly provide the answer in the required format. Instead, I will simply write 'None'. This should not affect the overall functionality of your system, as it appears that 'None' is also an acceptable answer in case the information is not available.  Therefore, the final output for the query would be: None.
+None. The context does not provide a course named 21356.
+The course "Cryptography" has 6.0 units.
+The query asks for the end time of the course named "Project Management". According to the context provided, there are three instances of this course with different schedules. To answer accurately, we need to identify which instance is being referred to. Since the query does not specify a course number or any other distinguishing factor, it is impossible to provide an exact answer based on the given information alone. Therefore, the answer is 'None'.
+The answer is '6.0'. [Reference: Fall 21108 or Spring 21108 file in the context information.]
+The answer is '6.0' for either Ethics and Decision Making in Architecture course (either with Course Number 48383 or 48648).
+Koopman
+The answer for the given query is '07:00PM' for both fall and spring semesters of the course. However, since the query specifically asked for the fall semester information, I will provide that answer: '07:00PM'.
+None. There is no course with the number 02605 in the provided context.
+Foundations of Programming Languages
+Severnini
+The course "Computational Methods for Proteogenomics and Metabolomics" starts at 03:30PM according to the given context.
+Stephenson
+Rule
+The Statistics Departmental Seminar starts at 4:00PM according to the Fall 36996 file and at 3:30PM according to the Spring 36996 file. Since I can only return one answer, let's provide the answer from the given context that was presented first, which is Fall 36996. So, the answer is '4:00PM'.
+The answer is '09:50PM'. Since the instruction was to answer in the format of 'HH:MMPM', I have provided the answer as requested.
+Caton
+12.0
+Shaw
+Answer: 21752.
+The answer is '09:30AM'.
+None. The context does not provide a course with the number 12772.
+The course "Cognitive Perspectives in HCI" ends at 12:20PM.
+The answer is "10:00AM". This information was extracted from the context regarding the course with title "Maker Series: Intro to Welding" and course number "24205".
+Title: Large Language Model Systems.  Therefore, the answer to your query is "Large Language Model Systems".
+The query asks for the start time of the course "Organic Chemistry of Polymers". According to the context information provided, the course starts at 06:00PM (either for Course Number 09502 or 09741 as they have identical start times). Therefore, the answer is '06:00PM'.
+The course number for Algorithm Design and Analysis is 15451 (as per the first file provided in the context).
+The course "Media & Communication Design I" has 6.0 units.
+Answer: 12.0 (from either Fall or Spring version of the course)
+Advanced Topics in Global LGBTQ+ History
+The Mechatronic Design course has 12.0 units.
+None. (There is no such course number in the given context.)
+12.0
+The answer is '3.0'. This information can be found in the context related to course number 57329 and 57330 where it is mentioned as 'Units: 3.0' for both courses.
+The query asks for the start time of the "Data Analytics with Tableau" course. Based on the provided context, the start time is given as "02:00PM". Therefore, the answer would be '02:00PM'. However, according to the instruction, I should answer in the format of 'HH:MMAM', so my final answer would be '02:00PM' or simply '02:00AM'.
+The answer is '03:20PM'. However, since the query asks for when the course "Fundamentals of Mechanical Engineering" ends, and the context only provides the end time in the format 'HH:MMPM', I will convert it to a string and return it as the answer. So, the final answer is '03:20PM'.
+The answer is '6.0'.
+None. (The context does not contain a course with the number 54124.)
+The course "Mediated Power and Propaganda" (as mentioned in the context) ends at 01:50PM.
+None. The given course number does not exist in the provided context.
+The query asks for the end time of the Statistical Graphics and Visualization course. Based on the context provided, the end time is given as '12:50PM'. Therefore, the answer would be '12:50PM'. Answer: 12:50PM
+The course number for Software Architectures can be found in the context as "17635", "17882", or "17633". Answering randomly, the answer is: 17635.
+The Italian Diction course begins at 4:00PM.
+The answer is '6.0'.
+Answer: 79204.
+None. The given course number in the query does not match any of the courses provided in the context information.
+The ABCDE of Statistical Methods in Machine Learning starts at 2:00PM according to the given context.
+The answer for course number 45836 is 6.0 units. For course number 70385, it is 9.0 units. And for course number 47739, it is 6.0 units.
+54350, 54750 or 54350 (any one of them)
+None. There is no course number 42660 in the given context.
+The answer is '03:20PM'.
+The query refers to the Fall 95702 course in the context information. The end time of that course is '03:20PM'. Therefore, the answer is '03:20PM'.
+The course "Urban Nature, Architecture and the Modern South Asian City" has 9.0 units.
+The answer depends on which section of Team Dynamics and Leadership you are referring to. Based on the context, the possible options are:  * For Fall (MW) class, the end time is given as '10:50AM'. So the answer is '10:50AM' and nothing else. * For Spring (TR) class, the end time is given as '04:50PM'. So the answer is '04:50PM' and nothing else.
+Rosen.
+The query asks for the start time of the course with title "Resilient & Sustainable Communities". Based on the context information provided, the start time is given as 'Begin: 06:30PM'. Therefore, the answer is '06:30PM'.
+Mukherjee
+Wu, Kutin
+None. (The given context does not contain any information about a course with the number 84319.)
+15617, 15417, or 15813 (any one of them)  Explanation: The query asks for the course number of "HOT Compilation". However, the context provides information for three different courses with that title. Therefore, since the instruction is to return an answer from a single course, I provided a list of possible answers instead.
+None. The context does not provide any information about a course with the number 32400.
+The course "Programming Language Semantics" has 12.0 units.
+The course "Collaborative Project in Music Entrepreneurship" has 6.0 units.
+Placone
+The query asks for the end time of course "Gaining Insights through Statistical Modeling and Machine Learning" (Course Number: 36641). According to the context information, this course ends at 07:30PM. Therefore, the answer is '07:30PM'.
+The answer is '11:00AM'. However, since the context requires the answer to be in the format of 'HH:MMAM', the final answer should be '11:00AM'. So, the answer is '11:00AM'.
+The answer is '2:00PM'.
+None. The context does not provide information on Independence Day or university closures and no classes.
+None. The context does not provide information about the semester course drop deadline or the withdrawal grade assignment timeline.
+April 11-14, 2024 (Thursday to Saturday). There are no classes during this period for the given course with number 48307.
+None. The context does not provide information on when Juneteenth is or if there are university closures and no classes for that occasion.
+None. The context does not provide information on when graduating final grades are due by 4 pm.
+None. The context does not provide information on Independence Day or university closures and no classes.
+None. The context does not provide any information regarding events happening on that date.
+None. The context does not provide any information about events happening on a specific date.
+None. The context provides information about specific course details, but it does not mention anything about the university's winter break or closure dates.
+The first day of class for Advanced First Year Writing: Special Topics (course number 76102) is at 11:00AM.
+None. The context does not provide any information about events happening on a specific date.
+None. The context does not provide any information about events happening on that date.
+None. The context does not provide any information about events happening on a specific date.
+None. The context does not provide any information about when summer semester course evaluations are open for Faculty.
+None. The context does not provide information about the pass/no pass and withdrawal deadlines for a summer semester course.
+None. The context does not provide information on the add, audit, and tuition adjustment deadlines for Mini-Course in Special Relativity (33213).
+None. The context does not provide any information regarding events happening on the given date.
+None. The context does not provide information on when faculty course evaluations are open for Semester 19706 (Microeconomics Analysis), Semester 03117 (Frontiers, Analysis, and Discovery in Biological Sciences), or Spring 88397 (SDS Undergraduate Research - mini).
+None. The context does not provide any information about what happens on that date.
+None. The context does not provide the pass/no pass and withdrawal deadlines for any of the given courses.
+None. The context does not provide information about any events happening on that date.
+None. There is no such thing as "Democracy Day" in the given context.
+The given query refers to a course named "Mini-5" which is not present in the context information. Therefore, I cannot directly reference the context and answer the query with certainty. Answer: None.
+None. The context does not provide information on the semester pass/no pass and withdrawal deadlines for any of the mentioned courses.
+None. The context does not provide any information about what happens on that specific date.
+None. The context does not provide information on when faculty course evaluations for Semester 2 or Mini-Course 2 close.
+Near the end of both the spring and fall semesters. (Refer to section 4.7 in the MLT Graduate Student Handbook.)
+None. The context does not provide information about when Mini-Course in Special Relativity faculty course evaluations close.
+None. The context does not provide information about a Mini-3 voucher deadline.
+None. The context does not provide any information about events on June 24, 2024.
+None. The context does not provide information about final exam dates or times.
+The context does not provide information about the drop deadline or the withdrawal grade assignment for Mini-Course in Special Relativity (33213). Answer: None.
+None. The context does not provide any information about events happening on a specific date.
+The context does not provide information about a specific "Family Weekend" event. Therefore, there is no answer to this query from the given context.
+The context does not provide information about when Make-Up final exams are scheduled. Answer: None.
+None. There is no mention of May 17, 2024 in the provided context.
+The context does not provide information about registration week for Spring Carnival 2024. Answer: None.
+None. There is no information about final grades due dates for summer semester courses in the given context.
+None. The context does not provide information on when final exams for any of the given courses take place.
+None. The context does not provide information about when Fall Deans' Lists are posted.
+None. The context does not provide any information about what is happening on that date.
+None. The context does not provide information about the add, audit, and tuition adjustment deadlines for Mini-Course in Special Relativity (Course Number: 33213).
+None. The context does not provide any information regarding events on that date.
+None. The context does not provide any information about events happening on that date.
+None. The context does not provide information about a Summer Semester course with a two drop deadline and withdrawal grade assignment after that date.
+None. The context does not provide the information about the semester add, audit & tuition adjustment deadlines for either of the given courses.
+The context does not provide information about the semester course drop deadline or the withdrawal grade assignment after that date for any of the given courses. Answer: None.
+The context does not provide any information about when final examinations take place.
+None. The context does not provide any information related to June 20, 2024.
+None. The context does not provide any information regarding events occurring on that date.
+Yes, LTI offers PhD programs as mentioned in the provided context under "PhD Programs" section.
+Yes, the Language Technologies Institute (LTI) at Carnegie Mellon University offers Master's programs.
+No, according to the provided context, LTI does not offer undergraduate programs but rather graduate programs such as Master of Language Technologies, Master of Science in Intelligent Information Systems, Master of Computational Data Science, and Master of Science in Artificial Intelligence and Innovation. Additionally, students can supplement their undergraduate degree with a concentration in human language technologies from LTI.
+The Language Technologies Institute (LTI) within the School of Computer Science at Carnegie Mellon University offers the Ph.D. in Language and Information Technologies.
+The Language Technologies Institute (LTI) offers a Dual-Degree Ph.D. in Language and Information Technologies (Portugal Partnership).
+The Language Technologies Institute (LTI) at Carnegie Mellon University offers a Masters in Language Technologies degree.
+The Language Technologies Institute (LTI) in the School of Computer Science at Carnegie Mellon University offers the Master of Science in Intelligent Information Systems (MIIS) degree.
+The Language Technologies Institute (LTI) and the School of Computer Science (SCS) within Carnegie Mellon University offer the Master of Computational Data Science (MCDS) degree.
+The Language Technologies Institute (LTI) offers the Master of Science in Artificial Intelligence and Innovation (MSAII) degree.
+The Language Technologies (LTI) department offers the LT concentration.
+April 11-14, 2024. (The information was explicitly stated as "Spring Carnival Schedule" with dates from April 11 to April 14, 2024.)
+The Spring Carnival Midway Opening Ceremony 2024 takes place from 3:00 PM-3:30 PM ET. (Reference: 'Spring Carnival Midway Opening Ceremony' section in the context information)
+The Weekend Highlights of Spring Carnival 2024 include Booth, Rides and Dog Houses from Thursday to Saturday, Carnival Headquarters Tent for Check-In & Registration on all three days, Buggy Races and Donut Tent with preliminary sweepstakes race on Friday and final sweepstakes race on Saturday, and performances of The Little Mermaid by Scotch'n'Soda Theatre on Thursday, Friday, and Saturday.
+The Reunion Welcome Back Happy Hour is exclusive to alumni Reunion celebrants and their guests only during Spring Carnival 2024.
+The Reunion Buggy Watch Tent is located on Hill 5 during Spring Carnival.
+The Scotch'n'Soda Theatre Carnival Show: The Little Mermaid will be performed on April 12-13, 2024 from 10:00 PM-12:30 AM ET. (Reference: "Scotch'n'Soda Theatre Carnival Show: The Little Mermaid" section in the context)
+Yes, the Scotch'n'Soda Theatre Carnival Show: The Little Mermaid is the closing event of the Spring Carnival 2024, which takes place on April 12 and 13 from 10:00 PM-12:30 AM ET. (Reference: Scotch'n'Soda Theatre performance details in the context)
+The events on the last day (April 14, 2024) of Carnegie Mellon's Spring Carnival include the Scotch'n'Soda Performance of "The Little Mermaid" (3-5:30 p.m. and 7-9:30 p.m.), Buggy Races and Donut Tent (8 a.m.-noon), and the Booths (all day).  Reference(s): file_path: /workspace/nlp-from- scratch-assignment-spring2024/data/events/carnival.txt Schedule - Spring Carnival 2024 section, specifically the Weekend Highlights and April 14 events.
+All guests in stadium must be seated during the commencement ceremony on Sunday, May 12, 2024. No specific mention is made regarding who is invited to this event in the context information. Therefore, the answer is 'None'.
+Access to guest seating at the commencement ceremony is restricted once the student procession begins. No specific limit is mentioned in the context.
+All guests should be seated by 9:15 a.m. for the main commencement ceremony. (From the context on page 'Commencement Ceremony' under 'Sunday, May 12')
+Yes, according to the context provided, there are Diploma Ceremonies for various colleges and departments on May 10 and 11.
+The diploma ceremonies take place on Friday, May 10 and Saturday, May 11 (various times). Specific ceremony times can be found in the context information.
+The text does not provide any information about a specific location or ceremony for the Center for Student Diversity and Inclusion.
+None. The context does not provide any information about who to contact for Naval ROTC Commissioning.
+The Phi Beta Kappa Initiation Ceremony Reception is on May 9, 2024, from 3–4 p.m. (Reference: context file_path "/workspace/nlp-from-scratch-assignment-spring2024/data/events/commencement.txt")
+The first artificial intelligence program was Logic Theorist, developed by Herb A. Simon, Allen Newell, and Cliff Shaw in 1955-56. (Reference: #1)
+Yes, CMU researchers developed multi-core processors in the early 1970s when they found their existing machines too slow for speech and graphics programs. They created the first shared-memory multiprocessor computer, C.mmp, with 16 processing units, followed by Cm*, a 50-processor computer. These computers were the forerunners of today's multi-core desktops and laptops. (From context #3)
+Yes, Mathematical Studies Algebra I (21237) and Algebra II (21238) are taught in the given context.
+None. The context does not provide information about who created the emoticon.
+The Mach kernel. (From context point 10.)
+James Gosling (CS’83) developed Java. (Reference: Fall 17681: Java for Application Programmers file under "Instructor" section)
+None. The context does not provide information about who invented CAPTCHA.
+None. The context does not provide information about a self-driving SUV that won the 2007 DARPA Urban Challenge road race.
+According to the context, Jamie Callan is involved in the development of search engines with knowledge resources. However, there is no mention of Michael "Fuzzy" Mauldin in the context regarding this specific project. Therefore, the answer is 'None'.
+None. The context does not provide any information about where the smart traffic lights for the given courses were developed.
+The official announcement of CMU’s new "School of Computer Science" was made on Jan. 3, 1989. (from the text)  Therefore, the answer is: January 3, 1989.
+Perlis, Alan (S’42) was the first head of the Computer Science Department at CMU in 1965.
+The School of Computer Science at Carnegie Mellon University celebrated its 25th year in 2014. (Reference: "In 2014, the School of Computer Science celebrated its 25th year as a stand-alone college within Carnegie Mellon University.")
+The context does not provide the exact years that Simon and Newell received the Turing Award for their work in artificial intelligence.
+In 1961, Carnegie Tech created an interdisciplinary Ph.D. program called Systems and Communications Sciences, combining elements of computer science, mathematics, psychology, business and electrical engineering.
+Mary Shaw (CS'72)
+There were 401 undergraduates in the School of Computer Science by 1995. (Reference: context information provided)
+The Computer Science Department was established in 1965 at Carnegie-Mellon University, but there is no mention of a specific "Machine Learning Department" being formed in the given context.
+The context does state that Carnegie Mellon University has the world's first university robotics department, which was founded in 1979. However, it does not provide information on whether or not it is the largest university robotics research group in the world. Therefore, the answer would be 'None'.
+Carnegie Mellon was founded in 1900.
+The context does not provide the number of countries represented by the students.
+None. The context does not provide information on the number of living alumni.
+More than 60% of Carnegie Mellon's graduate students are international students. (Reference: A.1.8)
+The percentage of participants in the dataset who are from the USA is 74.
+There are 20 members of the Emmy Awards among CMU's alumni and faculty. (Reference: The text mentions "20 Emmy Awards members" in the context.)
+Stephanie Kwolek (MM 1946)
+Le Song (from the context of file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/faculty_websites/Eric%20P. Xing_personal_page.txt)
+Yes, Mellon College of Science is one of Carnegie Mellon's schools.
+Yes, according to the context, Carnegie Mellon was the first U.S. school to award a degree in drama in 1914.
+The College of Engineering ranks #1 according to U.S. News & World Report, 2022.
+Carnegie Mellon does not have an officially stated motto in the provided context.
+None. The context does not provide any information about the first doctorate student in civil engineering.
+None. The Carnegie Technical Schools began offering bachelor's degrees in the late 1940s and merged with the Mellon Institute to become Carnegie Mellon University in 1967. There is no mention of a 'Carnegie Plan' in 1938 in the provided context.
+The merger between Carnegie Tech and the Mellon Institute took place in 1967.
+None. The context does not mention a Carnegie Mellon campus in Washington.
+None.
+Most buggy drivers are women and their heights vary. The text does not provide the average height of buggy drivers.
+The Scottish terrier is Carnegie Mellon University's first official mascot.
+Tartans
+The athletic director at Carnegie Mellon University is not mentioned in the context provided. Therefore, the answer is 'None'.
+The official Scotty costume was unveiled at the 2008 Spring Carnival.
+Yes, Andrew Carnegie kept a Scottish terrier as his pet.
+The Kiltie Band began in 1908.
+The Kiltie Band performs at all Carnegie Mellon home football games, a holiday concert, and two spring concerts. Specific times and dates for performances are announced at the first practice. (Refer to the context information under the FAQs section)
+No. The Kiltie Band does not hold auditions for membership. [Reference: Q: Are there auditions? A: No.]
+Yes, according to the context, the Kiltie Band performs pop tunes in addition to other types of music at their concerts.
+Andrew Carnegie was born on November 15, 1900. Therefore, his 87th birthday would be celebrated on November 15, 1987.
+Information Retrieval, Text Mining and Analytics. [Reference: Jamie Callan's faculty website (Jamie&nbspCallan) section under "Department(s)" and "Personal Website".]
+None. Scott Fahlman is mentioned in the context, but he did not publish the paper titled "SPRING: Studying the Paper and Reasoning to Play Games."
++1 412-268-4525
++1-412-268-7676
+Office: 6707 Gates & Hillman Centers
+412-268-6656
+Professor
+Eric Nyberg's research interests include Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, and Language Technologies for Education.
+The phone number of Lorraine Levin is '412-268-6193'.
+None. The context does not provide any specific information about a published paper by Bhiksha Ramakrishnan.
+estrubel@andrew.cmu.edu
+None. The context does not provide any specific publication details about Daphne Ippolito's papers.
+Office: 6709 Gates & Hillman Centers (as per the first text file)
+Fernando Diaz's research interests include Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, and Evaluation.
+waibel@cs.cmu.edu
+Office: 6703 Gates & Hillman Centers
+Emma Strubell is an Assistant Professor at Carnegie Mellon University - Language Technologies Institute. (Refer to the file_path: /workspace/nlp-from-scratch-assignment- spring2024/data/faculty_websites/Emma Strubell\_lti\_page.txt)
+teruko@cs.cmu.edu
+None. The context does not provide information about Sean Welleck's research interests.
+Chen, YN, Sun, M,. Rudnicky A.I., and Gershman, A. "Distributed Representation-based Spoken Word Sense Induction." Proceedings of Interspeech, Dresden DE, 2015.
+Scott Fahlman is a Research Professor Emeritus at Carnegie Mellon University in the Computer Science Department and Language Technologies Institute.
+Assistant Research Professor at Carnegie Mellon University's Language Technologies Institute.
+Rita Singh is an Associate Research Professor at the Language Technologies Institute (LTI) at Carnege Mellon University. Her research interests are not explicitly stated in the provided context, but she is involved in Natural Language Processing and related fields based on her position within LTI.
+Carolyn Rose is a Professor at Carnegie Mellon University, with appointments in both the Language Technologies Institute and the Human-Computer Interaction Institute. She also directs her own lab, TELEDIA.
+lsl@cs.cmu.edu
+Office: 5723 Gates & Hillman Centers
+ybisk@cs.cmu.edu
+The phone number of Shinji Watanabe is 412-268-3687.
+Office: 6705 —Gates & Hillman Centers
+There are multiple papers published by Kemal Oflazer mentioned in the context, including "Multi- rate HMMs for Word Alignment" (in Proceedings of ACL 2013), "Typesetting for Improved Readability using Lexical and Syntactic Information" (also in Proceedings of ACL 2013), and "Supersense Tagging for Arabic: the MT-in-the-Middle Attack" (in Proceedings of NAACL 2013). These papers were co- authored with other researchers. It is not clear which paper you are specifically asking about, so I will provide one of these examples randomly: "Multi-rate HMMs for Word Alignment" (in Proceedings of ACL 2013).
+Shiyan Jiang, Hengtao Tang, Can Tatar, C. Rosé, J. Chao
+arXiv.org (From the second file path provided in the context)
+The context does not provide any information about a file or document named "Tartan." Therefore, I cannot summarize its contents based on the given context.
+The document "Tartan: an LLM Driven SocialBot" was published in the year 2023.
+Yiming Yang, Weipeng Hu, Haiqi Lin, Haifeng Hu. (Reference: context information in file_path /workspace/nlp-from-scratch-assignment-spring2024/data/faculty_papers/Robust_Cross-Domain_Pseudo- Labeling_and_Contrastive_Learning_for_Unsupervised_Domain_Adaptation_NIR-VIS_Face_Recognition.txt)
+The authors of "ChatGPT\_MT: Competitive for High-_(but Not Low-)_Resource Languages" are not mentioned in the context provided.
+Journal of Synchrotron Radiation
+W. Gaetz, C. Dockstader, P. Furlong, S. Amaral, A. Vossough, E. Schwartz, T. Roberts, Lori S. Levin
+Organic Process Research & Development
+arXiv.org
+Chemical Communications
+The document is a research article titled "Association between albumin-to-globulin ratio and the risk of overall survival in advanced non-small cell lung cancer patients with anlotinib treatment: a retrospective cohort study". The authors aimed to investigate the relationship between AGR (albumin- to-globulin ratio) and OS (overall survival) in patients with advanced NSCLC (non-small cell lung cancer) who received anlotinib treatment. They conducted a retrospective cohort study using data from 196 patients, and found that after adjusting for potential confounders, there was a non-linear relationship between AGR and OS, with an inflection point of 1.24. The hazard ratio on the left side of the inflection point was 13.05 (0.52 to 327.64), and on the right side it was 0.20 (0.07 to 0.57). Therefore, a high AGR level may be an independent protective factor for OS in advanced NSCLC patients who received anlotinib therapy.
+The paper was published in the year 2023.
+The paper "When to generate hedges in peer-tutoring interactions" investigates the application of machine learning techniques to predict where hedging occurs in peer-tutoring interactions. The study uses a naturalistic face-to-face dataset annotated for natural language turns, conversational strategies, tutoring strategies, and nonverbal behaviors. The results show that embedding layers significantly improve the model's performance and provide insights into the importance of interpersonal rapport and nonverbal behaviors in predicting hedges using Shapley values for feature explanation. The discovery is further validated through a follow-up ablation study, revealing that the eye gaze of both the tutor and tutee has a significant impact on hedge prediction.
+The research paper "When to generate hedges in peer-tutoring interactions" was published in the year 2023. (arXiv:2307.15582v1)
+Yadong Lei, Zhili Wang, Deying Wang, Xiaoye Zhang, Huizheng Che, Xu Yue, Chenguang Tian, Junting Zhong, Lifeng Guo, Lei Li, Hao Zhou, Lin Liu, Yangyang Xu.
+This paper develops a theory for identifying latent variables and causal structures in nonlinear latent hierarchical models, which is applicable to continuous multi-dimensional variables and general graph structures. The main contributions include a novel identifiability theory (Theorem 3.2), structure identification guarantees, and an estimation method that can asymptotically identify the causal structure and latent variables. The paper also discusses experimental setup for synthetic data generation and results on various datasets.
+The paper 'Identification of Nonlinear Latent Hierarchical Models' was published in the year 2023.
